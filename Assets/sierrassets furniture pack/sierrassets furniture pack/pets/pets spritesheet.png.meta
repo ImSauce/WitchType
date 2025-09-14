@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 34e326fdc05acb44aabd05d6fd55068b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8104194998668497942
+    second: pets spritesheet_0
+  - first:
+      213: 4333237494787340401
+    second: pets spritesheet_1
+  - first:
+      213: -4226371973369743371
+    second: pets spritesheet_2
+  - first:
+      213: -4867645103089805949
+    second: pets spritesheet_3
+  - first:
+      213: 6731975491410895756
+    second: pets spritesheet_4
+  - first:
+      213: 5081710616583623223
+    second: pets spritesheet_5
+  - first:
+      213: -4499166451391095533
+    second: pets spritesheet_6
+  - first:
+      213: -6407502965050574673
+    second: pets spritesheet_7
+  - first:
+      213: -8901444377405330954
+    second: pets spritesheet_8
+  - first:
+      213: -6846222771940187692
+    second: pets spritesheet_9
+  - first:
+      213: -4990038600164098482
+    second: pets spritesheet_10
+  - first:
+      213: -1939801743609544793
+    second: pets spritesheet_11
+  - first:
+      213: -7107022607793884432
+    second: pets spritesheet_12
+  - first:
+      213: 2579294348368319774
+    second: pets spritesheet_13
+  - first:
+      213: -8122227920123087494
+    second: pets spritesheet_14
+  - first:
+      213: -7082439189599058798
+    second: pets spritesheet_15
+  - first:
+      213: 6008750265982878693
+    second: pets spritesheet_16
+  - first:
+      213: -8335066059270016009
+    second: pets spritesheet_17
+  - first:
+      213: 6596345551973895571
+    second: pets spritesheet_18
+  - first:
+      213: 5503873298535242137
+    second: pets spritesheet_19
+  - first:
+      213: -5884120167050018869
+    second: pets spritesheet_20
+  - first:
+      213: 137717767298337035
+    second: pets spritesheet_21
+  - first:
+      213: -7705581296401665536
+    second: pets spritesheet_22
+  - first:
+      213: -4326303778349351512
+    second: pets spritesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pets spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebedd9269d188f80800000000000000
+      internalID: -8104194998668497942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178f3340b80c22c30800000000000000
+      internalID: 4333237494787340401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f731ae1519e855c0800000000000000
+      internalID: -4226371973369743371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38599a19196a27cb0800000000000000
+      internalID: -4867645103089805949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ae2aba08cc6d50800000000000000
+      internalID: 6731975491410895756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7325cc8b1ecd58640800000000000000
+      internalID: 5081710616583623223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9a7733ffbf81c0800000000000000
+      internalID: -4499166451391095533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8f5ee600af317a0800000000000000
+      internalID: -6407502965050574673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f96bd82087b77480800000000000000
+      internalID: -8901444377405330954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1a05969a45df0a0800000000000000
+      internalID: -6846222771940187692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e3bbdd452dfbab0800000000000000
+      internalID: -4990038600164098482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af387977907415e0800000000000000
+      internalID: -1939801743609544793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f276c3c798ce5d90800000000000000
+      internalID: -7107022607793884432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e159aad4b8e7bc320800000000000000
+      internalID: 2579294348368319774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75bd447dbc084f80800000000000000
+      internalID: -8122227920123087494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29484a8d41f16bd90800000000000000
+      internalID: -7082439189599058798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e381fbf78e536350800000000000000
+      internalID: 6008750265982878693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3bbc58495e35c80800000000000000
+      internalID: -8335066059270016009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc121a45dea8b50800000000000000
+      internalID: 6596345551973895571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99953ffaa9fa16c40800000000000000
+      internalID: 5503873298535242137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf754b22e7675ea0800000000000000
+      internalID: -5884120167050018869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09c317649549e100800000000000000
+      internalID: 137717767298337035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b51803a6401590800000000000000
+      internalID: -7705581296401665536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7e05a2a1e5f3c0800000000000000
+      internalID: -4326303778349351512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pets spritesheet_0: -8104194998668497942
+      pets spritesheet_1: 4333237494787340401
+      pets spritesheet_10: -4990038600164098482
+      pets spritesheet_11: -1939801743609544793
+      pets spritesheet_12: -7107022607793884432
+      pets spritesheet_13: 2579294348368319774
+      pets spritesheet_14: -8122227920123087494
+      pets spritesheet_15: -7082439189599058798
+      pets spritesheet_16: 6008750265982878693
+      pets spritesheet_17: -8335066059270016009
+      pets spritesheet_18: 6596345551973895571
+      pets spritesheet_19: 5503873298535242137
+      pets spritesheet_2: -4226371973369743371
+      pets spritesheet_20: -5884120167050018869
+      pets spritesheet_21: 137717767298337035
+      pets spritesheet_22: -7705581296401665536
+      pets spritesheet_23: -4326303778349351512
+      pets spritesheet_3: -4867645103089805949
+      pets spritesheet_4: 6731975491410895756
+      pets spritesheet_5: 5081710616583623223
+      pets spritesheet_6: -4499166451391095533
+      pets spritesheet_7: -6407502965050574673
+      pets spritesheet_8: -8901444377405330954
+      pets spritesheet_9: -6846222771940187692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

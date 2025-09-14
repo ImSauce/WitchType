@@ -1,0 +1,58 @@
+Bundle contents
+
+520 sprites of which 213 unique!
+
+This pack contains the following unique sprites (the number of variants* will be listed behind an asset like this):
+[variants can be anything from smaller or bigger sized, different pattern, recolor, when a different sprite isn't unique enough I will list it as a variant]
+
+9 Tables (+2 variants, +1 broken variant, multiple perspectives)
+7 Small tables (+12 variants, +1 broken variant)
+17 Chairs/ Stools (+11 variants, +2 broken variants, multiple perspectives)
+6 Floor cushions (+4 variants)
+5 Couches/ benches (+2 variants)
+4 Mirrors (+1 variant)
+6 Tvs
+3 Tv channels
+7 Monitors
+3 Monitor faces
+3 Pcs (multiple perspectives)
+7 Bathtubs & showers (+2 variants)
+5 Gas stoves (on/off and open/ closed states, multiple perspectives)
+8 Beds (+3 variants, +1 broken variant)
+19 Paintings (+1 variant, +4 empty canvas variants)
+3 painter's easel with empty canvas
+4 Washing machines (+4 variants)
+3 Dryers (+2 variants)
+9 Whiteboards/ Blackboards (+7 variants, +2 broken variants)
+7 Fridges (+3 variants, open/close states, multiple perspectives)
+1 Mini fridge (+2 variants, open/close states)
+2 Complete kitchens
+1 Arcade machine
+3 Bathroom/ Kitchen cabinets (+3 variants)
+2 Bathroom props
+3 Toilets
+5 Plants
+1 Pet kitten (all walking directions animated)
+1 Pet bunny (all walking directions animated)
+2 Radiators (7 variants, multiple perspectives)
+5 Wash basins (+8 variants, multiple perspectives)
+2 Microwaves (open/close state)
+1 Phone
+1 Espresso machine
+7 Closets (open/close state)
+1 Treasure chest (+1 variant, +1 broken variant)
+2 Air conditioners (animated)
+4 Pianos
+6 Heaters (+3 variants)
+1 Fan (animated)
+8 lamps (5 variants, multiple perspectives)
+1 Thermostat
+5 Doors (+2 variants)
+4 Stairs (+3 variants, multiple perspectives)
+1 House sign
+1 Mailbox (post received/ collected state)
+1 Snack machine (+1 variant)
+1 Coffee grinder
+1 Suitcase (+2 variants)
+1 Fireplace (+1 variant)
+3 Desks (+9 variants, +2 broken variants)

@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Steam\steamapps\common\Aseprite\aseprite.exe" -b colored.aseprite --save-as {slice}.png
+:: this is a bat file used to export individual images from a aseprite file, change the path to where your aseprite.exe is located and change the name of the sheet, make sure to put the bat file in the same folder as the aseprite file

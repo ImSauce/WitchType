@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: b679801b02c6bbd4f917415c8d40bb08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2978871962631697699
+    second: pets spritesheet grey outline_0
+  - first:
+      213: -714141307010925945
+    second: pets spritesheet grey outline_1
+  - first:
+      213: 15841243183080407
+    second: pets spritesheet grey outline_2
+  - first:
+      213: 171904601457602905
+    second: pets spritesheet grey outline_3
+  - first:
+      213: -7301418767805424448
+    second: pets spritesheet grey outline_4
+  - first:
+      213: -9118315631351712698
+    second: pets spritesheet grey outline_5
+  - first:
+      213: 1860960710532790067
+    second: pets spritesheet grey outline_6
+  - first:
+      213: 7778733151687718269
+    second: pets spritesheet grey outline_7
+  - first:
+      213: -4364450363796644430
+    second: pets spritesheet grey outline_8
+  - first:
+      213: -5795234654695440255
+    second: pets spritesheet grey outline_9
+  - first:
+      213: 7593725953069217892
+    second: pets spritesheet grey outline_10
+  - first:
+      213: 1169618879310456986
+    second: pets spritesheet grey outline_11
+  - first:
+      213: -4601641325601168713
+    second: pets spritesheet grey outline_12
+  - first:
+      213: -8103109037892078112
+    second: pets spritesheet grey outline_13
+  - first:
+      213: 6354208324436433799
+    second: pets spritesheet grey outline_14
+  - first:
+      213: -8978201386151855150
+    second: pets spritesheet grey outline_15
+  - first:
+      213: 7231770527715684669
+    second: pets spritesheet grey outline_16
+  - first:
+      213: 4875795746139652205
+    second: pets spritesheet grey outline_17
+  - first:
+      213: 951149560390347289
+    second: pets spritesheet grey outline_18
+  - first:
+      213: 4040592589693468740
+    second: pets spritesheet grey outline_19
+  - first:
+      213: 1943428456620167739
+    second: pets spritesheet grey outline_20
+  - first:
+      213: -8656453207934334897
+    second: pets spritesheet grey outline_21
+  - first:
+      213: -2270411096434886569
+    second: pets spritesheet grey outline_22
+  - first:
+      213: 8680303881258666671
+    second: pets spritesheet grey outline_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda87f39bbbe8a6d0800000000000000
+      internalID: -2978871962631697699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a3e24d34cd616f0800000000000000
+      internalID: -714141307010925945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d36ab8d687483000800000000000000
+      internalID: 15841243183080407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951b221035ab26200800000000000000
+      internalID: 171904601457602905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 16
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc5694b0562caa90800000000000000
+      internalID: -7301418767805424448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 16
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644b3638e3c357180800000000000000
+      internalID: -9118315631351712698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f34c08e573d910800000000000000
+      internalID: 1860960710532790067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75b6e4869c93fb60800000000000000
+      internalID: 7778733151687718269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd931a948b5e63c0800000000000000
+      internalID: -4364450363796644430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18048d839c0339fa0800000000000000
+      internalID: -5795234654695440255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468fa526585526960800000000000000
+      internalID: 7593725953069217892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e3ef7c225b3010800000000000000
+      internalID: 1169618879310456986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e8cb489fa320c0800000000000000
+      internalID: -4601641325601168713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e57f2c1349fb8f80800000000000000
+      internalID: -8103109037892078112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b1dd61eceae2850800000000000000
+      internalID: 6354208324436433799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbbf786865076380800000000000000
+      internalID: -8978201386151855150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31f1a9baf86c5460800000000000000
+      internalID: 7231770527715684669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c306e56e4aa340800000000000000
+      internalID: 4875795746139652205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ae55b5c79233d00800000000000000
+      internalID: 951149560390347289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44041c66d81131830800000000000000
+      internalID: 4040592589693468740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321b3372e178fa10800000000000000
+      internalID: 1943428456620167739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f488846dba91ed780800000000000000
+      internalID: -8656453207934334897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758b4ee0321ed70e0800000000000000
+      internalID: -2270411096434886569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pets spritesheet grey outline_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0ed8c362a67870800000000000000
+      internalID: 8680303881258666671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pets spritesheet grey outline_0: -2978871962631697699
+      pets spritesheet grey outline_1: -714141307010925945
+      pets spritesheet grey outline_10: 7593725953069217892
+      pets spritesheet grey outline_11: 1169618879310456986
+      pets spritesheet grey outline_12: -4601641325601168713
+      pets spritesheet grey outline_13: -8103109037892078112
+      pets spritesheet grey outline_14: 6354208324436433799
+      pets spritesheet grey outline_15: -8978201386151855150
+      pets spritesheet grey outline_16: 7231770527715684669
+      pets spritesheet grey outline_17: 4875795746139652205
+      pets spritesheet grey outline_18: 951149560390347289
+      pets spritesheet grey outline_19: 4040592589693468740
+      pets spritesheet grey outline_2: 15841243183080407
+      pets spritesheet grey outline_20: 1943428456620167739
+      pets spritesheet grey outline_21: -8656453207934334897
+      pets spritesheet grey outline_22: -2270411096434886569
+      pets spritesheet grey outline_23: 8680303881258666671
+      pets spritesheet grey outline_3: 171904601457602905
+      pets spritesheet grey outline_4: -7301418767805424448
+      pets spritesheet grey outline_5: -9118315631351712698
+      pets spritesheet grey outline_6: 1860960710532790067
+      pets spritesheet grey outline_7: 7778733151687718269
+      pets spritesheet grey outline_8: -4364450363796644430
+      pets spritesheet grey outline_9: -5795234654695440255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

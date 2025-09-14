@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: c50943ab0c1ab9644a111746302858ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4841338196046407152
+    second: '[A]Water3_Cave1_pipo_0'
+  - first:
+      213: -1109049985918294725
+    second: '[A]Water3_Cave1_pipo_1'
+  - first:
+      213: -1707037796871758005
+    second: '[A]Water3_Cave1_pipo_2'
+  - first:
+      213: -725448025040182205
+    second: '[A]Water3_Cave1_pipo_3'
+  - first:
+      213: -4003489415231526143
+    second: '[A]Water3_Cave1_pipo_4'
+  - first:
+      213: -3368535862451748904
+    second: '[A]Water3_Cave1_pipo_5'
+  - first:
+      213: -1660172083706075709
+    second: '[A]Water3_Cave1_pipo_6'
+  - first:
+      213: -5875765229780544259
+    second: '[A]Water3_Cave1_pipo_7'
+  - first:
+      213: -4038554563345763266
+    second: '[A]Water3_Cave1_pipo_8'
+  - first:
+      213: -4298318309299710075
+    second: '[A]Water3_Cave1_pipo_9'
+  - first:
+      213: 5600821116243474677
+    second: '[A]Water3_Cave1_pipo_10'
+  - first:
+      213: -9133808361843559675
+    second: '[A]Water3_Cave1_pipo_11'
+  - first:
+      213: 5941841868742143232
+    second: '[A]Water3_Cave1_pipo_12'
+  - first:
+      213: 3493303190250667751
+    second: '[A]Water3_Cave1_pipo_13'
+  - first:
+      213: 3738659856413699429
+    second: '[A]Water3_Cave1_pipo_14'
+  - first:
+      213: -49534037738159417
+    second: '[A]Water3_Cave1_pipo_15'
+  - first:
+      213: 7268562527947540655
+    second: '[A]Water3_Cave1_pipo_16'
+  - first:
+      213: 4933910753296869993
+    second: '[A]Water3_Cave1_pipo_17'
+  - first:
+      213: 4555972460228588254
+    second: '[A]Water3_Cave1_pipo_18'
+  - first:
+      213: 1189243546386021452
+    second: '[A]Water3_Cave1_pipo_19'
+  - first:
+      213: -886097306596575021
+    second: '[A]Water3_Cave1_pipo_20'
+  - first:
+      213: -5019832120315353107
+    second: '[A]Water3_Cave1_pipo_21'
+  - first:
+      213: 1934755009162686872
+    second: '[A]Water3_Cave1_pipo_22'
+  - first:
+      213: -2882040806366941888
+    second: '[A]Water3_Cave1_pipo_23'
+  - first:
+      213: -4984874459553937214
+    second: '[A]Water3_Cave1_pipo_24'
+  - first:
+      213: -3717338566860366771
+    second: '[A]Water3_Cave1_pipo_25'
+  - first:
+      213: 341109734757687208
+    second: '[A]Water3_Cave1_pipo_26'
+  - first:
+      213: 4444285440408228360
+    second: '[A]Water3_Cave1_pipo_27'
+  - first:
+      213: -7875130878082392061
+    second: '[A]Water3_Cave1_pipo_28'
+  - first:
+      213: -6373529276017220671
+    second: '[A]Water3_Cave1_pipo_29'
+  - first:
+      213: -5770787506387599052
+    second: '[A]Water3_Cave1_pipo_30'
+  - first:
+      213: 2523483358331517933
+    second: '[A]Water3_Cave1_pipo_31'
+  - first:
+      213: 4123969518675621648
+    second: '[A]Water3_Cave1_pipo_32'
+  - first:
+      213: -2064481191779499602
+    second: '[A]Water3_Cave1_pipo_33'
+  - first:
+      213: 7620449067716390835
+    second: '[A]Water3_Cave1_pipo_34'
+  - first:
+      213: 1051186533913157995
+    second: '[A]Water3_Cave1_pipo_35'
+  - first:
+      213: -8411892742100403638
+    second: '[A]Water3_Cave1_pipo_36'
+  - first:
+      213: -1357511114682277073
+    second: '[A]Water3_Cave1_pipo_37'
+  - first:
+      213: 1987195211419896854
+    second: '[A]Water3_Cave1_pipo_38'
+  - first:
+      213: 109541759949781240
+    second: '[A]Water3_Cave1_pipo_39'
+  - first:
+      213: 8156079018868795011
+    second: '[A]Water3_Cave1_pipo_40'
+  - first:
+      213: -2694884928800910379
+    second: '[A]Water3_Cave1_pipo_41'
+  - first:
+      213: -797613916654370710
+    second: '[A]Water3_Cave1_pipo_42'
+  - first:
+      213: -3966250646059498493
+    second: '[A]Water3_Cave1_pipo_43'
+  - first:
+      213: -3799106873705734511
+    second: '[A]Water3_Cave1_pipo_44'
+  - first:
+      213: 5377439566564500181
+    second: '[A]Water3_Cave1_pipo_45'
+  - first:
+      213: 4936183608105636629
+    second: '[A]Water3_Cave1_pipo_46'
+  - first:
+      213: -7833460382683135975
+    second: '[A]Water3_Cave1_pipo_47'
+  - first:
+      213: 5500780854214917632
+    second: '[A]Water3_Cave1_pipo_48'
+  - first:
+      213: -4389631068544230330
+    second: '[A]Water3_Cave1_pipo_49'
+  - first:
+      213: 7437613288008566130
+    second: '[A]Water3_Cave1_pipo_50'
+  - first:
+      213: -7209916266722411914
+    second: '[A]Water3_Cave1_pipo_51'
+  - first:
+      213: -58843472201578550
+    second: '[A]Water3_Cave1_pipo_52'
+  - first:
+      213: -8995824486971238274
+    second: '[A]Water3_Cave1_pipo_53'
+  - first:
+      213: -1888350414233134716
+    second: '[A]Water3_Cave1_pipo_54'
+  - first:
+      213: 3148374334185049003
+    second: '[A]Water3_Cave1_pipo_55'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f560e45073ef2340800000000000000
+      internalID: 4841338196046407152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_1'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35203fe9ecdb90f0800000000000000
+      internalID: -1109049985918294725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_2'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f1b430b226f48e0800000000000000
+      internalID: -1707037796871758005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_3'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344a8746dd0bee5f0800000000000000
+      internalID: -725448025040182205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_4'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba617969fb078c0800000000000000
+      internalID: -4003489415231526143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_5'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3669fa7e8041d0800000000000000
+      internalID: -3368535862451748904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_6'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5edac2942e5f8e0800000000000000
+      internalID: -1660172083706075709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_7'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4d65797a6157ea0800000000000000
+      internalID: -5875765229780544259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_8'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e343eb5950c24f7c0800000000000000
+      internalID: -4038554563345763266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_9'
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58712aa654e4954c0800000000000000
+      internalID: -4298318309299710075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_10'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f23c712d1abd40800000000000000
+      internalID: 5600821116243474677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_11'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50372d910b13e3180800000000000000
+      internalID: -9133808361843559675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_12'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d2be9c2b9a57250800000000000000
+      internalID: 5941841868742143232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_13'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee31a34eb4ba7030800000000000000
+      internalID: 3493303190250667751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_14'
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d2d85c45362e330800000000000000
+      internalID: 3738659856413699429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_15'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2835c1e05005ff0800000000000000
+      internalID: -49534037738159417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_16'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa84702db1f1fd460800000000000000
+      internalID: 7268562527947540655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_17'
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a6dbb60b5c87440800000000000000
+      internalID: 4933910753296869993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_18'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2336260d01a3f30800000000000000
+      internalID: 4555972460228588254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_19'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb3cd54ba018010800000000000000
+      internalID: 1189243546386021452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_20'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d871e3c133f3b3f0800000000000000
+      internalID: -886097306596575021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_21'
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e1846849f55ab0800000000000000
+      internalID: -5019832120315353107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_22'
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891bc881e61a9da10800000000000000
+      internalID: 1934755009162686872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_23'
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d6154082fe008d0800000000000000
+      internalID: -2882040806366941888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_24'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8ce5c071b22dab0800000000000000
+      internalID: -4984874459553937214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_25'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c9d6cc44c596cc0800000000000000
+      internalID: -3717338566860366771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_26'
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afd8a91f7ddbb400800000000000000
+      internalID: 341109734757687208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_27'
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80219fbaf064dad30800000000000000
+      internalID: 4444285440408228360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_28'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300603cc03ae5b290800000000000000
+      internalID: -7875130878082392061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_29'
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e07154ecac87a0800000000000000
+      internalID: -6373529276017220671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_30'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431418f765b0aefa0800000000000000
+      internalID: -5770787506387599052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_31'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb5f19eb6350320800000000000000
+      internalID: 2523483358331517933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_32'
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f2317d684b3930800000000000000
+      internalID: 4123969518675621648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_33'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1028e4b4d7953e0800000000000000
+      internalID: -2064481191779499602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_34'
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf213e5d0641c960800000000000000
+      internalID: 7620449067716390835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_35'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61619a4590969e00800000000000000
+      internalID: 1051186533913157995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_36'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a3b628e14f24b80800000000000000
+      internalID: -8411892742100403638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_37'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23e7b665d6292de0800000000000000
+      internalID: -1357511114682277073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_38'
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c4a04248fe39b10800000000000000
+      internalID: 1987195211419896854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_39'
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8b0e976ab258100800000000000000
+      internalID: 109541759949781240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_40'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e0b7a7a6303170800000000000000
+      internalID: 8156079018868795011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_41'
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d394447f68d99ad0800000000000000
+      internalID: -2694884928800910379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_42'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6088e56e5e4ee4f0800000000000000
+      internalID: -797613916654370710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_43'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c57f2d0c05f8c0800000000000000
+      internalID: -3966250646059498493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_44'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e56094d6cd64bc0800000000000000
+      internalID: -3799106873705734511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_45'
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2253e7bc080aa40800000000000000
+      internalID: 5377439566564500181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_46'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 96
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5131e3ba6d8d08440800000000000000
+      internalID: 4936183608105636629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_47'
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91083101945f94390800000000000000
+      internalID: -7833460382683135975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00effb2ea03b65c40800000000000000
+      internalID: 5500780854214917632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_49'
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1768ecc5e413c0800000000000000
+      internalID: -4389631068544230330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_50'
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275c97811e5b73760800000000000000
+      internalID: 7437613288008566130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_51'
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a33bdea5b31fb90800000000000000
+      internalID: -7209916266722411914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_52'
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7031e7c22fe2ff0800000000000000
+      internalID: -58843472201578550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_53'
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7891508a49682380800000000000000
+      internalID: -8995824486971238274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_54'
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4891c2c9d4b3bc5e0800000000000000
+      internalID: -1888350414233134716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water3_Cave1_pipo_55'
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 257
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab8e01b6c541bb20800000000000000
+      internalID: 3148374334185049003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[A]Water3_Cave1_pipo_0': 4841338196046407152
+      '[A]Water3_Cave1_pipo_1': -1109049985918294725
+      '[A]Water3_Cave1_pipo_10': 5600821116243474677
+      '[A]Water3_Cave1_pipo_11': -9133808361843559675
+      '[A]Water3_Cave1_pipo_12': 5941841868742143232
+      '[A]Water3_Cave1_pipo_13': 3493303190250667751
+      '[A]Water3_Cave1_pipo_14': 3738659856413699429
+      '[A]Water3_Cave1_pipo_15': -49534037738159417
+      '[A]Water3_Cave1_pipo_16': 7268562527947540655
+      '[A]Water3_Cave1_pipo_17': 4933910753296869993
+      '[A]Water3_Cave1_pipo_18': 4555972460228588254
+      '[A]Water3_Cave1_pipo_19': 1189243546386021452
+      '[A]Water3_Cave1_pipo_2': -1707037796871758005
+      '[A]Water3_Cave1_pipo_20': -886097306596575021
+      '[A]Water3_Cave1_pipo_21': -5019832120315353107
+      '[A]Water3_Cave1_pipo_22': 1934755009162686872
+      '[A]Water3_Cave1_pipo_23': -2882040806366941888
+      '[A]Water3_Cave1_pipo_24': -4984874459553937214
+      '[A]Water3_Cave1_pipo_25': -3717338566860366771
+      '[A]Water3_Cave1_pipo_26': 341109734757687208
+      '[A]Water3_Cave1_pipo_27': 4444285440408228360
+      '[A]Water3_Cave1_pipo_28': -7875130878082392061
+      '[A]Water3_Cave1_pipo_29': -6373529276017220671
+      '[A]Water3_Cave1_pipo_3': -725448025040182205
+      '[A]Water3_Cave1_pipo_30': -5770787506387599052
+      '[A]Water3_Cave1_pipo_31': 2523483358331517933
+      '[A]Water3_Cave1_pipo_32': 4123969518675621648
+      '[A]Water3_Cave1_pipo_33': -2064481191779499602
+      '[A]Water3_Cave1_pipo_34': 7620449067716390835
+      '[A]Water3_Cave1_pipo_35': 1051186533913157995
+      '[A]Water3_Cave1_pipo_36': -8411892742100403638
+      '[A]Water3_Cave1_pipo_37': -1357511114682277073
+      '[A]Water3_Cave1_pipo_38': 1987195211419896854
+      '[A]Water3_Cave1_pipo_39': 109541759949781240
+      '[A]Water3_Cave1_pipo_4': -4003489415231526143
+      '[A]Water3_Cave1_pipo_40': 8156079018868795011
+      '[A]Water3_Cave1_pipo_41': -2694884928800910379
+      '[A]Water3_Cave1_pipo_42': -797613916654370710
+      '[A]Water3_Cave1_pipo_43': -3966250646059498493
+      '[A]Water3_Cave1_pipo_44': -3799106873705734511
+      '[A]Water3_Cave1_pipo_45': 5377439566564500181
+      '[A]Water3_Cave1_pipo_46': 4936183608105636629
+      '[A]Water3_Cave1_pipo_47': -7833460382683135975
+      '[A]Water3_Cave1_pipo_48': 5500780854214917632
+      '[A]Water3_Cave1_pipo_49': -4389631068544230330
+      '[A]Water3_Cave1_pipo_5': -3368535862451748904
+      '[A]Water3_Cave1_pipo_50': 7437613288008566130
+      '[A]Water3_Cave1_pipo_51': -7209916266722411914
+      '[A]Water3_Cave1_pipo_52': -58843472201578550
+      '[A]Water3_Cave1_pipo_53': -8995824486971238274
+      '[A]Water3_Cave1_pipo_54': -1888350414233134716
+      '[A]Water3_Cave1_pipo_55': 3148374334185049003
+      '[A]Water3_Cave1_pipo_6': -1660172083706075709
+      '[A]Water3_Cave1_pipo_7': -5875765229780544259
+      '[A]Water3_Cave1_pipo_8': -4038554563345763266
+      '[A]Water3_Cave1_pipo_9': -4298318309299710075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
