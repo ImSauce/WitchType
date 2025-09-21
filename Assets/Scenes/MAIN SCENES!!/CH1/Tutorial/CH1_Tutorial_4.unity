@@ -5541,7 +5541,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -460357,11 +460357,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3caba360f5236d643b927555f716f99e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  playermovent: {fileID: 1615893718}
-  ButtonPause: {fileID: 553277827}
-  TypeCastUI: {fileID: 145363434}
+  playermovement: {fileID: 1615893718}
   pausemenu: {fileID: 1670302836}
+  typer: {fileID: 0}
+  firePoint: {fileID: 0}
+  TypeCastUI: {fileID: 145363434}
+  spellContainer: {fileID: 0}
   TypeCastField: {fileID: 567873937}
+  spellIcon: {fileID: 0}
 --- !u!1 &1682447112
 GameObject:
   m_ObjectHideFlags: 0

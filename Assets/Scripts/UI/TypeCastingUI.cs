@@ -12,7 +12,7 @@ public class TypeCastingUI : MonoBehaviour
     public static bool TypeCastingMode = false;
 
     // References 
-    public PlayerMovement playermovent;
+    public PlayerMovement playermovement;
     public PauseMenu pausemenu;
     public Typer typer;
     public Transform firePoint;
@@ -46,9 +46,9 @@ public class TypeCastingUI : MonoBehaviour
 
     public void ActivateTypeCasting()
     {
-        playermovent.StopMovement();
+        playermovement.StopMovement();
         TypeCastUI.SetActive(true);
-        playermovent.enabled = false;
+        playermovement.enabled = false;
         TypeCastingMode = true;
         pausemenu.enabled = false;
 
@@ -74,7 +74,7 @@ public class TypeCastingUI : MonoBehaviour
     public void DeactivateTypeCasting()
     {
         TypeCastUI.SetActive(false);
-        playermovent.enabled = true;
+        playermovement.enabled = true;
         TypeCastingMode = false;
         pausemenu.enabled = true;
         TypeCastField.text = string.Empty;
