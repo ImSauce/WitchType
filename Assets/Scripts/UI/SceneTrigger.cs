@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneTransitionTutorial1 : MonoBehaviour
+public class SceneTrigger : MonoBehaviour
 {
 
     public int sceneBuildIndex;
