@@ -5,11 +5,12 @@ using TMPro;
 public class Typer : MonoBehaviour
 {
     public WordBank wordBank;
-    public TMP_InputField wordOutput;
+    public TMP_Text wordOutput;
     public System.Action OnWordComplete;
 
     private string remainingWord = string.Empty;
     private string currentWord = string.Empty;
+    private int correctIndex = 0;
 
     private void Start()
     {
@@ -25,7 +26,11 @@ public class Typer : MonoBehaviour
     private void SetRemainingWord(string newString)
     {
         remainingWord = newString;
-        wordOutput.text = remainingWord;
+
+        string typedPart = $"<color=green>{currentWord.Substring(0, correctIndex)}</color>";
+        string remainingPart = currentWord.Substring(correctIndex);
+
+        wordOutput.text = typedPart + remainingWord;
     }
 
     private void Update()
@@ -48,11 +53,23 @@ public class Typer : MonoBehaviour
     {
         if (IsCorrectLetter(typedLetter))
         {
+            correctIndex++;
             RemoveLetter();
             if (IsWordComplete())
             {
+                correctIndex = 0;
                 SetCurrentWord();
             }
+            else
+            {
+                SetRemainingWord(remainingWord);
+            }
+        }
+        else
+        {
+            wordOutput.text = $"<color=green>{currentWord.Substring(0, correctIndex)}</color>"
+                + $"<color=red>{currentWord[correctIndex]}</color>" +
+                currentWord.Substring(correctIndex + 1);
         }
     }
 
