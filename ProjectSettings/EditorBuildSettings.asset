@@ -9,32 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R1.unity
     guid: bddafc1a7331c6a47b158026ad891d95
   - enabled: 1
-    path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R1_BACK.unity
-    guid: 492f60ef8fc79044a9fe7c764a00e94b
-  - enabled: 1
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R2.unity
     guid: b9d48046937fc9b49874817da3aaeb40
-  - enabled: 1
-    path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R2_BACK.unity
-    guid: f99ac6167ff15e441936d811c20f6674
   - enabled: 1
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R3.unity
     guid: c078011ee94af9c489fadd29c215217e
   - enabled: 1
-    path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R3_BACK.unity
-    guid: 4ef8b72e7502bfc4193814372fc7efff
-  - enabled: 1
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R4.unity
     guid: fd8a32bdd5651da41a4e549e90ca4fac
   - enabled: 1
-    path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 1/CH1_L1_R4_BACK.unity
-    guid: fccb9cc8f87947346bbdd06bbdbcb80b
-  - enabled: 1
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 2/CH1_L2_R1.unity
     guid: d9dd1ef894383a943b2b26f75aec981c
-  - enabled: 1
-    path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 2/CH1_L2_R1_BACK.unity
-    guid: b6746ef18dc8c4d43a736e4be08c8ec7
   - enabled: 1
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 2/CH1_L2_R2.unity
     guid: ab46c7d0bb113564a8c28996b4a0bda4
