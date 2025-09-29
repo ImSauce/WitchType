@@ -19,7 +19,7 @@ public class SceneTransition : MonoBehaviour
     {
         pause.Home();
         // If you want to go to scene index 0:
-        StartCoroutine(Transition(0));
+        StartCoroutine(Transition("MAIN MENU"));
     }
 
     IEnumerator Transition(int levelIndex)
