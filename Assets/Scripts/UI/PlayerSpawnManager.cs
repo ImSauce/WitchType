@@ -9,7 +9,6 @@ public class PlayerSpawnManager : MonoBehaviour
         if (string.IsNullOrEmpty(nextSpawnPointID))
             return;
 
-        // ✅ New method (Unity 2023+ safe)
         SpawnPoint[] spawnPoints = Object.FindObjectsByType<SpawnPoint>(FindObjectsSortMode.None);
 
         foreach (var sp in spawnPoints)

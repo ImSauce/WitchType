@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class SceneTrigger : MonoBehaviour
 {
     [Header("Scene To Load")]
-    [SerializeField] private Object sceneAsset; // works same as before
+    [SerializeField] private Object sceneAsset; 
     private string sceneName;
 
     [Header("Spawn Point ID in next scene")]
