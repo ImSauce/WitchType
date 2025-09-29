@@ -1,0 +1,6058 @@
+fileFormatVersion: 2
+guid: 0398e56503b7bd3498a74626b3cd9ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7848707938238063223
+    second: '[Base]BaseChip_pipo_0'
+  - first:
+      213: -2163557284264048184
+    second: '[Base]BaseChip_pipo_1'
+  - first:
+      213: -6152237611823640865
+    second: '[Base]BaseChip_pipo_2'
+  - first:
+      213: -7702672988755760840
+    second: '[Base]BaseChip_pipo_3'
+  - first:
+      213: 2676458307811617062
+    second: '[Base]BaseChip_pipo_4'
+  - first:
+      213: 5172359125341881869
+    second: '[Base]BaseChip_pipo_5'
+  - first:
+      213: 7080985625815012359
+    second: '[Base]BaseChip_pipo_6'
+  - first:
+      213: -7127748199046343970
+    second: '[Base]BaseChip_pipo_7'
+  - first:
+      213: -7364711242664165220
+    second: '[Base]BaseChip_pipo_8'
+  - first:
+      213: -3654299068792484419
+    second: '[Base]BaseChip_pipo_9'
+  - first:
+      213: -1517471938410309621
+    second: '[Base]BaseChip_pipo_10'
+  - first:
+      213: 5339965462978905202
+    second: '[Base]BaseChip_pipo_11'
+  - first:
+      213: -2945816707985449194
+    second: '[Base]BaseChip_pipo_12'
+  - first:
+      213: 348675669127100063
+    second: '[Base]BaseChip_pipo_13'
+  - first:
+      213: 2241499545177685676
+    second: '[Base]BaseChip_pipo_14'
+  - first:
+      213: -4697231023394172263
+    second: '[Base]BaseChip_pipo_15'
+  - first:
+      213: 1635889855507257428
+    second: '[Base]BaseChip_pipo_16'
+  - first:
+      213: -755115072430909024
+    second: '[Base]BaseChip_pipo_17'
+  - first:
+      213: 2463436930465241715
+    second: '[Base]BaseChip_pipo_18'
+  - first:
+      213: 8932041349645455992
+    second: '[Base]BaseChip_pipo_19'
+  - first:
+      213: 4037398321944712679
+    second: '[Base]BaseChip_pipo_20'
+  - first:
+      213: -5521835126753409976
+    second: '[Base]BaseChip_pipo_21'
+  - first:
+      213: 6530874693241718450
+    second: '[Base]BaseChip_pipo_22'
+  - first:
+      213: -6165808551466716705
+    second: '[Base]BaseChip_pipo_23'
+  - first:
+      213: 1445244126873949014
+    second: '[Base]BaseChip_pipo_24'
+  - first:
+      213: 7578130433253043267
+    second: '[Base]BaseChip_pipo_25'
+  - first:
+      213: -7290672266700058860
+    second: '[Base]BaseChip_pipo_26'
+  - first:
+      213: -1763492161628517297
+    second: '[Base]BaseChip_pipo_27'
+  - first:
+      213: -1559130066895042843
+    second: '[Base]BaseChip_pipo_28'
+  - first:
+      213: 2976375811463166101
+    second: '[Base]BaseChip_pipo_29'
+  - first:
+      213: 7365514287451573593
+    second: '[Base]BaseChip_pipo_30'
+  - first:
+      213: 1110720166705556585
+    second: '[Base]BaseChip_pipo_31'
+  - first:
+      213: -3078488137475817775
+    second: '[Base]BaseChip_pipo_32'
+  - first:
+      213: -6584498108876401854
+    second: '[Base]BaseChip_pipo_33'
+  - first:
+      213: -4974652434417951564
+    second: '[Base]BaseChip_pipo_34'
+  - first:
+      213: 7173742024756813901
+    second: '[Base]BaseChip_pipo_35'
+  - first:
+      213: -876489446567412493
+    second: '[Base]BaseChip_pipo_36'
+  - first:
+      213: -4737678927451879822
+    second: '[Base]BaseChip_pipo_37'
+  - first:
+      213: 5416606432609103481
+    second: '[Base]BaseChip_pipo_38'
+  - first:
+      213: 281414747259554471
+    second: '[Base]BaseChip_pipo_39'
+  - first:
+      213: 6976835635757252638
+    second: '[Base]BaseChip_pipo_40'
+  - first:
+      213: -1402914444458993277
+    second: '[Base]BaseChip_pipo_41'
+  - first:
+      213: -7743493404627762822
+    second: '[Base]BaseChip_pipo_42'
+  - first:
+      213: 4883799278670044076
+    second: '[Base]BaseChip_pipo_43'
+  - first:
+      213: -9150251697075581569
+    second: '[Base]BaseChip_pipo_44'
+  - first:
+      213: 7499648582340733879
+    second: '[Base]BaseChip_pipo_45'
+  - first:
+      213: 5174374044649130764
+    second: '[Base]BaseChip_pipo_46'
+  - first:
+      213: -4207428500809997909
+    second: '[Base]BaseChip_pipo_47'
+  - first:
+      213: -6585191297835083819
+    second: '[Base]BaseChip_pipo_48'
+  - first:
+      213: -2390146394967989935
+    second: '[Base]BaseChip_pipo_49'
+  - first:
+      213: 7831751655064729540
+    second: '[Base]BaseChip_pipo_50'
+  - first:
+      213: -9214089150372828947
+    second: '[Base]BaseChip_pipo_51'
+  - first:
+      213: -4304303372019452176
+    second: '[Base]BaseChip_pipo_52'
+  - first:
+      213: -1977835414578970689
+    second: '[Base]BaseChip_pipo_53'
+  - first:
+      213: -8666444459929266290
+    second: '[Base]BaseChip_pipo_54'
+  - first:
+      213: -424324484495180717
+    second: '[Base]BaseChip_pipo_55'
+  - first:
+      213: 5326713304192221998
+    second: '[Base]BaseChip_pipo_56'
+  - first:
+      213: -5237295173776202075
+    second: '[Base]BaseChip_pipo_57'
+  - first:
+      213: -3186305154958369528
+    second: '[Base]BaseChip_pipo_58'
+  - first:
+      213: 7760601236832726221
+    second: '[Base]BaseChip_pipo_59'
+  - first:
+      213: -1736070096947208156
+    second: '[Base]BaseChip_pipo_60'
+  - first:
+      213: -2100697911316854649
+    second: '[Base]BaseChip_pipo_61'
+  - first:
+      213: -2433825662520690341
+    second: '[Base]BaseChip_pipo_62'
+  - first:
+      213: 3459292145084207789
+    second: '[Base]BaseChip_pipo_63'
+  - first:
+      213: 4183071384871654930
+    second: '[Base]BaseChip_pipo_64'
+  - first:
+      213: 5692228123003585357
+    second: '[Base]BaseChip_pipo_65'
+  - first:
+      213: 6322500853232823020
+    second: '[Base]BaseChip_pipo_66'
+  - first:
+      213: 8931618374473114538
+    second: '[Base]BaseChip_pipo_67'
+  - first:
+      213: 2131087177346492376
+    second: '[Base]BaseChip_pipo_68'
+  - first:
+      213: -6555588951552640777
+    second: '[Base]BaseChip_pipo_69'
+  - first:
+      213: -7409783893690292999
+    second: '[Base]BaseChip_pipo_70'
+  - first:
+      213: -8240249728805239301
+    second: '[Base]BaseChip_pipo_71'
+  - first:
+      213: 3302010279016071689
+    second: '[Base]BaseChip_pipo_72'
+  - first:
+      213: -4908638853908093082
+    second: '[Base]BaseChip_pipo_73'
+  - first:
+      213: -7489444987667729974
+    second: '[Base]BaseChip_pipo_74'
+  - first:
+      213: -5553457117313519589
+    second: '[Base]BaseChip_pipo_75'
+  - first:
+      213: -7209808024599161065
+    second: '[Base]BaseChip_pipo_76'
+  - first:
+      213: 8179740113990914342
+    second: '[Base]BaseChip_pipo_77'
+  - first:
+      213: 1693837320726072568
+    second: '[Base]BaseChip_pipo_78'
+  - first:
+      213: 7111159724477781066
+    second: '[Base]BaseChip_pipo_79'
+  - first:
+      213: 6721878483071684928
+    second: '[Base]BaseChip_pipo_80'
+  - first:
+      213: 8883483374544449445
+    second: '[Base]BaseChip_pipo_81'
+  - first:
+      213: 8783624631508381952
+    second: '[Base]BaseChip_pipo_82'
+  - first:
+      213: -7062955591850774992
+    second: '[Base]BaseChip_pipo_83'
+  - first:
+      213: -6158589481102604377
+    second: '[Base]BaseChip_pipo_84'
+  - first:
+      213: 5113667048215868629
+    second: '[Base]BaseChip_pipo_85'
+  - first:
+      213: -9000947605352164619
+    second: '[Base]BaseChip_pipo_86'
+  - first:
+      213: 3741063265104679997
+    second: '[Base]BaseChip_pipo_87'
+  - first:
+      213: -8654461411237770040
+    second: '[Base]BaseChip_pipo_88'
+  - first:
+      213: 2678226996681592699
+    second: '[Base]BaseChip_pipo_89'
+  - first:
+      213: -7509724868852147091
+    second: '[Base]BaseChip_pipo_90'
+  - first:
+      213: 6833624116471680874
+    second: '[Base]BaseChip_pipo_91'
+  - first:
+      213: -1940958744824657037
+    second: '[Base]BaseChip_pipo_92'
+  - first:
+      213: 1679826094560388730
+    second: '[Base]BaseChip_pipo_93'
+  - first:
+      213: 1859974576133262772
+    second: '[Base]BaseChip_pipo_94'
+  - first:
+      213: -877306746170518989
+    second: '[Base]BaseChip_pipo_95'
+  - first:
+      213: -2894342094907650633
+    second: '[Base]BaseChip_pipo_96'
+  - first:
+      213: 5996212051215970595
+    second: '[Base]BaseChip_pipo_97'
+  - first:
+      213: 8168352488737126535
+    second: '[Base]BaseChip_pipo_98'
+  - first:
+      213: 1258398233914814397
+    second: '[Base]BaseChip_pipo_99'
+  - first:
+      213: -9000189264178056525
+    second: '[Base]BaseChip_pipo_100'
+  - first:
+      213: -1902346765419304621
+    second: '[Base]BaseChip_pipo_101'
+  - first:
+      213: -3286011253530595928
+    second: '[Base]BaseChip_pipo_102'
+  - first:
+      213: 2583368196524346040
+    second: '[Base]BaseChip_pipo_103'
+  - first:
+      213: -4021792159396124065
+    second: '[Base]BaseChip_pipo_104'
+  - first:
+      213: 7374125818996160714
+    second: '[Base]BaseChip_pipo_105'
+  - first:
+      213: 7420539797634313796
+    second: '[Base]BaseChip_pipo_106'
+  - first:
+      213: 4517623131455609312
+    second: '[Base]BaseChip_pipo_107'
+  - first:
+      213: -1316575509716818907
+    second: '[Base]BaseChip_pipo_108'
+  - first:
+      213: -2002609333119572991
+    second: '[Base]BaseChip_pipo_109'
+  - first:
+      213: 4673366723026829467
+    second: '[Base]BaseChip_pipo_110'
+  - first:
+      213: 6412010206174860026
+    second: '[Base]BaseChip_pipo_111'
+  - first:
+      213: -4641142263446896182
+    second: '[Base]BaseChip_pipo_112'
+  - first:
+      213: 6088423899354016551
+    second: '[Base]BaseChip_pipo_113'
+  - first:
+      213: 2782454888675610521
+    second: '[Base]BaseChip_pipo_114'
+  - first:
+      213: 7247581676969967755
+    second: '[Base]BaseChip_pipo_115'
+  - first:
+      213: 8760885591696750652
+    second: '[Base]BaseChip_pipo_116'
+  - first:
+      213: 8959914092757028293
+    second: '[Base]BaseChip_pipo_117'
+  - first:
+      213: -2711231513314662852
+    second: '[Base]BaseChip_pipo_118'
+  - first:
+      213: 5626444559694389939
+    second: '[Base]BaseChip_pipo_119'
+  - first:
+      213: 5965340666993620889
+    second: '[Base]BaseChip_pipo_120'
+  - first:
+      213: -8112859771959169820
+    second: '[Base]BaseChip_pipo_121'
+  - first:
+      213: 6866543121383174009
+    second: '[Base]BaseChip_pipo_122'
+  - first:
+      213: 7378249597910824395
+    second: '[Base]BaseChip_pipo_123'
+  - first:
+      213: -6254841210638772193
+    second: '[Base]BaseChip_pipo_124'
+  - first:
+      213: -4080232749267803357
+    second: '[Base]BaseChip_pipo_125'
+  - first:
+      213: -9096586667767068084
+    second: '[Base]BaseChip_pipo_126'
+  - first:
+      213: -8102022731459309053
+    second: '[Base]BaseChip_pipo_127'
+  - first:
+      213: 977714812000738458
+    second: '[Base]BaseChip_pipo_128'
+  - first:
+      213: -7164072453212599924
+    second: '[Base]BaseChip_pipo_129'
+  - first:
+      213: -3757963385061001902
+    second: '[Base]BaseChip_pipo_130'
+  - first:
+      213: 9083013439393151668
+    second: '[Base]BaseChip_pipo_131'
+  - first:
+      213: 7181170068776276753
+    second: '[Base]BaseChip_pipo_132'
+  - first:
+      213: 6626976907511205306
+    second: '[Base]BaseChip_pipo_133'
+  - first:
+      213: 8659682358810526766
+    second: '[Base]BaseChip_pipo_134'
+  - first:
+      213: -5764957520112803738
+    second: '[Base]BaseChip_pipo_135'
+  - first:
+      213: 3444542860178941442
+    second: '[Base]BaseChip_pipo_136'
+  - first:
+      213: -8360604166608665967
+    second: '[Base]BaseChip_pipo_137'
+  - first:
+      213: 2979615780082551507
+    second: '[Base]BaseChip_pipo_138'
+  - first:
+      213: -5246918594344295343
+    second: '[Base]BaseChip_pipo_139'
+  - first:
+      213: -7713123908734298716
+    second: '[Base]BaseChip_pipo_140'
+  - first:
+      213: -1738640918873265161
+    second: '[Base]BaseChip_pipo_141'
+  - first:
+      213: 736459913354310878
+    second: '[Base]BaseChip_pipo_142'
+  - first:
+      213: 4762587869335658007
+    second: '[Base]BaseChip_pipo_143'
+  - first:
+      213: -7723049785062814957
+    second: '[Base]BaseChip_pipo_144'
+  - first:
+      213: 5922164005136726108
+    second: '[Base]BaseChip_pipo_145'
+  - first:
+      213: -7938382500850407801
+    second: '[Base]BaseChip_pipo_146'
+  - first:
+      213: 6247015347438632405
+    second: '[Base]BaseChip_pipo_147'
+  - first:
+      213: -2359958340573235428
+    second: '[Base]BaseChip_pipo_148'
+  - first:
+      213: 551259119082169037
+    second: '[Base]BaseChip_pipo_149'
+  - first:
+      213: -416841768577177016
+    second: '[Base]BaseChip_pipo_150'
+  - first:
+      213: -3868415174338189711
+    second: '[Base]BaseChip_pipo_151'
+  - first:
+      213: -8718842600806805093
+    second: '[Base]BaseChip_pipo_152'
+  - first:
+      213: 2918849196319052067
+    second: '[Base]BaseChip_pipo_153'
+  - first:
+      213: 6090238919216994969
+    second: '[Base]BaseChip_pipo_154'
+  - first:
+      213: 3806112199569036718
+    second: '[Base]BaseChip_pipo_155'
+  - first:
+      213: -1477595275054574440
+    second: '[Base]BaseChip_pipo_156'
+  - first:
+      213: 2843794952646299900
+    second: '[Base]BaseChip_pipo_157'
+  - first:
+      213: 3957698633041751148
+    second: '[Base]BaseChip_pipo_158'
+  - first:
+      213: -8047240443745202896
+    second: '[Base]BaseChip_pipo_159'
+  - first:
+      213: -9069805963371035241
+    second: '[Base]BaseChip_pipo_160'
+  - first:
+      213: -5211395716500461656
+    second: '[Base]BaseChip_pipo_161'
+  - first:
+      213: -4043102039081996058
+    second: '[Base]BaseChip_pipo_162'
+  - first:
+      213: -4229677336030555967
+    second: '[Base]BaseChip_pipo_163'
+  - first:
+      213: 544992659028902946
+    second: '[Base]BaseChip_pipo_164'
+  - first:
+      213: -9174715404397057517
+    second: '[Base]BaseChip_pipo_165'
+  - first:
+      213: 4606331182628343846
+    second: '[Base]BaseChip_pipo_166'
+  - first:
+      213: 6105127484610634250
+    second: '[Base]BaseChip_pipo_167'
+  - first:
+      213: 7152464929151914035
+    second: '[Base]BaseChip_pipo_168'
+  - first:
+      213: -6667280607249604917
+    second: '[Base]BaseChip_pipo_169'
+  - first:
+      213: 631597073829135823
+    second: '[Base]BaseChip_pipo_170'
+  - first:
+      213: -3618735402631895929
+    second: '[Base]BaseChip_pipo_171'
+  - first:
+      213: -1967628522030065472
+    second: '[Base]BaseChip_pipo_172'
+  - first:
+      213: -7443584810702522860
+    second: '[Base]BaseChip_pipo_173'
+  - first:
+      213: 3931504063648820948
+    second: '[Base]BaseChip_pipo_174'
+  - first:
+      213: -7006509474299880177
+    second: '[Base]BaseChip_pipo_175'
+  - first:
+      213: 4158314400596275122
+    second: '[Base]BaseChip_pipo_176'
+  - first:
+      213: -9159024230638399443
+    second: '[Base]BaseChip_pipo_177'
+  - first:
+      213: 1792467080387260800
+    second: '[Base]BaseChip_pipo_178'
+  - first:
+      213: -5244276286188797260
+    second: '[Base]BaseChip_pipo_179'
+  - first:
+      213: -2511564118960826363
+    second: '[Base]BaseChip_pipo_180'
+  - first:
+      213: 4719829913906851023
+    second: '[Base]BaseChip_pipo_181'
+  - first:
+      213: -6048060967638860854
+    second: '[Base]BaseChip_pipo_182'
+  - first:
+      213: -9150308918593224891
+    second: '[Base]BaseChip_pipo_183'
+  - first:
+      213: 6149839705401332691
+    second: '[Base]BaseChip_pipo_184'
+  - first:
+      213: -3770149790866992104
+    second: '[Base]BaseChip_pipo_185'
+  - first:
+      213: 7762851496804991633
+    second: '[Base]BaseChip_pipo_186'
+  - first:
+      213: 4722583843202717063
+    second: '[Base]BaseChip_pipo_187'
+  - first:
+      213: 3683269859654602900
+    second: '[Base]BaseChip_pipo_188'
+  - first:
+      213: 1846017141973113615
+    second: '[Base]BaseChip_pipo_189'
+  - first:
+      213: -9193552245795294940
+    second: '[Base]BaseChip_pipo_190'
+  - first:
+      213: -1416011913696585080
+    second: '[Base]BaseChip_pipo_191'
+  - first:
+      213: -6394970042877119231
+    second: '[Base]BaseChip_pipo_192'
+  - first:
+      213: 5659379963637353390
+    second: '[Base]BaseChip_pipo_193'
+  - first:
+      213: -7731460388842338591
+    second: '[Base]BaseChip_pipo_194'
+  - first:
+      213: -6271216285456568786
+    second: '[Base]BaseChip_pipo_195'
+  - first:
+      213: -5021924794485805380
+    second: '[Base]BaseChip_pipo_196'
+  - first:
+      213: 5991376045462554068
+    second: '[Base]BaseChip_pipo_197'
+  - first:
+      213: -6768860558627771603
+    second: '[Base]BaseChip_pipo_198'
+  - first:
+      213: -3577120431406338575
+    second: '[Base]BaseChip_pipo_199'
+  - first:
+      213: -6455371611718537589
+    second: '[Base]BaseChip_pipo_200'
+  - first:
+      213: -4631713802449978144
+    second: '[Base]BaseChip_pipo_201'
+  - first:
+      213: 1422028899115372812
+    second: '[Base]BaseChip_pipo_202'
+  - first:
+      213: 4211063098994285058
+    second: '[Base]BaseChip_pipo_203'
+  - first:
+      213: 4553830807459058416
+    second: '[Base]BaseChip_pipo_204'
+  - first:
+      213: -3711180364200729252
+    second: '[Base]BaseChip_pipo_205'
+  - first:
+      213: 2590969630703089666
+    second: '[Base]BaseChip_pipo_206'
+  - first:
+      213: -8805077930101908514
+    second: '[Base]BaseChip_pipo_207'
+  - first:
+      213: 1775190667582824400
+    second: '[Base]BaseChip_pipo_208'
+  - first:
+      213: -8466639240541457456
+    second: '[Base]BaseChip_pipo_209'
+  - first:
+      213: -5924751316056682737
+    second: '[Base]BaseChip_pipo_210'
+  - first:
+      213: 6782395992147361195
+    second: '[Base]BaseChip_pipo_211'
+  - first:
+      213: -7873176482028287921
+    second: '[Base]BaseChip_pipo_212'
+  - first:
+      213: 4060680324029849594
+    second: '[Base]BaseChip_pipo_213'
+  - first:
+      213: -4897464346185692194
+    second: '[Base]BaseChip_pipo_214'
+  - first:
+      213: 8896411036851986803
+    second: '[Base]BaseChip_pipo_215'
+  - first:
+      213: 7286248811961829058
+    second: '[Base]BaseChip_pipo_216'
+  - first:
+      213: -2606564133703971993
+    second: '[Base]BaseChip_pipo_217'
+  - first:
+      213: -7124091179878707885
+    second: '[Base]BaseChip_pipo_218'
+  - first:
+      213: -7470706221940594464
+    second: '[Base]BaseChip_pipo_219'
+  - first:
+      213: 8646684249466714766
+    second: '[Base]BaseChip_pipo_220'
+  - first:
+      213: -3706111086372240526
+    second: '[Base]BaseChip_pipo_221'
+  - first:
+      213: 1386568426351487040
+    second: '[Base]BaseChip_pipo_222'
+  - first:
+      213: -8927540622435834420
+    second: '[Base]BaseChip_pipo_223'
+  - first:
+      213: 2260606097724396994
+    second: '[Base]BaseChip_pipo_224'
+  - first:
+      213: 3184892838162356994
+    second: '[Base]BaseChip_pipo_225'
+  - first:
+      213: -886163411526188848
+    second: '[Base]BaseChip_pipo_226'
+  - first:
+      213: -380873700064281546
+    second: '[Base]BaseChip_pipo_227'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4062
+        width: 256
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1883e6b9c31390800000000000000
+      internalID: -7848707938238063223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_1'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4038
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c98b3cec1089f1e0800000000000000
+      internalID: -2163557284264048184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_2'
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4049
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde447dec7cde9aa0800000000000000
+      internalID: -6152237611823640865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_3'
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4037
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839673c2abb9a1590800000000000000
+      internalID: -7702672988755760840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_4'
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4050
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629214586a0b42520800000000000000
+      internalID: 2676458307811617062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_5'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4041
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c0cc5839e7c740800000000000000
+      internalID: 5172359125341881869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_6'
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4050
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704d956f8e6b44260800000000000000
+      internalID: 7080985625815012359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_7'
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4036
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2996307c6251d90800000000000000
+      internalID: -7127748199046343970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_8'
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4037
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c904dab052a4bc990800000000000000
+      internalID: -7364711242664165220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_9'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4042
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd4595bb52594dc0800000000000000
+      internalID: -3654299068792484419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_10'
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4035
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b081e6adf4bd0fae0800000000000000
+      internalID: -1517471938410309621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_11'
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 4050
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27446b5db4e5b1a40800000000000000
+      internalID: 5339965462978905202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_12'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4036
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fdd1bcf4b5e17d0800000000000000
+      internalID: -2945816707985449194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_13'
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4037
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9674287caeb6d400800000000000000
+      internalID: 348675669127100063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_14'
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4038
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef38ad5f76b1f10800000000000000
+      internalID: 2241499545177685676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_15'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4007
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99255ae654510deb0800000000000000
+      internalID: -4697231023394172263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_16'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4007
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458dc210829d3b610800000000000000
+      internalID: 1635889855507257428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_17'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4001
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a95637a7da4585f0800000000000000
+      internalID: -755115072430909024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_18'
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4021
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a95fe16d2ef2220800000000000000
+      internalID: 2463436930465241715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_19'
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4000
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872d7b4984cf4fb70800000000000000
+      internalID: 8932041349645455992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_20'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4005
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5d54cf168b70830800000000000000
+      internalID: 4037398321944712679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_21'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4005
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c69945308e53b0800000000000000
+      internalID: -5521835126753409976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_22'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4005
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6c2437ee352aa50800000000000000
+      internalID: 6530874693241718450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_23'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3972
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1b2c05ac5ae6aa0800000000000000
+      internalID: -6165808551466716705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_24'
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4003
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6539a0c40e98e0410800000000000000
+      internalID: 1445244126873949014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_25'
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3974
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cef977a7dea2960800000000000000
+      internalID: 7578130433253043267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_26'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3969
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0d89733452da90800000000000000
+      internalID: -7290672266700058860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_27'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3970
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c42fde831d687e0800000000000000
+      internalID: -1763492161628517297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_28'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3968
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6071cf67bdc5ae0800000000000000
+      internalID: -1559130066895042843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_29'
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3968
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598b350f7063e4920800000000000000
+      internalID: 2976375811463166101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_30'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3970
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d8d936830973660800000000000000
+      internalID: 7365514287451573593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_31'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3968
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce8555b121a6f00800000000000000
+      internalID: 1110720166705556585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_32'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 256
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deff7879530745d0800000000000000
+      internalID: -3078488137475817775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_33'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3552
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d03c2bd92f94a0800000000000000
+      internalID: -6584498108876401854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_34'
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3595
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc5c7db7fb76fab0800000000000000
+      internalID: -4974652434417951564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_35'
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3568
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40ebe70d504e8360800000000000000
+      internalID: 7173742024756813901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_36'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3594
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc78fffd7516d3f0800000000000000
+      internalID: -876489446567412493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_37'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3596
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2768065ed12604eb0800000000000000
+      internalID: -4737678927451879822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_38'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3553
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee2cf1ad6ab2b40800000000000000
+      internalID: 5416606432609103481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_39'
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3568
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa46fcb839c7e300800000000000000
+      internalID: 281414747259554471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_40'
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3567
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10099dbb03b2d060800000000000000
+      internalID: 6976835635757252638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_41'
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3567
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d1c7eeb8d78ce0800000000000000
+      internalID: -1402914444458993277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_42'
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3519
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71059876c5998490800000000000000
+      internalID: -7743493404627762822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_43'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3490
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabdf67819db6c340800000000000000
+      internalID: 4883799278670044076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_44'
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3490
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0566cf86c30180800000000000000
+      internalID: -9150251697075581569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_45'
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3522
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb6eaa96aa141860800000000000000
+      internalID: 7499648582340733879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_46'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3359
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b005257c11fc740800000000000000
+      internalID: 5174374044649130764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_47'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3490
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ad5702163c95c0800000000000000
+      internalID: -4207428500809997909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_48'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3490
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7db8a8763bc94a0800000000000000
+      internalID: -6585191297835083819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_49'
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3455
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151a0ce648e74ded0800000000000000
+      internalID: -2390146394967989935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_50'
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3426
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7f539c2a8ffac60800000000000000
+      internalID: 7831751655064729540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_51'
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3426
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de82f3f6cbaf02080800000000000000
+      internalID: -9214089150372828947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_52'
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3458
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b34963ea0444c0800000000000000
+      internalID: -4304303372019452176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_53'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3426
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf35d16b215d84e0800000000000000
+      internalID: -1977835414578970689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_54'
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3426
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8793443eaa9ab780800000000000000
+      internalID: -8666444459929266290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_55'
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3391
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf928212f7c1af0800000000000000
+      internalID: -424324484495180717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_56'
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3362
+        width: 19
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2389bc27894ce940800000000000000
+      internalID: 5326713304192221998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_57'
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3362
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6a33fa9c36157b0800000000000000
+      internalID: -5237295173776202075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_58'
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3394
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dd5b4e758f7c3d0800000000000000
+      internalID: -3186305154958369528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_59'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3362
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc2fdc15b133bb60800000000000000
+      internalID: 7760601236832726221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_60'
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3362
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a846e17d38e7e0800000000000000
+      internalID: -1736070096947208156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_61'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3302
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788cd8f2162d8d2e0800000000000000
+      internalID: -2100697911316854649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_62'
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3328
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5979347470593ed0800000000000000
+      internalID: -2433825662520690341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_63'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3330
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21b0ab0efd10030800000000000000
+      internalID: 3459292145084207789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_64'
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3328
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216506df2414d0a30800000000000000
+      internalID: 4183071384871654930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_65'
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3296
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d430e14b15bdefe40800000000000000
+      internalID: 5692228123003585357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_66'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaeb0927090eb750800000000000000
+      internalID: 6322500853232823020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_67'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1887
+        width: 256
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa362dff69b73fb70800000000000000
+      internalID: 8931618374473114538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_68'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1844
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a02f2f74239d10800000000000000
+      internalID: 2131087177346492376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_69'
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1844
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8ba31e49ed505a0800000000000000
+      internalID: -6555588951552640777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_70'
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1844
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4ed22bec82b2990800000000000000
+      internalID: -7409783893690292999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_71'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1843
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50e06c780c4ad80800000000000000
+      internalID: -8240249728805239301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_72'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1842
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902017d9ad813dd20800000000000000
+      internalID: 3302010279016071689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_73'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1842
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667a02e28f201ebb0800000000000000
+      internalID: -4908638853908093082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_74'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1842
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac13c39e675201890800000000000000
+      internalID: -7489444987667729974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_75'
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1842
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10b92fdc282ee2b0800000000000000
+      internalID: -5553457117313519589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_76'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1795
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71791030dcd91fb90800000000000000
+      internalID: -7209808024599161065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_77'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1796
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6211179ab46448170800000000000000
+      internalID: 8179740113990914342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_78'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1795
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc4d21a118b18710800000000000000
+      internalID: 1693837320726072568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_79'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1763
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a441096c71aefa260800000000000000
+      internalID: 7111159724477781066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_80'
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1763
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04154d6cdd8e84d50800000000000000
+      internalID: 6721878483071684928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_81'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1778
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af6fcbff09784b70800000000000000
+      internalID: 8883483374544449445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_82'
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1794
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001bd619014b5e970800000000000000
+      internalID: 8783624631508381952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_83'
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1794
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e20637f475bfd90800000000000000
+      internalID: -7062955591850774992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_84'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1763
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a70c6d1f7b488aa0800000000000000
+      internalID: -6158589481102604377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_85'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1764
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4f684461567f640800000000000000
+      internalID: 5113667048215868629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_86'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1763
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d41d87d5361380800000000000000
+      internalID: -9000947605352164619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_87'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1717
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34d3d6f73deae330800000000000000
+      internalID: 3741063265104679997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_88'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1717
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccc8d4233d25e780800000000000000
+      internalID: -8654461411237770040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_89'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1715
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f411d7349fa2520800000000000000
+      internalID: 2678226996681592699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_90'
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1715
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c962f150918c790800000000000000
+      internalID: -7509724868852147091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_91'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1715
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f46d68de8e5de50800000000000000
+      internalID: 6833624116471680874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_92'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1714
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc9032e445015e0800000000000000
+      internalID: -1940958744824657037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_93'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1714
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7624b2dee0ff4710800000000000000
+      internalID: 1679826094560388730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_94'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 256
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd4eadb505ffc910800000000000000
+      internalID: 1859974576133262772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_95'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 800
+        width: 160
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332d37b992e23d3f0800000000000000
+      internalID: -877306746170518989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_96'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 869
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdc196133b35d7d0800000000000000
+      internalID: -2894342094907650633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_97'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 833
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321f4ae5713d63350800000000000000
+      internalID: 5996212051215970595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_98'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 800
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ba5b8f41db5170800000000000000
+      internalID: 8168352488737126535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_99'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 769
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfa876c68ab67110800000000000000
+      internalID: 1258398233914814397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_100'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 800
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2f16d9c87e81380800000000000000
+      internalID: -9000189264178056525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_101'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 800
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359a19722b18995e0800000000000000
+      internalID: -1902346765419304621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_102'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 768
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad6f59cc2eb562d0800000000000000
+      internalID: -3286011253530595928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_103'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 768
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba00edffa7f9d320800000000000000
+      internalID: 2583368196524346040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_104'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 800
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a2eb2e659bf28c0800000000000000
+      internalID: -4021792159396124065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_105'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 768
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac87d42dc58265660800000000000000
+      internalID: 7374125818996160714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_106'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 800
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e64a751ad0bf660800000000000000
+      internalID: 7420539797634313796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_107'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 768
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9df7b7d42d1be30800000000000000
+      internalID: 4517623131455609312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_108'
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 800
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a957ac859abde0800000000000000
+      internalID: -1316575509716818907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_109'
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 768
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a68bfb6d4534e0800000000000000
+      internalID: -2002609333119572991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_110'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 770
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90452726422bd040800000000000000
+      internalID: 4673366723026829467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_111'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 770
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25b3b6f490cf850800000000000000
+      internalID: 6412010206174860026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_112'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 737
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1023383b9579fb0800000000000000
+      internalID: -4641142263446896182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_113'
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 736
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72baef2574d6e7450800000000000000
+      internalID: 6088423899354016551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_114'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f0f0baaf34d9620800000000000000
+      internalID: 2782454888675610521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_115'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 735
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80cc68c225949460800000000000000
+      internalID: 7247581676969967755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_116'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 736
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c383cea470be49970800000000000000
+      internalID: 8760885591696750652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_117'
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 736
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8ccc4562085c70800000000000000
+      internalID: 8959914092757028293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_118'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 736
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36e809ad45cf5ad0800000000000000
+      internalID: -2711231513314662852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_119'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 736
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b263015485251e40800000000000000
+      internalID: 5626444559694389939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_120'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 640
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997b85c1bb529c250800000000000000
+      internalID: 5965340666993620889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_121'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 63
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec21db6505596f80800000000000000
+      internalID: -8112859771959169820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_122'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f22f0a69cda4f50800000000000000
+      internalID: 6866543121383174009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_123'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5b4abeaeec46660800000000000000
+      internalID: 7378249597910824395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_124'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 640
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18d669fe075239a0800000000000000
+      internalID: -6254841210638772193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_125'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3232afabee91067c0800000000000000
+      internalID: -4080232749267803357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_126'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a80371f9e62c180800000000000000
+      internalID: -9096586667767068084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_127'
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3025a398045df8f80800000000000000
+      internalID: -8102022731459309053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_128'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 97
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c11fcf07a819d00800000000000000
+      internalID: 977714812000738458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_129'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c890a198f0a149c90800000000000000
+      internalID: -7164072453212599924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_130'
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255b38a363809dbc0800000000000000
+      internalID: -3757963385061001902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_131'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 428
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bab02969985d0e70800000000000000
+      internalID: 9083013439393151668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_132'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 428
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113d31d4124a8a360800000000000000
+      internalID: 7181170068776276753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_133'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 428
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd0cead260c7fb50800000000000000
+      internalID: 6626976907511205306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_134'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 428
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e244e90793f5d2870800000000000000
+      internalID: 8659682358810526766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_135'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 428
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a574fda1ceffa0800000000000000
+      internalID: -5764957520112803738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_136'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 428
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e29a3b797dcf20800000000000000
+      internalID: 3444542860178941442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_137'
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 428
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c3ad8eca29fb80800000000000000
+      internalID: -8360604166608665967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_138'
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 428
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da08fae3c8b95920800000000000000
+      internalID: 2979615780082551507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_139'
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 448
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15467ba76533f27b0800000000000000
+      internalID: -5246918594344295343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_140'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5d15fbbaa75f490800000000000000
+      internalID: -7713123908734298716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_141'
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 396
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fba996cb4b1fd7e0800000000000000
+      internalID: -1738640918873265161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_142'
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 396
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed47cc6a36e683a00800000000000000
+      internalID: 736459913354310878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_143'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 396
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e16531f6c181240800000000000000
+      internalID: 4762587869335658007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_144'
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 396
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8ca2932732d490800000000000000
+      internalID: -7723049785062814957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_145'
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 396
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5877c329c0cf2250800000000000000
+      internalID: 5922164005136726108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_146'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 396
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78662a1cc2335d190800000000000000
+      internalID: -7938382500850407801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_147'
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 397
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3e724c5bd1b650800000000000000
+      internalID: 6247015347438632405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_148'
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 369
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c177961946ebf3fd0800000000000000
+      internalID: -2359958340573235428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_149'
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 369
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc266148f3776a700800000000000000
+      internalID: 551259119082169037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_150'
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 369
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a6968be94173af0800000000000000
+      internalID: -416841768577177016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_151'
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 369
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17667d905e0a05ac0800000000000000
+      internalID: -3868415174338189711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_152'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 376
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911e5659d2700780800000000000000
+      internalID: -8718842600806805093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_153'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 370
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321188b11e5d18820800000000000000
+      internalID: 2918849196319052067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_154'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 363
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a10319700e48450800000000000000
+      internalID: 6090238919216994969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_155'
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 365
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d79e31e602d430800000000000000
+      internalID: 3806112199569036718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_156'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 365
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894939c0de68e7be0800000000000000
+      internalID: -1477595275054574440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_157'
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 366
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0188e3170377720800000000000000
+      internalID: 2843794952646299900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_158'
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 362
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ca08e10f19ce630800000000000000
+      internalID: 3957698633041751148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_159'
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 354
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d0968d375725090800000000000000
+      internalID: -8047240443745202896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_160'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 333
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795cc8bb783912280800000000000000
+      internalID: -9069805963371035241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_161'
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 335
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a76ffdf4376da7b0800000000000000
+      internalID: -5211395716500461656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_162'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 332
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e03cd1ed1404e7c0800000000000000
+      internalID: -4043102039081996058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_163'
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 333
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0d0676fda2d45c0800000000000000
+      internalID: -4229677336030555967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_164'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 334
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2240d969fe3309700800000000000000
+      internalID: 544992659028902946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_165'
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aeb9d03fcdca080800000000000000
+      internalID: -9174715404397057517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_166'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 331
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6201e522ec9fcef30800000000000000
+      internalID: 4606331182628343846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_167'
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 332
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02e0b4d915c9b450800000000000000
+      internalID: 6105127484610634250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_168'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 331
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3301a8a25f8a24360800000000000000
+      internalID: 7152464929151914035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_169'
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 331
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce590bcc9f0973a0800000000000000
+      internalID: -6667280607249604917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_170'
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 300
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc503ca3132e3c800800000000000000
+      internalID: 631597073829135823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_171'
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 302
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784eefdf25ba7cdc0800000000000000
+      internalID: -3618735402631895929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_172'
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 302
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8987eb84491b4e0800000000000000
+      internalID: -1967628522030065472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_173'
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 302
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416359e6d0313b890800000000000000
+      internalID: -7443584810702522860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_174'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 299
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deeacaad128f8630800000000000000
+      internalID: 3931504063648820948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_175'
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d52f451c0e3ce90800000000000000
+      internalID: -7006509474299880177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_176'
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 268
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfaee76aec45b930800000000000000
+      internalID: 4158314400596275122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_177'
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 268
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d205a932dfb94e080800000000000000
+      internalID: -9159024230638399443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_178'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 268
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081701e005f10e810800000000000000
+      internalID: 1792467080387260800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_179'
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 268
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b246b9c0869837b0800000000000000
+      internalID: -5244276286188797260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_180'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 236
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50819ba9db1252dd0800000000000000
+      internalID: -2511564118960826363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_181'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 236
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc2eaacc44308140800000000000000
+      internalID: 4719829913906851023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_182'
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 268
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbfafb0898f01ca0800000000000000
+      internalID: -6048060967638860854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_183'
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 272
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f792ad482930180800000000000000
+      internalID: -9150308918593224891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_184'
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 236
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d31a0af0ae985550800000000000000
+      internalID: 6149839705401332691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_185'
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 236
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8141c558dbcbdabc0800000000000000
+      internalID: -3770149790866992104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_186'
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 236
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192cb279e403bbb60800000000000000
+      internalID: 7762851496804991633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_187'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 237
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d81cebfcf98140800000000000000
+      internalID: 4722583843202717063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_188'
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909d9c2c6a9d1330800000000000000
+      internalID: 3683269859654602900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_189'
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd69c5fce5e9910800000000000000
+      internalID: 1846017141973113615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_190'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421706521f0f96080800000000000000
+      internalID: -9193552245795294940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_191'
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 206
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ad466baa0595ce0800000000000000
+      internalID: -1416011913696585080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_192'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 205
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1057b05c0a08047a0800000000000000
+      internalID: -6394970042877119231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_193'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 196
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab419d97182a8e40800000000000000
+      internalID: 5659379963637353390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_194'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 172
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68c084db554b490800000000000000
+      internalID: -7731460388842338591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_195'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 176
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e67b3c30a28f8a0800000000000000
+      internalID: -6271216285456568786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_196'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 176
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe62f7b10a8e4ab0800000000000000
+      internalID: -5021924794485805380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_197'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 176
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5849905c4a52350800000000000000
+      internalID: 5991376045462554068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_198'
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 169
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be6d45f2d2012a0800000000000000
+      internalID: -6768860558627771603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_199'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdab378be38b5ec0800000000000000
+      internalID: -3577120431406338575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_200'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 141
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e206e98b9e966a0800000000000000
+      internalID: -6455371611718537589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_201'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 140
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf1b726d8d8bfb0800000000000000
+      internalID: -4631713802449978144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_202'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c019c10efbf0cb310800000000000000
+      internalID: 1422028899115372812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_203'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a5f4ec393b07a30800000000000000
+      internalID: 4211063098994285058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_204'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2d3ddfdf4723f30800000000000000
+      internalID: 4553830807459058416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_205'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5529661f1d3f7cc0800000000000000
+      internalID: -3711180364200729252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_206'
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 131
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208f1edc629f4f320800000000000000
+      internalID: 2590969630703089666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_207'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbd4ac16441ec580800000000000000
+      internalID: -8805077930101908514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_208'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfdcddb18eb2a810800000000000000
+      internalID: 1775190667582824400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_209'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3b42a0874708a80800000000000000
+      internalID: -8466639240541457456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_210'
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc9e7911e07cda0800000000000000
+      internalID: -5924751316056682737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_211'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badf9fd5839ef1e50800000000000000
+      internalID: 6782395992147361195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_212'
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f488eb614bbdcb290800000000000000
+      internalID: -7873176482028287921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_213'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff97348d3f6a5830800000000000000
+      internalID: 4060680324029849594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_214'
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb06710026b80cb0800000000000000
+      internalID: -4897464346185692194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_215'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3716d6be3b6667b70800000000000000
+      internalID: 8896411036851986803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_216'
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6c816b0b4fd1560800000000000000
+      internalID: 7286248811961829058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_217'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0d460bbf93dbd0800000000000000
+      internalID: -2606564133703971993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_218'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d06d321d4222d90800000000000000
+      internalID: -7124091179878707885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_219'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e82eebc548b25890800000000000000
+      internalID: -7470706221940594464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_220'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 46
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8abd6643813ff770800000000000000
+      internalID: 8646684249466714766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_221'
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 44
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27345ae4a9f319cc0800000000000000
+      internalID: -3706111086372240526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_222'
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 47
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e37d23a41e3310800000000000000
+      internalID: 1386568426351487040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_223'
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5a7d1aa110b1480800000000000000
+      internalID: -8927540622435834420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_224'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5d1f7c4494f5f10800000000000000
+      internalID: 2260606097724396994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_225'
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 10
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b5a5a7923033c20800000000000000
+      internalID: 3184892838162356994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_226'
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d088038217b3b3f0800000000000000
+      internalID: -886163411526188848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[Base]BaseChip_pipo_227'
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 9
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3163436dd6baf0800000000000000
+      internalID: -380873700064281546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[Base]BaseChip_pipo_0': -7848707938238063223
+      '[Base]BaseChip_pipo_1': -2163557284264048184
+      '[Base]BaseChip_pipo_10': -1517471938410309621
+      '[Base]BaseChip_pipo_100': -9000189264178056525
+      '[Base]BaseChip_pipo_101': -1902346765419304621
+      '[Base]BaseChip_pipo_102': -3286011253530595928
+      '[Base]BaseChip_pipo_103': 2583368196524346040
+      '[Base]BaseChip_pipo_104': -4021792159396124065
+      '[Base]BaseChip_pipo_105': 7374125818996160714
+      '[Base]BaseChip_pipo_106': 7420539797634313796
+      '[Base]BaseChip_pipo_107': 4517623131455609312
+      '[Base]BaseChip_pipo_108': -1316575509716818907
+      '[Base]BaseChip_pipo_109': -2002609333119572991
+      '[Base]BaseChip_pipo_11': 5339965462978905202
+      '[Base]BaseChip_pipo_110': 4673366723026829467
+      '[Base]BaseChip_pipo_111': 6412010206174860026
+      '[Base]BaseChip_pipo_112': -4641142263446896182
+      '[Base]BaseChip_pipo_113': 6088423899354016551
+      '[Base]BaseChip_pipo_114': 2782454888675610521
+      '[Base]BaseChip_pipo_115': 7247581676969967755
+      '[Base]BaseChip_pipo_116': 8760885591696750652
+      '[Base]BaseChip_pipo_117': 8959914092757028293
+      '[Base]BaseChip_pipo_118': -2711231513314662852
+      '[Base]BaseChip_pipo_119': 5626444559694389939
+      '[Base]BaseChip_pipo_12': -2945816707985449194
+      '[Base]BaseChip_pipo_120': 5965340666993620889
+      '[Base]BaseChip_pipo_121': -8112859771959169820
+      '[Base]BaseChip_pipo_122': 6866543121383174009
+      '[Base]BaseChip_pipo_123': 7378249597910824395
+      '[Base]BaseChip_pipo_124': -6254841210638772193
+      '[Base]BaseChip_pipo_125': -4080232749267803357
+      '[Base]BaseChip_pipo_126': -9096586667767068084
+      '[Base]BaseChip_pipo_127': -8102022731459309053
+      '[Base]BaseChip_pipo_128': 977714812000738458
+      '[Base]BaseChip_pipo_129': -7164072453212599924
+      '[Base]BaseChip_pipo_13': 348675669127100063
+      '[Base]BaseChip_pipo_130': -3757963385061001902
+      '[Base]BaseChip_pipo_131': 9083013439393151668
+      '[Base]BaseChip_pipo_132': 7181170068776276753
+      '[Base]BaseChip_pipo_133': 6626976907511205306
+      '[Base]BaseChip_pipo_134': 8659682358810526766
+      '[Base]BaseChip_pipo_135': -5764957520112803738
+      '[Base]BaseChip_pipo_136': 3444542860178941442
+      '[Base]BaseChip_pipo_137': -8360604166608665967
+      '[Base]BaseChip_pipo_138': 2979615780082551507
+      '[Base]BaseChip_pipo_139': -5246918594344295343
+      '[Base]BaseChip_pipo_14': 2241499545177685676
+      '[Base]BaseChip_pipo_140': -7713123908734298716
+      '[Base]BaseChip_pipo_141': -1738640918873265161
+      '[Base]BaseChip_pipo_142': 736459913354310878
+      '[Base]BaseChip_pipo_143': 4762587869335658007
+      '[Base]BaseChip_pipo_144': -7723049785062814957
+      '[Base]BaseChip_pipo_145': 5922164005136726108
+      '[Base]BaseChip_pipo_146': -7938382500850407801
+      '[Base]BaseChip_pipo_147': 6247015347438632405
+      '[Base]BaseChip_pipo_148': -2359958340573235428
+      '[Base]BaseChip_pipo_149': 551259119082169037
+      '[Base]BaseChip_pipo_15': -4697231023394172263
+      '[Base]BaseChip_pipo_150': -416841768577177016
+      '[Base]BaseChip_pipo_151': -3868415174338189711
+      '[Base]BaseChip_pipo_152': -8718842600806805093
+      '[Base]BaseChip_pipo_153': 2918849196319052067
+      '[Base]BaseChip_pipo_154': 6090238919216994969
+      '[Base]BaseChip_pipo_155': 3806112199569036718
+      '[Base]BaseChip_pipo_156': -1477595275054574440
+      '[Base]BaseChip_pipo_157': 2843794952646299900
+      '[Base]BaseChip_pipo_158': 3957698633041751148
+      '[Base]BaseChip_pipo_159': -8047240443745202896
+      '[Base]BaseChip_pipo_16': 1635889855507257428
+      '[Base]BaseChip_pipo_160': -9069805963371035241
+      '[Base]BaseChip_pipo_161': -5211395716500461656
+      '[Base]BaseChip_pipo_162': -4043102039081996058
+      '[Base]BaseChip_pipo_163': -4229677336030555967
+      '[Base]BaseChip_pipo_164': 544992659028902946
+      '[Base]BaseChip_pipo_165': -9174715404397057517
+      '[Base]BaseChip_pipo_166': 4606331182628343846
+      '[Base]BaseChip_pipo_167': 6105127484610634250
+      '[Base]BaseChip_pipo_168': 7152464929151914035
+      '[Base]BaseChip_pipo_169': -6667280607249604917
+      '[Base]BaseChip_pipo_17': -755115072430909024
+      '[Base]BaseChip_pipo_170': 631597073829135823
+      '[Base]BaseChip_pipo_171': -3618735402631895929
+      '[Base]BaseChip_pipo_172': -1967628522030065472
+      '[Base]BaseChip_pipo_173': -7443584810702522860
+      '[Base]BaseChip_pipo_174': 3931504063648820948
+      '[Base]BaseChip_pipo_175': -7006509474299880177
+      '[Base]BaseChip_pipo_176': 4158314400596275122
+      '[Base]BaseChip_pipo_177': -9159024230638399443
+      '[Base]BaseChip_pipo_178': 1792467080387260800
+      '[Base]BaseChip_pipo_179': -5244276286188797260
+      '[Base]BaseChip_pipo_18': 2463436930465241715
+      '[Base]BaseChip_pipo_180': -2511564118960826363
+      '[Base]BaseChip_pipo_181': 4719829913906851023
+      '[Base]BaseChip_pipo_182': -6048060967638860854
+      '[Base]BaseChip_pipo_183': -9150308918593224891
+      '[Base]BaseChip_pipo_184': 6149839705401332691
+      '[Base]BaseChip_pipo_185': -3770149790866992104
+      '[Base]BaseChip_pipo_186': 7762851496804991633
+      '[Base]BaseChip_pipo_187': 4722583843202717063
+      '[Base]BaseChip_pipo_188': 3683269859654602900
+      '[Base]BaseChip_pipo_189': 1846017141973113615
+      '[Base]BaseChip_pipo_19': 8932041349645455992
+      '[Base]BaseChip_pipo_190': -9193552245795294940
+      '[Base]BaseChip_pipo_191': -1416011913696585080
+      '[Base]BaseChip_pipo_192': -6394970042877119231
+      '[Base]BaseChip_pipo_193': 5659379963637353390
+      '[Base]BaseChip_pipo_194': -7731460388842338591
+      '[Base]BaseChip_pipo_195': -6271216285456568786
+      '[Base]BaseChip_pipo_196': -5021924794485805380
+      '[Base]BaseChip_pipo_197': 5991376045462554068
+      '[Base]BaseChip_pipo_198': -6768860558627771603
+      '[Base]BaseChip_pipo_199': -3577120431406338575
+      '[Base]BaseChip_pipo_2': -6152237611823640865
+      '[Base]BaseChip_pipo_20': 4037398321944712679
+      '[Base]BaseChip_pipo_200': -6455371611718537589
+      '[Base]BaseChip_pipo_201': -4631713802449978144
+      '[Base]BaseChip_pipo_202': 1422028899115372812
+      '[Base]BaseChip_pipo_203': 4211063098994285058
+      '[Base]BaseChip_pipo_204': 4553830807459058416
+      '[Base]BaseChip_pipo_205': -3711180364200729252
+      '[Base]BaseChip_pipo_206': 2590969630703089666
+      '[Base]BaseChip_pipo_207': -8805077930101908514
+      '[Base]BaseChip_pipo_208': 1775190667582824400
+      '[Base]BaseChip_pipo_209': -8466639240541457456
+      '[Base]BaseChip_pipo_21': -5521835126753409976
+      '[Base]BaseChip_pipo_210': -5924751316056682737
+      '[Base]BaseChip_pipo_211': 6782395992147361195
+      '[Base]BaseChip_pipo_212': -7873176482028287921
+      '[Base]BaseChip_pipo_213': 4060680324029849594
+      '[Base]BaseChip_pipo_214': -4897464346185692194
+      '[Base]BaseChip_pipo_215': 8896411036851986803
+      '[Base]BaseChip_pipo_216': 7286248811961829058
+      '[Base]BaseChip_pipo_217': -2606564133703971993
+      '[Base]BaseChip_pipo_218': -7124091179878707885
+      '[Base]BaseChip_pipo_219': -7470706221940594464
+      '[Base]BaseChip_pipo_22': 6530874693241718450
+      '[Base]BaseChip_pipo_220': 8646684249466714766
+      '[Base]BaseChip_pipo_221': -3706111086372240526
+      '[Base]BaseChip_pipo_222': 1386568426351487040
+      '[Base]BaseChip_pipo_223': -8927540622435834420
+      '[Base]BaseChip_pipo_224': 2260606097724396994
+      '[Base]BaseChip_pipo_225': 3184892838162356994
+      '[Base]BaseChip_pipo_226': -886163411526188848
+      '[Base]BaseChip_pipo_227': -380873700064281546
+      '[Base]BaseChip_pipo_23': -6165808551466716705
+      '[Base]BaseChip_pipo_24': 1445244126873949014
+      '[Base]BaseChip_pipo_25': 7578130433253043267
+      '[Base]BaseChip_pipo_26': -7290672266700058860
+      '[Base]BaseChip_pipo_27': -1763492161628517297
+      '[Base]BaseChip_pipo_28': -1559130066895042843
+      '[Base]BaseChip_pipo_29': 2976375811463166101
+      '[Base]BaseChip_pipo_3': -7702672988755760840
+      '[Base]BaseChip_pipo_30': 7365514287451573593
+      '[Base]BaseChip_pipo_31': 1110720166705556585
+      '[Base]BaseChip_pipo_32': -3078488137475817775
+      '[Base]BaseChip_pipo_33': -6584498108876401854
+      '[Base]BaseChip_pipo_34': -4974652434417951564
+      '[Base]BaseChip_pipo_35': 7173742024756813901
+      '[Base]BaseChip_pipo_36': -876489446567412493
+      '[Base]BaseChip_pipo_37': -4737678927451879822
+      '[Base]BaseChip_pipo_38': 5416606432609103481
+      '[Base]BaseChip_pipo_39': 281414747259554471
+      '[Base]BaseChip_pipo_4': 2676458307811617062
+      '[Base]BaseChip_pipo_40': 6976835635757252638
+      '[Base]BaseChip_pipo_41': -1402914444458993277
+      '[Base]BaseChip_pipo_42': -7743493404627762822
+      '[Base]BaseChip_pipo_43': 4883799278670044076
+      '[Base]BaseChip_pipo_44': -9150251697075581569
+      '[Base]BaseChip_pipo_45': 7499648582340733879
+      '[Base]BaseChip_pipo_46': 5174374044649130764
+      '[Base]BaseChip_pipo_47': -4207428500809997909
+      '[Base]BaseChip_pipo_48': -6585191297835083819
+      '[Base]BaseChip_pipo_49': -2390146394967989935
+      '[Base]BaseChip_pipo_5': 5172359125341881869
+      '[Base]BaseChip_pipo_50': 7831751655064729540
+      '[Base]BaseChip_pipo_51': -9214089150372828947
+      '[Base]BaseChip_pipo_52': -4304303372019452176
+      '[Base]BaseChip_pipo_53': -1977835414578970689
+      '[Base]BaseChip_pipo_54': -8666444459929266290
+      '[Base]BaseChip_pipo_55': -424324484495180717
+      '[Base]BaseChip_pipo_56': 5326713304192221998
+      '[Base]BaseChip_pipo_57': -5237295173776202075
+      '[Base]BaseChip_pipo_58': -3186305154958369528
+      '[Base]BaseChip_pipo_59': 7760601236832726221
+      '[Base]BaseChip_pipo_6': 7080985625815012359
+      '[Base]BaseChip_pipo_60': -1736070096947208156
+      '[Base]BaseChip_pipo_61': -2100697911316854649
+      '[Base]BaseChip_pipo_62': -2433825662520690341
+      '[Base]BaseChip_pipo_63': 3459292145084207789
+      '[Base]BaseChip_pipo_64': 4183071384871654930
+      '[Base]BaseChip_pipo_65': 5692228123003585357
+      '[Base]BaseChip_pipo_66': 6322500853232823020
+      '[Base]BaseChip_pipo_67': 8931618374473114538
+      '[Base]BaseChip_pipo_68': 2131087177346492376
+      '[Base]BaseChip_pipo_69': -6555588951552640777
+      '[Base]BaseChip_pipo_7': -7127748199046343970
+      '[Base]BaseChip_pipo_70': -7409783893690292999
+      '[Base]BaseChip_pipo_71': -8240249728805239301
+      '[Base]BaseChip_pipo_72': 3302010279016071689
+      '[Base]BaseChip_pipo_73': -4908638853908093082
+      '[Base]BaseChip_pipo_74': -7489444987667729974
+      '[Base]BaseChip_pipo_75': -5553457117313519589
+      '[Base]BaseChip_pipo_76': -7209808024599161065
+      '[Base]BaseChip_pipo_77': 8179740113990914342
+      '[Base]BaseChip_pipo_78': 1693837320726072568
+      '[Base]BaseChip_pipo_79': 7111159724477781066
+      '[Base]BaseChip_pipo_8': -7364711242664165220
+      '[Base]BaseChip_pipo_80': 6721878483071684928
+      '[Base]BaseChip_pipo_81': 8883483374544449445
+      '[Base]BaseChip_pipo_82': 8783624631508381952
+      '[Base]BaseChip_pipo_83': -7062955591850774992
+      '[Base]BaseChip_pipo_84': -6158589481102604377
+      '[Base]BaseChip_pipo_85': 5113667048215868629
+      '[Base]BaseChip_pipo_86': -9000947605352164619
+      '[Base]BaseChip_pipo_87': 3741063265104679997
+      '[Base]BaseChip_pipo_88': -8654461411237770040
+      '[Base]BaseChip_pipo_89': 2678226996681592699
+      '[Base]BaseChip_pipo_9': -3654299068792484419
+      '[Base]BaseChip_pipo_90': -7509724868852147091
+      '[Base]BaseChip_pipo_91': 6833624116471680874
+      '[Base]BaseChip_pipo_92': -1940958744824657037
+      '[Base]BaseChip_pipo_93': 1679826094560388730
+      '[Base]BaseChip_pipo_94': 1859974576133262772
+      '[Base]BaseChip_pipo_95': -877306746170518989
+      '[Base]BaseChip_pipo_96': -2894342094907650633
+      '[Base]BaseChip_pipo_97': 5996212051215970595
+      '[Base]BaseChip_pipo_98': 8168352488737126535
+      '[Base]BaseChip_pipo_99': 1258398233914814397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
