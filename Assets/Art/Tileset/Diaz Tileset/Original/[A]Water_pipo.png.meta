@@ -1,0 +1,7280 @@
+fileFormatVersion: 2
+guid: ee0b5ef13d9cd4e48be7115c86164fa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 607480821420680184
+    second: '[A]Water_pipo_0'
+  - first:
+      213: -7156784402339511644
+    second: '[A]Water_pipo_1'
+  - first:
+      213: -9148070269055415646
+    second: '[A]Water_pipo_2'
+  - first:
+      213: -4956850776496599954
+    second: '[A]Water_pipo_3'
+  - first:
+      213: 8693264476438318592
+    second: '[A]Water_pipo_4'
+  - first:
+      213: -206991655536181426
+    second: '[A]Water_pipo_5'
+  - first:
+      213: 633179082229327314
+    second: '[A]Water_pipo_6'
+  - first:
+      213: -4672397257529634467
+    second: '[A]Water_pipo_7'
+  - first:
+      213: 2623077328995902068
+    second: '[A]Water_pipo_8'
+  - first:
+      213: 5110544496027572809
+    second: '[A]Water_pipo_9'
+  - first:
+      213: -2221988739602929431
+    second: '[A]Water_pipo_10'
+  - first:
+      213: 5186774206612253570
+    second: '[A]Water_pipo_11'
+  - first:
+      213: -7641812078754547375
+    second: '[A]Water_pipo_12'
+  - first:
+      213: 3646116780898859247
+    second: '[A]Water_pipo_13'
+  - first:
+      213: 7056133515652227042
+    second: '[A]Water_pipo_14'
+  - first:
+      213: -8939275982461652153
+    second: '[A]Water_pipo_15'
+  - first:
+      213: -1983002643980385875
+    second: '[A]Water_pipo_16'
+  - first:
+      213: -6544181975462850560
+    second: '[A]Water_pipo_17'
+  - first:
+      213: -8313820072380186269
+    second: '[A]Water_pipo_18'
+  - first:
+      213: 8508446812760329918
+    second: '[A]Water_pipo_19'
+  - first:
+      213: 992738795747432675
+    second: '[A]Water_pipo_20'
+  - first:
+      213: -4334181585180749004
+    second: '[A]Water_pipo_21'
+  - first:
+      213: 2457384005685881496
+    second: '[A]Water_pipo_22'
+  - first:
+      213: -1641450018817978151
+    second: '[A]Water_pipo_23'
+  - first:
+      213: -947510045465932893
+    second: '[A]Water_pipo_24'
+  - first:
+      213: -7078311314363648380
+    second: '[A]Water_pipo_25'
+  - first:
+      213: -340980853348139023
+    second: '[A]Water_pipo_26'
+  - first:
+      213: 6308209947756246671
+    second: '[A]Water_pipo_27'
+  - first:
+      213: -7230010500887704744
+    second: '[A]Water_pipo_28'
+  - first:
+      213: 5102482244590258952
+    second: '[A]Water_pipo_29'
+  - first:
+      213: 5234644917894278236
+    second: '[A]Water_pipo_30'
+  - first:
+      213: -851244236229064795
+    second: '[A]Water_pipo_31'
+  - first:
+      213: 960192417182278168
+    second: '[A]Water_pipo_32'
+  - first:
+      213: 73124482101288102
+    second: '[A]Water_pipo_33'
+  - first:
+      213: -5590940456358329132
+    second: '[A]Water_pipo_34'
+  - first:
+      213: 9024186219553463110
+    second: '[A]Water_pipo_35'
+  - first:
+      213: -2398794544070926380
+    second: '[A]Water_pipo_36'
+  - first:
+      213: 3054812011428992829
+    second: '[A]Water_pipo_37'
+  - first:
+      213: 4100166313663642434
+    second: '[A]Water_pipo_38'
+  - first:
+      213: -6709887809985570496
+    second: '[A]Water_pipo_39'
+  - first:
+      213: -5969418981081967554
+    second: '[A]Water_pipo_40'
+  - first:
+      213: -8981786103308573952
+    second: '[A]Water_pipo_41'
+  - first:
+      213: 8648505177415193318
+    second: '[A]Water_pipo_42'
+  - first:
+      213: 7610896861436833034
+    second: '[A]Water_pipo_43'
+  - first:
+      213: 4245514448926779874
+    second: '[A]Water_pipo_44'
+  - first:
+      213: -7929910971240547745
+    second: '[A]Water_pipo_45'
+  - first:
+      213: 2457929636324588233
+    second: '[A]Water_pipo_46'
+  - first:
+      213: -2992734775617469835
+    second: '[A]Water_pipo_47'
+  - first:
+      213: -6235370132691837985
+    second: '[A]Water_pipo_48'
+  - first:
+      213: 7707931392637370991
+    second: '[A]Water_pipo_49'
+  - first:
+      213: -5146081456397374458
+    second: '[A]Water_pipo_50'
+  - first:
+      213: -2941928621729144347
+    second: '[A]Water_pipo_51'
+  - first:
+      213: 469965340584270926
+    second: '[A]Water_pipo_52'
+  - first:
+      213: 954928551066590468
+    second: '[A]Water_pipo_53'
+  - first:
+      213: 6344469396726492074
+    second: '[A]Water_pipo_54'
+  - first:
+      213: 4819058430109630154
+    second: '[A]Water_pipo_55'
+  - first:
+      213: 4115202498504501376
+    second: '[A]Water_pipo_56'
+  - first:
+      213: -5429009577385486804
+    second: '[A]Water_pipo_57'
+  - first:
+      213: -1804626276469531803
+    second: '[A]Water_pipo_58'
+  - first:
+      213: -6595994548670048289
+    second: '[A]Water_pipo_59'
+  - first:
+      213: 6222983607536605495
+    second: '[A]Water_pipo_60'
+  - first:
+      213: -1889350363263850586
+    second: '[A]Water_pipo_61'
+  - first:
+      213: -6578932964146955395
+    second: '[A]Water_pipo_62'
+  - first:
+      213: 1300781847672074250
+    second: '[A]Water_pipo_63'
+  - first:
+      213: -8190894456638115385
+    second: '[A]Water_pipo_64'
+  - first:
+      213: -6111578769247272329
+    second: '[A]Water_pipo_65'
+  - first:
+      213: -7595110737552760040
+    second: '[A]Water_pipo_66'
+  - first:
+      213: -4277299066876282911
+    second: '[A]Water_pipo_67'
+  - first:
+      213: 2945252957645104862
+    second: '[A]Water_pipo_68'
+  - first:
+      213: 3810228387258078765
+    second: '[A]Water_pipo_69'
+  - first:
+      213: 4690319060021026276
+    second: '[A]Water_pipo_70'
+  - first:
+      213: -248990640391589574
+    second: '[A]Water_pipo_71'
+  - first:
+      213: 9056750412156662657
+    second: '[A]Water_pipo_72'
+  - first:
+      213: -3861747568568082827
+    second: '[A]Water_pipo_73'
+  - first:
+      213: 4373905036204043047
+    second: '[A]Water_pipo_74'
+  - first:
+      213: -1338737601022137850
+    second: '[A]Water_pipo_75'
+  - first:
+      213: -1672716590744370406
+    second: '[A]Water_pipo_76'
+  - first:
+      213: 1121186732209349963
+    second: '[A]Water_pipo_77'
+  - first:
+      213: 8067153850463630783
+    second: '[A]Water_pipo_78'
+  - first:
+      213: 3182157089031015208
+    second: '[A]Water_pipo_79'
+  - first:
+      213: 6262993287312661857
+    second: '[A]Water_pipo_80'
+  - first:
+      213: 1433781438030299324
+    second: '[A]Water_pipo_81'
+  - first:
+      213: 395576385157052050
+    second: '[A]Water_pipo_82'
+  - first:
+      213: -3202451660470650960
+    second: '[A]Water_pipo_83'
+  - first:
+      213: -1589952982940824692
+    second: '[A]Water_pipo_84'
+  - first:
+      213: -5431963632905441939
+    second: '[A]Water_pipo_85'
+  - first:
+      213: -1434988893091284952
+    second: '[A]Water_pipo_86'
+  - first:
+      213: -3807270954937554877
+    second: '[A]Water_pipo_87'
+  - first:
+      213: 308844528429355410
+    second: '[A]Water_pipo_88'
+  - first:
+      213: 5203062299061246082
+    second: '[A]Water_pipo_89'
+  - first:
+      213: 4171863022480316567
+    second: '[A]Water_pipo_90'
+  - first:
+      213: -4974041754726529292
+    second: '[A]Water_pipo_91'
+  - first:
+      213: -5683975021710968966
+    second: '[A]Water_pipo_92'
+  - first:
+      213: -325674277167882303
+    second: '[A]Water_pipo_93'
+  - first:
+      213: -3123451996537430191
+    second: '[A]Water_pipo_94'
+  - first:
+      213: 1345805554260939767
+    second: '[A]Water_pipo_95'
+  - first:
+      213: -2095696045986782568
+    second: '[A]Water_pipo_96'
+  - first:
+      213: 7331459680942637575
+    second: '[A]Water_pipo_97'
+  - first:
+      213: -2948961457858453915
+    second: '[A]Water_pipo_98'
+  - first:
+      213: -8060653222694830938
+    second: '[A]Water_pipo_99'
+  - first:
+      213: 7948161716582884218
+    second: '[A]Water_pipo_100'
+  - first:
+      213: 947096837260756884
+    second: '[A]Water_pipo_101'
+  - first:
+      213: 2771833259558981254
+    second: '[A]Water_pipo_102'
+  - first:
+      213: -8315796024338632947
+    second: '[A]Water_pipo_103'
+  - first:
+      213: -6245176313676211150
+    second: '[A]Water_pipo_104'
+  - first:
+      213: -97256299331481682
+    second: '[A]Water_pipo_105'
+  - first:
+      213: -4211691325794066498
+    second: '[A]Water_pipo_106'
+  - first:
+      213: -6882966723684753859
+    second: '[A]Water_pipo_107'
+  - first:
+      213: -5679891217075498203
+    second: '[A]Water_pipo_108'
+  - first:
+      213: 7901630648461109562
+    second: '[A]Water_pipo_109'
+  - first:
+      213: 696591015740084571
+    second: '[A]Water_pipo_110'
+  - first:
+      213: 4091401158208544032
+    second: '[A]Water_pipo_111'
+  - first:
+      213: -3915442295660975336
+    second: '[A]Water_pipo_112'
+  - first:
+      213: -5948728051364506290
+    second: '[A]Water_pipo_113'
+  - first:
+      213: 2116843801755205435
+    second: '[A]Water_pipo_114'
+  - first:
+      213: -5201610923784424484
+    second: '[A]Water_pipo_115'
+  - first:
+      213: -2336619704814520969
+    second: '[A]Water_pipo_116'
+  - first:
+      213: 5493334243518715224
+    second: '[A]Water_pipo_117'
+  - first:
+      213: -7839948466903190190
+    second: '[A]Water_pipo_118'
+  - first:
+      213: -4234688957724961272
+    second: '[A]Water_pipo_119'
+  - first:
+      213: -349078051681011917
+    second: '[A]Water_pipo_120'
+  - first:
+      213: 3001259230020316047
+    second: '[A]Water_pipo_121'
+  - first:
+      213: 5625670474030254917
+    second: '[A]Water_pipo_122'
+  - first:
+      213: -8221354183462086139
+    second: '[A]Water_pipo_123'
+  - first:
+      213: 8813310120699621014
+    second: '[A]Water_pipo_124'
+  - first:
+      213: 3266533365467525442
+    second: '[A]Water_pipo_125'
+  - first:
+      213: -7494307798262371759
+    second: '[A]Water_pipo_126'
+  - first:
+      213: 2163493764633192674
+    second: '[A]Water_pipo_127'
+  - first:
+      213: 4994859833035949768
+    second: '[A]Water_pipo_128'
+  - first:
+      213: 1873303098024788277
+    second: '[A]Water_pipo_129'
+  - first:
+      213: 412139938467278848
+    second: '[A]Water_pipo_130'
+  - first:
+      213: 1422767238115872923
+    second: '[A]Water_pipo_131'
+  - first:
+      213: -8883652247328871338
+    second: '[A]Water_pipo_132'
+  - first:
+      213: -4104082388801225960
+    second: '[A]Water_pipo_133'
+  - first:
+      213: -3522917109898043083
+    second: '[A]Water_pipo_134'
+  - first:
+      213: -5761367627422087496
+    second: '[A]Water_pipo_135'
+  - first:
+      213: 1874790688900423116
+    second: '[A]Water_pipo_136'
+  - first:
+      213: -2094602833182630530
+    second: '[A]Water_pipo_137'
+  - first:
+      213: -6780920041214497339
+    second: '[A]Water_pipo_138'
+  - first:
+      213: 8918564297402709660
+    second: '[A]Water_pipo_139'
+  - first:
+      213: 5776175281415345224
+    second: '[A]Water_pipo_140'
+  - first:
+      213: 5661094682032947193
+    second: '[A]Water_pipo_141'
+  - first:
+      213: -9156202121964471313
+    second: '[A]Water_pipo_142'
+  - first:
+      213: -9209523774347521503
+    second: '[A]Water_pipo_143'
+  - first:
+      213: -8814614691103485659
+    second: '[A]Water_pipo_144'
+  - first:
+      213: -1283409238526818621
+    second: '[A]Water_pipo_145'
+  - first:
+      213: -7581959611978909030
+    second: '[A]Water_pipo_146'
+  - first:
+      213: -345471760340429751
+    second: '[A]Water_pipo_147'
+  - first:
+      213: -408491649439440932
+    second: '[A]Water_pipo_148'
+  - first:
+      213: -6361873459886802483
+    second: '[A]Water_pipo_149'
+  - first:
+      213: 6911712764573778600
+    second: '[A]Water_pipo_150'
+  - first:
+      213: -1906363049549002408
+    second: '[A]Water_pipo_151'
+  - first:
+      213: -6400977759889301388
+    second: '[A]Water_pipo_152'
+  - first:
+      213: -2942491563637091786
+    second: '[A]Water_pipo_153'
+  - first:
+      213: 3154286825618640945
+    second: '[A]Water_pipo_154'
+  - first:
+      213: 9011361484072477039
+    second: '[A]Water_pipo_155'
+  - first:
+      213: -6942071720794546578
+    second: '[A]Water_pipo_156'
+  - first:
+      213: 2316484980672477857
+    second: '[A]Water_pipo_157'
+  - first:
+      213: 3048682112781648564
+    second: '[A]Water_pipo_158'
+  - first:
+      213: -7763728821148636619
+    second: '[A]Water_pipo_159'
+  - first:
+      213: 3853198361765787819
+    second: '[A]Water_pipo_160'
+  - first:
+      213: 7159722683212703594
+    second: '[A]Water_pipo_161'
+  - first:
+      213: -7847511186946841974
+    second: '[A]Water_pipo_162'
+  - first:
+      213: -418972442522004849
+    second: '[A]Water_pipo_163'
+  - first:
+      213: -5423647336677401142
+    second: '[A]Water_pipo_164'
+  - first:
+      213: -3820728120986022484
+    second: '[A]Water_pipo_165'
+  - first:
+      213: 2755950560970585608
+    second: '[A]Water_pipo_166'
+  - first:
+      213: -4059104244418906242
+    second: '[A]Water_pipo_167'
+  - first:
+      213: 3561701661406232206
+    second: '[A]Water_pipo_168'
+  - first:
+      213: 511197054840570924
+    second: '[A]Water_pipo_169'
+  - first:
+      213: -1530821863343439395
+    second: '[A]Water_pipo_170'
+  - first:
+      213: -4109745571660357514
+    second: '[A]Water_pipo_171'
+  - first:
+      213: 8090734488248138886
+    second: '[A]Water_pipo_172'
+  - first:
+      213: -1580737547491318880
+    second: '[A]Water_pipo_173'
+  - first:
+      213: 611084251487901919
+    second: '[A]Water_pipo_174'
+  - first:
+      213: 8800749020662874548
+    second: '[A]Water_pipo_175'
+  - first:
+      213: 1352679140461081336
+    second: '[A]Water_pipo_176'
+  - first:
+      213: 8671642999137800096
+    second: '[A]Water_pipo_177'
+  - first:
+      213: -6064321123408106646
+    second: '[A]Water_pipo_178'
+  - first:
+      213: -8707671197008574522
+    second: '[A]Water_pipo_179'
+  - first:
+      213: -5673768658480577181
+    second: '[A]Water_pipo_180'
+  - first:
+      213: 7559502751590272738
+    second: '[A]Water_pipo_181'
+  - first:
+      213: -3133512455371777268
+    second: '[A]Water_pipo_182'
+  - first:
+      213: 3471281880260655735
+    second: '[A]Water_pipo_183'
+  - first:
+      213: 6907600700795524513
+    second: '[A]Water_pipo_184'
+  - first:
+      213: -2685156114261342326
+    second: '[A]Water_pipo_185'
+  - first:
+      213: 4062767326446851310
+    second: '[A]Water_pipo_186'
+  - first:
+      213: -3155426865136688051
+    second: '[A]Water_pipo_187'
+  - first:
+      213: 7166234723522271721
+    second: '[A]Water_pipo_188'
+  - first:
+      213: 7714785317227337918
+    second: '[A]Water_pipo_189'
+  - first:
+      213: 569860547360093853
+    second: '[A]Water_pipo_190'
+  - first:
+      213: 1016501069238945107
+    second: '[A]Water_pipo_191'
+  - first:
+      213: 196657274451897546
+    second: '[A]Water_pipo_192'
+  - first:
+      213: 3992432100589276794
+    second: '[A]Water_pipo_193'
+  - first:
+      213: -6975789140594165413
+    second: '[A]Water_pipo_194'
+  - first:
+      213: 4430662765429193072
+    second: '[A]Water_pipo_195'
+  - first:
+      213: 4726586497299905562
+    second: '[A]Water_pipo_196'
+  - first:
+      213: 6757949631487740360
+    second: '[A]Water_pipo_197'
+  - first:
+      213: -2923536989164290127
+    second: '[A]Water_pipo_198'
+  - first:
+      213: -9121111517972653764
+    second: '[A]Water_pipo_199'
+  - first:
+      213: 8191993136539499684
+    second: '[A]Water_pipo_200'
+  - first:
+      213: 6681542991888926191
+    second: '[A]Water_pipo_201'
+  - first:
+      213: -1105588803893563145
+    second: '[A]Water_pipo_202'
+  - first:
+      213: 7527321294130494514
+    second: '[A]Water_pipo_203'
+  - first:
+      213: -552469046346773466
+    second: '[A]Water_pipo_204'
+  - first:
+      213: -6402802077337390303
+    second: '[A]Water_pipo_205'
+  - first:
+      213: -1258306859984853627
+    second: '[A]Water_pipo_206'
+  - first:
+      213: -4719033294604496738
+    second: '[A]Water_pipo_207'
+  - first:
+      213: -3343599667061804874
+    second: '[A]Water_pipo_208'
+  - first:
+      213: -5517314579382478353
+    second: '[A]Water_pipo_209'
+  - first:
+      213: 5239917294846744073
+    second: '[A]Water_pipo_210'
+  - first:
+      213: -4212491184835250728
+    second: '[A]Water_pipo_211'
+  - first:
+      213: 3916275776137770595
+    second: '[A]Water_pipo_212'
+  - first:
+      213: 4092527332444127019
+    second: '[A]Water_pipo_213'
+  - first:
+      213: 4401376864567905730
+    second: '[A]Water_pipo_214'
+  - first:
+      213: 2593841340780433936
+    second: '[A]Water_pipo_215'
+  - first:
+      213: 6124057425408129670
+    second: '[A]Water_pipo_216'
+  - first:
+      213: -6163854373069567391
+    second: '[A]Water_pipo_217'
+  - first:
+      213: -1156766571407884500
+    second: '[A]Water_pipo_218'
+  - first:
+      213: -6589225025291442709
+    second: '[A]Water_pipo_219'
+  - first:
+      213: -3053597473213143196
+    second: '[A]Water_pipo_220'
+  - first:
+      213: 1253972589963103167
+    second: '[A]Water_pipo_221'
+  - first:
+      213: -4556053813294437905
+    second: '[A]Water_pipo_222'
+  - first:
+      213: -944767100363135465
+    second: '[A]Water_pipo_223'
+  - first:
+      213: 3897523127984697638
+    second: '[A]Water_pipo_224'
+  - first:
+      213: 6061023892135424455
+    second: '[A]Water_pipo_225'
+  - first:
+      213: 7702723684099723090
+    second: '[A]Water_pipo_226'
+  - first:
+      213: -7537138312014178025
+    second: '[A]Water_pipo_227'
+  - first:
+      213: -812248578128611183
+    second: '[A]Water_pipo_228'
+  - first:
+      213: 3488660265285762955
+    second: '[A]Water_pipo_229'
+  - first:
+      213: -8914426149559276122
+    second: '[A]Water_pipo_230'
+  - first:
+      213: -353294129520326740
+    second: '[A]Water_pipo_231'
+  - first:
+      213: -2400288377101381993
+    second: '[A]Water_pipo_232'
+  - first:
+      213: 1140870317367222728
+    second: '[A]Water_pipo_233'
+  - first:
+      213: -6271597402822457227
+    second: '[A]Water_pipo_234'
+  - first:
+      213: 7111324133987141150
+    second: '[A]Water_pipo_235'
+  - first:
+      213: -2533103755700569101
+    second: '[A]Water_pipo_236'
+  - first:
+      213: -1807992714020123749
+    second: '[A]Water_pipo_237'
+  - first:
+      213: -1284170125765888149
+    second: '[A]Water_pipo_238'
+  - first:
+      213: -3441765462656386236
+    second: '[A]Water_pipo_239'
+  - first:
+      213: -860628413531620184
+    second: '[A]Water_pipo_240'
+  - first:
+      213: -3928859177557402894
+    second: '[A]Water_pipo_241'
+  - first:
+      213: -5519877164819562422
+    second: '[A]Water_pipo_242'
+  - first:
+      213: -5324531919045344751
+    second: '[A]Water_pipo_243'
+  - first:
+      213: -5845801299944935885
+    second: '[A]Water_pipo_244'
+  - first:
+      213: -2187032191304732656
+    second: '[A]Water_pipo_245'
+  - first:
+      213: -2930182252283481348
+    second: '[A]Water_pipo_246'
+  - first:
+      213: -5295545060922113380
+    second: '[A]Water_pipo_247'
+  - first:
+      213: 7177668554895099855
+    second: '[A]Water_pipo_248'
+  - first:
+      213: -4693455538036371662
+    second: '[A]Water_pipo_249'
+  - first:
+      213: -8426876507942902121
+    second: '[A]Water_pipo_250'
+  - first:
+      213: 8721730042465231774
+    second: '[A]Water_pipo_251'
+  - first:
+      213: 3923881067469111339
+    second: '[A]Water_pipo_252'
+  - first:
+      213: -5775029041612506300
+    second: '[A]Water_pipo_253'
+  - first:
+      213: 385488465282391522
+    second: '[A]Water_pipo_254'
+  - first:
+      213: -7263949478635581663
+    second: '[A]Water_pipo_255'
+  - first:
+      213: 7871240297441261749
+    second: '[A]Water_pipo_256'
+  - first:
+      213: 5232424244687068419
+    second: '[A]Water_pipo_257'
+  - first:
+      213: 7573802195198347131
+    second: '[A]Water_pipo_258'
+  - first:
+      213: 1855100994684108538
+    second: '[A]Water_pipo_259'
+  - first:
+      213: -3743920136951292387
+    second: '[A]Water_pipo_260'
+  - first:
+      213: 8711613015453311494
+    second: '[A]Water_pipo_261'
+  - first:
+      213: -2879666403850353112
+    second: '[A]Water_pipo_262'
+  - first:
+      213: -1651338232290138243
+    second: '[A]Water_pipo_263'
+  - first:
+      213: 775395246224161994
+    second: '[A]Water_pipo_264'
+  - first:
+      213: 1343941324305499222
+    second: '[A]Water_pipo_265'
+  - first:
+      213: 3278420394127385704
+    second: '[A]Water_pipo_266'
+  - first:
+      213: 7524250802094610233
+    second: '[A]Water_pipo_267'
+  - first:
+      213: 5037112989522935469
+    second: '[A]Water_pipo_268'
+  - first:
+      213: -8803058276785017894
+    second: '[A]Water_pipo_269'
+  - first:
+      213: 8099996939555477346
+    second: '[A]Water_pipo_270'
+  - first:
+      213: -8273613895306945669
+    second: '[A]Water_pipo_271'
+  - first:
+      213: 2386713085441947860
+    second: '[A]Water_pipo_272'
+  - first:
+      213: 7737072821756739593
+    second: '[A]Water_pipo_273'
+  - first:
+      213: 3676316752229349398
+    second: '[A]Water_pipo_274'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[A]Water_pipo_0'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f364a8a6943e6800800000000000000
+      internalID: 607480821420680184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_1'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a24f7c118efdac90800000000000000
+      internalID: -7156784402339511644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_2'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac3a01f868b0180800000000000000
+      internalID: -9148070269055415646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_3'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c0d463b7ab53bb0800000000000000
+      internalID: -4956850776496599954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_4'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec0a08bfda4a870800000000000000
+      internalID: 8693264476438318592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_5'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fbb4c9f2e902df0800000000000000
+      internalID: -206991655536181426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_6'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5ac73450189c800800000000000000
+      internalID: 633179082229327314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_7'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51df6f137f482fb0800000000000000
+      internalID: -4672397257529634467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_8'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4726e2ddeea076420800000000000000
+      internalID: 2623077328995902068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_9'
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1d8e642d4ce640800000000000000
+      internalID: 5110544496027572809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_10'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ac019309e921e0800000000000000
+      internalID: -2221988739602929431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_11'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b284309af1bf740800000000000000
+      internalID: 5186774206612253570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_12'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159bb850764d2f590800000000000000
+      internalID: -7641812078754547375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_13'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8311fe4eb999230800000000000000
+      internalID: 3646116780898859247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_14'
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efdd282c0c6ce160800000000000000
+      internalID: 7056133515652227042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_15'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74331343bdf41f380800000000000000
+      internalID: -8939275982461652153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_16'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da183e80a95fa74e0800000000000000
+      internalID: -1983002643980385875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_17'
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d5077a256e25a0800000000000000
+      internalID: -6544181975462850560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_18'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361444351b06f9c80800000000000000
+      internalID: -8313820072380186269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_19'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe42e8eb43141670800000000000000
+      internalID: 8508446812760329918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_20'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8564bccaae6cd00800000000000000
+      internalID: 992738795747432675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_21'
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433134fcfc4e9d3c0800000000000000
+      internalID: -4334181585180749004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_22'
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a22afbbb16a1220800000000000000
+      internalID: 2457384005685881496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_23'
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0dbc797e56839e0800000000000000
+      internalID: -1641450018817978151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_24'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab83ee32a4c9d2f0800000000000000
+      internalID: -947510045465932893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_25'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486f9b1bc59c4cd90800000000000000
+      internalID: -7078311314363648380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_26'
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff79f078b7944bf0800000000000000
+      internalID: -340980853348139023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_27'
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b89076834b8750800000000000000
+      internalID: 6308209947756246671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_28'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b8e3471c7d9ab90800000000000000
+      internalID: -7230010500887704744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_29'
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b4a8d3198afc640800000000000000
+      internalID: 5102482244590258952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_30'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c646881d135a840800000000000000
+      internalID: 5234644917894278236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_31'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7c77290e5cf24f0800000000000000
+      internalID: -851244236229064795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_32'
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8126c268ae9435d00800000000000000
+      internalID: 960192417182278168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_33'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac180c345ac30100800000000000000
+      internalID: 73124482101288102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_34'
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4c66ae64df862b0800000000000000
+      internalID: -5590940456358329132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_35'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b9573fd895c3d70800000000000000
+      internalID: 9024186219553463110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_36'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd18f4215c5bed0800000000000000
+      internalID: -2398794544070926380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_37'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3752dcd65fd46a20800000000000000
+      internalID: 3054812011428992829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_38'
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bb1f5e987b6e830800000000000000
+      internalID: 4100166313663642434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_39'
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049161b5690b1e2a0800000000000000
+      internalID: -6709887809985570496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_40'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e349225601d582da0800000000000000
+      internalID: -5969418981081967554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_41'
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a0c760294a5380800000000000000
+      internalID: -8981786103308573952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_42'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e295f913a9a50870800000000000000
+      internalID: 8648505177415193318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_43'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1440
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0de3180f565f9960800000000000000
+      internalID: 7610896861436833034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_44'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1504
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a119c5e81bea30800000000000000
+      internalID: 4245514448926779874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_45'
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1439
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5afbb27cfb43f190800000000000000
+      internalID: -7929910971240547745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_46'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca38084bf15c1220800000000000000
+      internalID: 2457929636324588233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_47'
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1440
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572cc58e39ba776d0800000000000000
+      internalID: -2992734775617469835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1343
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb92d596e38779a0800000000000000
+      internalID: -6235370132691837985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_49'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628b3363c218fa60800000000000000
+      internalID: 7707931392637370991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_50'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ca5363e227598b0800000000000000
+      internalID: -5146081456397374458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_51'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1a74b618b2c27d0800000000000000
+      internalID: -2941928621729144347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_52'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c554ebcf6a58600800000000000000
+      internalID: 469965340584270926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_53'
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1343
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd3303576904d00800000000000000
+      internalID: 954928551066590468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_54'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab28384d451c0850800000000000000
+      internalID: 6344469396726492074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_55'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace39861c1cb0e240800000000000000
+      internalID: 4819058430109630154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_56'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088292e7ed22c1930800000000000000
+      internalID: 4115202498504501376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_57'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269eb1bd8848a4b0800000000000000
+      internalID: -5429009577385486804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_58'
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1343
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b92be76fda4f6e0800000000000000
+      internalID: -1804626276469531803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_59'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7db12b7e15674a0800000000000000
+      internalID: -6595994548670048289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_60'
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7395c4ace9a7c5650800000000000000
+      internalID: 6222983607536605495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_61'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a72765dadda7c5e0800000000000000
+      internalID: -1889350363263850586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_62'
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bb9e6635fe2b4a0800000000000000
+      internalID: -6578932964146955395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_63'
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1343
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0035c8d23e4d0210800000000000000
+      internalID: 1300781847672074250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_64'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c17e5f83e8145e80800000000000000
+      internalID: -8190894456638115385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_65'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772823a6d7f4f2ba0800000000000000
+      internalID: -6111578769247272329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_66'
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813a96a560fb89690800000000000000
+      internalID: -7595110737552760040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_67'
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7bab8292bf3a4c0800000000000000
+      internalID: -4277299066876282911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_68'
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1343
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ea1ad5f3afd820800000000000000
+      internalID: 2945252957645104862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_69'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2690afd786a0e430800000000000000
+      internalID: 3810228387258078765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_70'
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1ccfa55c571140800000000000000
+      internalID: 4690319060021026276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_71'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31ff0fe4586b8cf0800000000000000
+      internalID: -248990640391589574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_72'
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18378ffd38a00bd70800000000000000
+      internalID: 9056750412156662657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_73'
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1343
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e554bfb01586ac0800000000000000
+      internalID: -3861747568568082827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_74'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72beb3cd47b33bc30800000000000000
+      internalID: 4373905036204043047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_75'
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aed9bae39db6de0800000000000000
+      internalID: -1338737601022137850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_76'
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1387c68f1159c8e0800000000000000
+      internalID: -1672716590744370406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_77'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45283484614f8f00800000000000000
+      internalID: 1121186732209349963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_78'
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1343
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb53f457fa944ff60800000000000000
+      internalID: 8067153850463630783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_79'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b4f2f330b492c20800000000000000
+      internalID: 3182157089031015208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_80'
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d5de8463f9ae650800000000000000
+      internalID: 6262993287312661857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_81'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb048531f90d5e310800000000000000
+      internalID: 1433781438030299324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_82'
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b1de50ae5d7500800000000000000
+      internalID: 395576385157052050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_83'
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1343
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7794f9e2b9e83d0800000000000000
+      internalID: -3202451660470650960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_84'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b4d3a9f2a5fe9e0800000000000000
+      internalID: -1589952982940824692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_85'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6da4db0bd9cd94b0800000000000000
+      internalID: -5431963632905441939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_86'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1248
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b9a26435e51ce0800000000000000
+      internalID: -1434988893091284952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_87'
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1248
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348e84ffc3bd92bc0800000000000000
+      internalID: -3807270954937554877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_88'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291dad7567c394400800000000000000
+      internalID: 308844528429355410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_89'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d5cf089df43840800000000000000
+      internalID: 5203062299061246082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_90'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d682c05f65e930800000000000000
+      internalID: 4171863022480316567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_91'
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1151
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6809fa067a8fab0800000000000000
+      internalID: -4974041754726529292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_92'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7779be25d67e11b0800000000000000
+      internalID: -5683975021710968966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_93'
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf1dec68f8fa7bf0800000000000000
+      internalID: -325674277167882303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_94'
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1151
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd66935f447a4d0800000000000000
+      internalID: -3123451996537430191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_95'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3987e65034da210800000000000000
+      internalID: 1345805554260939767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_96'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89264c5bc879ae2e0800000000000000
+      internalID: -2095696045986782568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_97'
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1151
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024faf6cb39eb560800000000000000
+      internalID: 7331459680942637575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_98'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e5708ad2f2317d0800000000000000
+      internalID: -2948961457858453915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_99'
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acbaa3e99ec22090800000000000000
+      internalID: -8060653222694830938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_100'
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1151
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73284658fa8d4e60800000000000000
+      internalID: 7948161716582884218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_101'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c2d83e83c42d00800000000000000
+      internalID: 947096837260756884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_102'
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e40ace9a7877620800000000000000
+      internalID: 2771833259558981254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_103'
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1151
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fa0b8239b589c80800000000000000
+      internalID: -8315796024338632947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_104'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c55a72b3da459a0800000000000000
+      internalID: -6245176313676211150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_105'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf8d2a39e976aef0800000000000000
+      internalID: -97256299331481682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_106'
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1151
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf537ebd011d85c0800000000000000
+      internalID: -4211691325794066498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_107'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9fe97b3aca70a0800000000000000
+      internalID: -6882966723684753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_108'
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5239a5b0809fc21b0800000000000000
+      internalID: -5679891217075498203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_109'
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1151
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a392ddbc53b38ad60800000000000000
+      internalID: 7901630648461109562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_110'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1248
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519aee86d9caa900800000000000000
+      internalID: 696591015740084571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_111'
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1247
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d54ac1da397c830800000000000000
+      internalID: 4091401158208544032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_112'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b669c1afd89a9c0800000000000000
+      internalID: -3915442295660975336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_113'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e455401ea5fd17da0800000000000000
+      internalID: -5948728051364506290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_114'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3b90e83a806d10800000000000000
+      internalID: 2116843801755205435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_115'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b9049c6a20d7b0800000000000000
+      internalID: -5201610923784424484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_116'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7753a5722c8a29fd0800000000000000
+      internalID: -2336619704814520969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_117'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8551c69b36e3c3c40800000000000000
+      internalID: 5493334243518715224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_118'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fddc3868e23390800000000000000
+      internalID: -7839948466903190190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_119'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806d88c44dc5b35c0800000000000000
+      internalID: -4234688957724961272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_120'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337faaa8c53d72bf0800000000000000
+      internalID: -349078051681011917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_121'
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b293c4e5d96a920800000000000000
+      internalID: 3001259230020316047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_122'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b0af37d75621e40800000000000000
+      internalID: 5625670474030254917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_123'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a1212cde1e7ed80800000000000000
+      internalID: -8221354183462086139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_124'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee7af1cda2f4a70800000000000000
+      internalID: 8813310120699621014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_125'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24137aff9ce055d20800000000000000
+      internalID: 3266533365467525442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_126'
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aa12793cedef790800000000000000
+      internalID: -7494307798262371759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_127'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ebb2cd16460e10800000000000000
+      internalID: 2163493764633192674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_128'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c689f2ed8e415540800000000000000
+      internalID: 4994859833035949768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_129'
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53108621e3f4ff910800000000000000
+      internalID: 1873303098024788277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_130'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000f716271738b500800000000000000
+      internalID: 412139938467278848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_131'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d5f1d34faeb310800000000000000
+      internalID: 1422767238115872923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_132'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cacd1495de6b480800000000000000
+      internalID: -8883652247328871338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_133'
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bf09ecfce5b07c0800000000000000
+      internalID: -4104082388801225960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_134'
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531a163cd851c1fc0800000000000000
+      internalID: -3522917109898043083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_135'
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6421bfaa28b00b0800000000000000
+      internalID: -5761367627422087496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_136'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd9e10d238940a10800000000000000
+      internalID: 1874790688900423116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_137'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5f9622d97ee2e0800000000000000
+      internalID: -2094602833182630530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_138'
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd251d362555e1a0800000000000000
+      internalID: -6780920041214497339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_139'
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967b25d9fa15cb70800000000000000
+      internalID: 8918564297402709660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_140'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445721a0d8192050800000000000000
+      internalID: 5776175281415345224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_141'
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff3d6a9e9f309e40800000000000000
+      internalID: 5661094682032947193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_142'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb31a48ea2aee080800000000000000
+      internalID: -9156202121964471313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_143'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122508fdbe2313080800000000000000
+      internalID: -9209523774347521503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_144'
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52156d8e3a23ca580800000000000000
+      internalID: -8814614691103485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_145'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6872ce81a603ee0800000000000000
+      internalID: -1283409238526818621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_146'
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a73a267e777c690800000000000000
+      internalID: -7581959611978909030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_147'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944dafca343a43bf0800000000000000
+      internalID: -345471760340429751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_148'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfd275520fb45af0800000000000000
+      internalID: -408491649439440932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_149'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9367d7bc516b7a0800000000000000
+      internalID: -6361873459886802483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_150'
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a204f9b3265bef50800000000000000
+      internalID: 6911712764573778600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_151'
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85983b228ec3b85e0800000000000000
+      internalID: -1906363049549002408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_152'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4706f9624a82b27a0800000000000000
+      internalID: -6400977759889301388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_153'
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632d3da438b2a27d0800000000000000
+      internalID: -2942491563637091786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_154'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13091b0e72746cb20800000000000000
+      internalID: 3154286825618640945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_155'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1056
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e6c88689ce0d70800000000000000
+      internalID: 9011361484072477039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_156'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1120
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e91c4fc8ec8af90800000000000000
+      internalID: -6942071720794546578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_157'
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1055
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab28011dec52020800000000000000
+      internalID: 2316484980672477857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_158'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1056
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2007d9a381f4a20800000000000000
+      internalID: 3048682112781648564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_159'
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1056
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a29fa65c1b14490800000000000000
+      internalID: -7763728821148636619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_160'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8ba22be7f497530800000000000000
+      internalID: 3853198361765787819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_161'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a672337b8d17c5360800000000000000
+      internalID: 7159722683212703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_162'
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822123472a081390800000000000000
+      internalID: -7847511186946841974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_163'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825cc888c28f2af0800000000000000
+      internalID: -418972442522004849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_164'
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd9956ab755bb4b0800000000000000
+      internalID: -5423647336677401142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_165'
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 959
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad484d540c0afac0800000000000000
+      internalID: -3820728120986022484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_166'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806b03dfe6a1f3620800000000000000
+      internalID: 2755950560970585608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_167'
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77712d123a2ba7c0800000000000000
+      internalID: -4059104244418906242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_168'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e79045ac4bd6130800000000000000
+      internalID: 3561701661406232206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_169'
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c248fff4303281700800000000000000
+      internalID: 511197054840570924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_170'
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 959
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1430d30ad61cae0800000000000000
+      internalID: -1530821863343439395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_171'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67023fb4d2047f6c0800000000000000
+      internalID: -4109745571660357514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_172'
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c38088620184070800000000000000
+      internalID: 8090734488248138886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_173'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a368ae5397101ae0800000000000000
+      internalID: -1580737547491318880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_174'
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd895c993e10b7800800000000000000
+      internalID: 611084251487901919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_175'
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 959
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b14afd1b9a822a70800000000000000
+      internalID: 8800749020662874548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_176'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2734ee28ea5c210800000000000000
+      internalID: 1352679140461081336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_177'
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af8c960d5dd75870800000000000000
+      internalID: 8671642999137800096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_178'
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bac53811437dba0800000000000000
+      internalID: -6064321123408106646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_179'
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c747697e23282780800000000000000
+      internalID: -8707671197008574522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_180'
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 959
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365458d4779b241b0800000000000000
+      internalID: -5673768658480577181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_181'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee402b53bfb8e860800000000000000
+      internalID: 7559502751590272738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_182'
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b9d4e16078384d0800000000000000
+      internalID: -3133512455371777268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_183'
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77abf2c7a787c2030800000000000000
+      internalID: 3471281880260655735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_184'
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a518254d3abcdf50800000000000000
+      internalID: 6907600700795524513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_185'
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 959
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870cfa9db86cbad0800000000000000
+      internalID: -2685156114261342326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_186'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49de1ab59d16830800000000000000
+      internalID: 4062767326446851310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_187'
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44adccfbfba534d0800000000000000
+      internalID: -3155426865136688051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_188'
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e95d904384937360800000000000000
+      internalID: 7166234723522271721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_189'
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb81cbf0f5c601b60800000000000000
+      internalID: 7714785317227337918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_190'
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 959
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9678e8062d88e700800000000000000
+      internalID: 569860547360093853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_191'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355cac936565b1e00800000000000000
+      internalID: 1016501069238945107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_192'
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acca33acfbaaab200800000000000000
+      internalID: 196657274451897546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_193'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e8d79b7d7f76730800000000000000
+      internalID: 3992432100589276794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_194'
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b597bd66cb4013f90800000000000000
+      internalID: -6975789140594165413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_195'
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 959
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f4fc7f40ec7d30800000000000000
+      internalID: 4430662765429193072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_196'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cf7b37065389140800000000000000
+      internalID: 4726586497299905562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_197'
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 928
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c90fca726f09cd50800000000000000
+      internalID: 6757949631487740360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_198'
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 864
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfb52119928d67d0800000000000000
+      internalID: -2923536989164290127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_199'
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 864
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39148e666d4b6180800000000000000
+      internalID: -9121111517972653764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_200'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acffd9ca5ecfa170800000000000000
+      internalID: 8191993136539499684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_201'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe54a0763fb99bc50800000000000000
+      internalID: 6681542991888926191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_202'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0764c27d828a0f0800000000000000
+      internalID: -1105588803893563145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_203'
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 767
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cb1e6e5da667860800000000000000
+      internalID: 7527321294130494514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_204'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0a17545c3558f0800000000000000
+      internalID: -552469046346773466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_205'
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123fb252f6da427a0800000000000000
+      internalID: -6402802077337390303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_206'
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 767
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5856a20e398998ee0800000000000000
+      internalID: -1258306859984853627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_207'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909bd79830a28eb0800000000000000
+      internalID: -4719033294604496738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_208'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0baa561d52991d0800000000000000
+      internalID: -3343599667061804874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_209'
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 767
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d2dd3f9f8e63b0800000000000000
+      internalID: -5517314579382478353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_210'
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90614c3740de7b840800000000000000
+      internalID: 5239917294846744073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_211'
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53e6c06993a85c0800000000000000
+      internalID: -4212491184835250728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_212'
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 767
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366b82fa118695630800000000000000
+      internalID: 3916275776137770595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_213'
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb8ebfce39bc830800000000000000
+      internalID: 4092527332444127019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_214'
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd413750f4d41d30800000000000000
+      internalID: 4401376864567905730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_215'
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 767
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d0f8e4fc2ff320800000000000000
+      internalID: 2593841340780433936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_216'
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7b8128c50df450800000000000000
+      internalID: 6124057425408129670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_217'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a43fdea17957aa0800000000000000
+      internalID: -6163854373069567391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_218'
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 767
+        width: 258
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fbf2f9ee652ffe0800000000000000
+      internalID: -1156766571407884500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_219'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a36e20ce5e84a0800000000000000
+      internalID: -6589225025291442709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_220'
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a91ad6417f95d0800000000000000
+      internalID: -3053597473213143196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_221'
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 767
+        width: 257
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbc3de3d61076110800000000000000
+      internalID: 1253972589963103167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_222'
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe965012235a5c0c0800000000000000
+      internalID: -4556053813294437905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_223'
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 863
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716216be35383e2f0800000000000000
+      internalID: -944767100363135465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_224'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 2048
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b56b82a8c61630800000000000000
+      internalID: 3897523127984697638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_225'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 2048
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c133e10e151d1450800000000000000
+      internalID: 6061023892135424455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_226'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 2048
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f80c1416295ea60800000000000000
+      internalID: 7702723684099723090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_227'
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 161
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719586183a4b66790800000000000000
+      internalID: -7537138312014178025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_228'
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 100
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f35fb8305ab4f0800000000000000
+      internalID: -812248578128611183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_229'
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 161
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fb06e07063a6030800000000000000
+      internalID: 3488660265285762955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_230'
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 100
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade01bc5a8994480800000000000000
+      internalID: -8914426149559276122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_231'
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 161
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7c5bc6cd8d81bf0800000000000000
+      internalID: -353294129520326740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_232'
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 97
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e8f54307670bed0800000000000000
+      internalID: -2400288377101381993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_233'
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 161
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e571528f25df00800000000000000
+      internalID: 1140870317367222728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_234'
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 97
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784186f36fc6f8a0800000000000000
+      internalID: -6271597402822457227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_235'
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 161
+        width: 96
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1647f85f9f70b260800000000000000
+      internalID: 7111324133987141150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_236'
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 95
+        width: 352
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb724e1e8b98dcd0800000000000000
+      internalID: -2533103755700569101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_237'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b065ca438b8e6e0800000000000000
+      internalID: -1807992714020123749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_238'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b673e8e0316bd2ee0800000000000000
+      internalID: -1284170125765888149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_239'
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b78260c846c30d0800000000000000
+      internalID: -3441765462656386236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_240'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 99
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf6d7840f6e04f0800000000000000
+      internalID: -860628413531620184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_241'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa582dd463e979c0800000000000000
+      internalID: -3928859177557402894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_242'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c323d6f47563b0800000000000000
+      internalID: -5519877164819562422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_243'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 92
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112c2122e667b16b0800000000000000
+      internalID: -5324531919045344751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_244'
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee349a0ba8fdea0800000000000000
+      internalID: -5845801299944935885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_245'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 99
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ffe43fc916a1e0800000000000000
+      internalID: -2187032191304732656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_246'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 99
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23d7d24c6e557d0800000000000000
+      internalID: -2930182252283481348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_247'
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 161
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92c9a7f2d17286b0800000000000000
+      internalID: -5295545060922113380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_248'
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 95
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7830295833c9360800000000000000
+      internalID: 7177668554895099855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_249'
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 100
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f804e1e0f7ddeb0800000000000000
+      internalID: -4693455538036371662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_250'
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 161
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796aaf9a678bd0b80800000000000000
+      internalID: -8426876507942902121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_251'
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 95
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e932eff834fc90970800000000000000
+      internalID: 8721730042465231774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_252'
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 100
+        width: 26
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20806f8a0d647630800000000000000
+      internalID: 3923881067469111339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_253'
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 161
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b3f1f1fa9fadfa0800000000000000
+      internalID: -5775029041612506300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_254'
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edda2e77b7895500800000000000000
+      internalID: 385488465282391522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_255'
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 97
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fca8b6f64413b90800000000000000
+      internalID: -7263949478635581663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_256'
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 161
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8f9bec8534c3d60800000000000000
+      internalID: 7871240297441261749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_257'
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd6b2c02e4d9840800000000000000
+      internalID: 5232424244687068419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_258'
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 97
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b770fd308fc8b1960800000000000000
+      internalID: 7573802195198347131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_259'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 161
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afebe92a684aeb910800000000000000
+      internalID: 1855100994684108538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_260'
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 95
+        width: 129
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e1699b87cea0cc0800000000000000
+      internalID: -3743920136951292387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_261'
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 97
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602a3c6a1edd5e870800000000000000
+      internalID: 8711613015453311494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_262'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8268fdea9ae5908d0800000000000000
+      internalID: -2879666403850353112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_263'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 99
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77235c70a44519e0800000000000000
+      internalID: -1651338232290138243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_264'
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 258
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb7b34ed1c2ca00800000000000000
+      internalID: 775395246224161994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_265'
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 100
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65482329383a6a210800000000000000
+      internalID: 1343941324305499222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_266'
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 258
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864eb588af94f7d20800000000000000
+      internalID: 3278420394127385704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_267'
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 100
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9371cc34d328b6860800000000000000
+      internalID: 7524250802094610233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_268'
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 97
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3502839b67e540800000000000000
+      internalID: 5037112989522935469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_269'
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 97
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbaa2b432145d580800000000000000
+      internalID: -8803058276785017894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_270'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26794f70d48f86070800000000000000
+      internalID: 8099996939555477346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_271'
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5e796ff73e2d80800000000000000
+      internalID: -8273613895306945669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_272'
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83b86e7ee4f1120800000000000000
+      internalID: 2386713085441947860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_273'
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 258
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900c3261dba9f5b60800000000000000
+      internalID: 7737072821756739593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[A]Water_pipo_274'
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 513
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618b272bb96e40330800000000000000
+      internalID: 3676316752229349398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[A]Water_pipo_0': 607480821420680184
+      '[A]Water_pipo_1': -7156784402339511644
+      '[A]Water_pipo_10': -2221988739602929431
+      '[A]Water_pipo_100': 7948161716582884218
+      '[A]Water_pipo_101': 947096837260756884
+      '[A]Water_pipo_102': 2771833259558981254
+      '[A]Water_pipo_103': -8315796024338632947
+      '[A]Water_pipo_104': -6245176313676211150
+      '[A]Water_pipo_105': -97256299331481682
+      '[A]Water_pipo_106': -4211691325794066498
+      '[A]Water_pipo_107': -6882966723684753859
+      '[A]Water_pipo_108': -5679891217075498203
+      '[A]Water_pipo_109': 7901630648461109562
+      '[A]Water_pipo_11': 5186774206612253570
+      '[A]Water_pipo_110': 696591015740084571
+      '[A]Water_pipo_111': 4091401158208544032
+      '[A]Water_pipo_112': -3915442295660975336
+      '[A]Water_pipo_113': -5948728051364506290
+      '[A]Water_pipo_114': 2116843801755205435
+      '[A]Water_pipo_115': -5201610923784424484
+      '[A]Water_pipo_116': -2336619704814520969
+      '[A]Water_pipo_117': 5493334243518715224
+      '[A]Water_pipo_118': -7839948466903190190
+      '[A]Water_pipo_119': -4234688957724961272
+      '[A]Water_pipo_12': -7641812078754547375
+      '[A]Water_pipo_120': -349078051681011917
+      '[A]Water_pipo_121': 3001259230020316047
+      '[A]Water_pipo_122': 5625670474030254917
+      '[A]Water_pipo_123': -8221354183462086139
+      '[A]Water_pipo_124': 8813310120699621014
+      '[A]Water_pipo_125': 3266533365467525442
+      '[A]Water_pipo_126': -7494307798262371759
+      '[A]Water_pipo_127': 2163493764633192674
+      '[A]Water_pipo_128': 4994859833035949768
+      '[A]Water_pipo_129': 1873303098024788277
+      '[A]Water_pipo_13': 3646116780898859247
+      '[A]Water_pipo_130': 412139938467278848
+      '[A]Water_pipo_131': 1422767238115872923
+      '[A]Water_pipo_132': -8883652247328871338
+      '[A]Water_pipo_133': -4104082388801225960
+      '[A]Water_pipo_134': -3522917109898043083
+      '[A]Water_pipo_135': -5761367627422087496
+      '[A]Water_pipo_136': 1874790688900423116
+      '[A]Water_pipo_137': -2094602833182630530
+      '[A]Water_pipo_138': -6780920041214497339
+      '[A]Water_pipo_139': 8918564297402709660
+      '[A]Water_pipo_14': 7056133515652227042
+      '[A]Water_pipo_140': 5776175281415345224
+      '[A]Water_pipo_141': 5661094682032947193
+      '[A]Water_pipo_142': -9156202121964471313
+      '[A]Water_pipo_143': -9209523774347521503
+      '[A]Water_pipo_144': -8814614691103485659
+      '[A]Water_pipo_145': -1283409238526818621
+      '[A]Water_pipo_146': -7581959611978909030
+      '[A]Water_pipo_147': -345471760340429751
+      '[A]Water_pipo_148': -408491649439440932
+      '[A]Water_pipo_149': -6361873459886802483
+      '[A]Water_pipo_15': -8939275982461652153
+      '[A]Water_pipo_150': 6911712764573778600
+      '[A]Water_pipo_151': -1906363049549002408
+      '[A]Water_pipo_152': -6400977759889301388
+      '[A]Water_pipo_153': -2942491563637091786
+      '[A]Water_pipo_154': 3154286825618640945
+      '[A]Water_pipo_155': 9011361484072477039
+      '[A]Water_pipo_156': -6942071720794546578
+      '[A]Water_pipo_157': 2316484980672477857
+      '[A]Water_pipo_158': 3048682112781648564
+      '[A]Water_pipo_159': -7763728821148636619
+      '[A]Water_pipo_16': -1983002643980385875
+      '[A]Water_pipo_160': 3853198361765787819
+      '[A]Water_pipo_161': 7159722683212703594
+      '[A]Water_pipo_162': -7847511186946841974
+      '[A]Water_pipo_163': -418972442522004849
+      '[A]Water_pipo_164': -5423647336677401142
+      '[A]Water_pipo_165': -3820728120986022484
+      '[A]Water_pipo_166': 2755950560970585608
+      '[A]Water_pipo_167': -4059104244418906242
+      '[A]Water_pipo_168': 3561701661406232206
+      '[A]Water_pipo_169': 511197054840570924
+      '[A]Water_pipo_17': -6544181975462850560
+      '[A]Water_pipo_170': -1530821863343439395
+      '[A]Water_pipo_171': -4109745571660357514
+      '[A]Water_pipo_172': 8090734488248138886
+      '[A]Water_pipo_173': -1580737547491318880
+      '[A]Water_pipo_174': 611084251487901919
+      '[A]Water_pipo_175': 8800749020662874548
+      '[A]Water_pipo_176': 1352679140461081336
+      '[A]Water_pipo_177': 8671642999137800096
+      '[A]Water_pipo_178': -6064321123408106646
+      '[A]Water_pipo_179': -8707671197008574522
+      '[A]Water_pipo_18': -8313820072380186269
+      '[A]Water_pipo_180': -5673768658480577181
+      '[A]Water_pipo_181': 7559502751590272738
+      '[A]Water_pipo_182': -3133512455371777268
+      '[A]Water_pipo_183': 3471281880260655735
+      '[A]Water_pipo_184': 6907600700795524513
+      '[A]Water_pipo_185': -2685156114261342326
+      '[A]Water_pipo_186': 4062767326446851310
+      '[A]Water_pipo_187': -3155426865136688051
+      '[A]Water_pipo_188': 7166234723522271721
+      '[A]Water_pipo_189': 7714785317227337918
+      '[A]Water_pipo_19': 8508446812760329918
+      '[A]Water_pipo_190': 569860547360093853
+      '[A]Water_pipo_191': 1016501069238945107
+      '[A]Water_pipo_192': 196657274451897546
+      '[A]Water_pipo_193': 3992432100589276794
+      '[A]Water_pipo_194': -6975789140594165413
+      '[A]Water_pipo_195': 4430662765429193072
+      '[A]Water_pipo_196': 4726586497299905562
+      '[A]Water_pipo_197': 6757949631487740360
+      '[A]Water_pipo_198': -2923536989164290127
+      '[A]Water_pipo_199': -9121111517972653764
+      '[A]Water_pipo_2': -9148070269055415646
+      '[A]Water_pipo_20': 992738795747432675
+      '[A]Water_pipo_200': 8191993136539499684
+      '[A]Water_pipo_201': 6681542991888926191
+      '[A]Water_pipo_202': -1105588803893563145
+      '[A]Water_pipo_203': 7527321294130494514
+      '[A]Water_pipo_204': -552469046346773466
+      '[A]Water_pipo_205': -6402802077337390303
+      '[A]Water_pipo_206': -1258306859984853627
+      '[A]Water_pipo_207': -4719033294604496738
+      '[A]Water_pipo_208': -3343599667061804874
+      '[A]Water_pipo_209': -5517314579382478353
+      '[A]Water_pipo_21': -4334181585180749004
+      '[A]Water_pipo_210': 5239917294846744073
+      '[A]Water_pipo_211': -4212491184835250728
+      '[A]Water_pipo_212': 3916275776137770595
+      '[A]Water_pipo_213': 4092527332444127019
+      '[A]Water_pipo_214': 4401376864567905730
+      '[A]Water_pipo_215': 2593841340780433936
+      '[A]Water_pipo_216': 6124057425408129670
+      '[A]Water_pipo_217': -6163854373069567391
+      '[A]Water_pipo_218': -1156766571407884500
+      '[A]Water_pipo_219': -6589225025291442709
+      '[A]Water_pipo_22': 2457384005685881496
+      '[A]Water_pipo_220': -3053597473213143196
+      '[A]Water_pipo_221': 1253972589963103167
+      '[A]Water_pipo_222': -4556053813294437905
+      '[A]Water_pipo_223': -944767100363135465
+      '[A]Water_pipo_224': 3897523127984697638
+      '[A]Water_pipo_225': 6061023892135424455
+      '[A]Water_pipo_226': 7702723684099723090
+      '[A]Water_pipo_227': -7537138312014178025
+      '[A]Water_pipo_228': -812248578128611183
+      '[A]Water_pipo_229': 3488660265285762955
+      '[A]Water_pipo_23': -1641450018817978151
+      '[A]Water_pipo_230': -8914426149559276122
+      '[A]Water_pipo_231': -353294129520326740
+      '[A]Water_pipo_232': -2400288377101381993
+      '[A]Water_pipo_233': 1140870317367222728
+      '[A]Water_pipo_234': -6271597402822457227
+      '[A]Water_pipo_235': 7111324133987141150
+      '[A]Water_pipo_236': -2533103755700569101
+      '[A]Water_pipo_237': -1807992714020123749
+      '[A]Water_pipo_238': -1284170125765888149
+      '[A]Water_pipo_239': -3441765462656386236
+      '[A]Water_pipo_24': -947510045465932893
+      '[A]Water_pipo_240': -860628413531620184
+      '[A]Water_pipo_241': -3928859177557402894
+      '[A]Water_pipo_242': -5519877164819562422
+      '[A]Water_pipo_243': -5324531919045344751
+      '[A]Water_pipo_244': -5845801299944935885
+      '[A]Water_pipo_245': -2187032191304732656
+      '[A]Water_pipo_246': -2930182252283481348
+      '[A]Water_pipo_247': -5295545060922113380
+      '[A]Water_pipo_248': 7177668554895099855
+      '[A]Water_pipo_249': -4693455538036371662
+      '[A]Water_pipo_25': -7078311314363648380
+      '[A]Water_pipo_250': -8426876507942902121
+      '[A]Water_pipo_251': 8721730042465231774
+      '[A]Water_pipo_252': 3923881067469111339
+      '[A]Water_pipo_253': -5775029041612506300
+      '[A]Water_pipo_254': 385488465282391522
+      '[A]Water_pipo_255': -7263949478635581663
+      '[A]Water_pipo_256': 7871240297441261749
+      '[A]Water_pipo_257': 5232424244687068419
+      '[A]Water_pipo_258': 7573802195198347131
+      '[A]Water_pipo_259': 1855100994684108538
+      '[A]Water_pipo_26': -340980853348139023
+      '[A]Water_pipo_260': -3743920136951292387
+      '[A]Water_pipo_261': 8711613015453311494
+      '[A]Water_pipo_262': -2879666403850353112
+      '[A]Water_pipo_263': -1651338232290138243
+      '[A]Water_pipo_264': 775395246224161994
+      '[A]Water_pipo_265': 1343941324305499222
+      '[A]Water_pipo_266': 3278420394127385704
+      '[A]Water_pipo_267': 7524250802094610233
+      '[A]Water_pipo_268': 5037112989522935469
+      '[A]Water_pipo_269': -8803058276785017894
+      '[A]Water_pipo_27': 6308209947756246671
+      '[A]Water_pipo_270': 8099996939555477346
+      '[A]Water_pipo_271': -8273613895306945669
+      '[A]Water_pipo_272': 2386713085441947860
+      '[A]Water_pipo_273': 7737072821756739593
+      '[A]Water_pipo_274': 3676316752229349398
+      '[A]Water_pipo_28': -7230010500887704744
+      '[A]Water_pipo_29': 5102482244590258952
+      '[A]Water_pipo_3': -4956850776496599954
+      '[A]Water_pipo_30': 5234644917894278236
+      '[A]Water_pipo_31': -851244236229064795
+      '[A]Water_pipo_32': 960192417182278168
+      '[A]Water_pipo_33': 73124482101288102
+      '[A]Water_pipo_34': -5590940456358329132
+      '[A]Water_pipo_35': 9024186219553463110
+      '[A]Water_pipo_36': -2398794544070926380
+      '[A]Water_pipo_37': 3054812011428992829
+      '[A]Water_pipo_38': 4100166313663642434
+      '[A]Water_pipo_39': -6709887809985570496
+      '[A]Water_pipo_4': 8693264476438318592
+      '[A]Water_pipo_40': -5969418981081967554
+      '[A]Water_pipo_41': -8981786103308573952
+      '[A]Water_pipo_42': 8648505177415193318
+      '[A]Water_pipo_43': 7610896861436833034
+      '[A]Water_pipo_44': 4245514448926779874
+      '[A]Water_pipo_45': -7929910971240547745
+      '[A]Water_pipo_46': 2457929636324588233
+      '[A]Water_pipo_47': -2992734775617469835
+      '[A]Water_pipo_48': -6235370132691837985
+      '[A]Water_pipo_49': 7707931392637370991
+      '[A]Water_pipo_5': -206991655536181426
+      '[A]Water_pipo_50': -5146081456397374458
+      '[A]Water_pipo_51': -2941928621729144347
+      '[A]Water_pipo_52': 469965340584270926
+      '[A]Water_pipo_53': 954928551066590468
+      '[A]Water_pipo_54': 6344469396726492074
+      '[A]Water_pipo_55': 4819058430109630154
+      '[A]Water_pipo_56': 4115202498504501376
+      '[A]Water_pipo_57': -5429009577385486804
+      '[A]Water_pipo_58': -1804626276469531803
+      '[A]Water_pipo_59': -6595994548670048289
+      '[A]Water_pipo_6': 633179082229327314
+      '[A]Water_pipo_60': 6222983607536605495
+      '[A]Water_pipo_61': -1889350363263850586
+      '[A]Water_pipo_62': -6578932964146955395
+      '[A]Water_pipo_63': 1300781847672074250
+      '[A]Water_pipo_64': -8190894456638115385
+      '[A]Water_pipo_65': -6111578769247272329
+      '[A]Water_pipo_66': -7595110737552760040
+      '[A]Water_pipo_67': -4277299066876282911
+      '[A]Water_pipo_68': 2945252957645104862
+      '[A]Water_pipo_69': 3810228387258078765
+      '[A]Water_pipo_7': -4672397257529634467
+      '[A]Water_pipo_70': 4690319060021026276
+      '[A]Water_pipo_71': -248990640391589574
+      '[A]Water_pipo_72': 9056750412156662657
+      '[A]Water_pipo_73': -3861747568568082827
+      '[A]Water_pipo_74': 4373905036204043047
+      '[A]Water_pipo_75': -1338737601022137850
+      '[A]Water_pipo_76': -1672716590744370406
+      '[A]Water_pipo_77': 1121186732209349963
+      '[A]Water_pipo_78': 8067153850463630783
+      '[A]Water_pipo_79': 3182157089031015208
+      '[A]Water_pipo_8': 2623077328995902068
+      '[A]Water_pipo_80': 6262993287312661857
+      '[A]Water_pipo_81': 1433781438030299324
+      '[A]Water_pipo_82': 395576385157052050
+      '[A]Water_pipo_83': -3202451660470650960
+      '[A]Water_pipo_84': -1589952982940824692
+      '[A]Water_pipo_85': -5431963632905441939
+      '[A]Water_pipo_86': -1434988893091284952
+      '[A]Water_pipo_87': -3807270954937554877
+      '[A]Water_pipo_88': 308844528429355410
+      '[A]Water_pipo_89': 5203062299061246082
+      '[A]Water_pipo_9': 5110544496027572809
+      '[A]Water_pipo_90': 4171863022480316567
+      '[A]Water_pipo_91': -4974041754726529292
+      '[A]Water_pipo_92': -5683975021710968966
+      '[A]Water_pipo_93': -325674277167882303
+      '[A]Water_pipo_94': -3123451996537430191
+      '[A]Water_pipo_95': 1345805554260939767
+      '[A]Water_pipo_96': -2095696045986782568
+      '[A]Water_pipo_97': 7331459680942637575
+      '[A]Water_pipo_98': -2948961457858453915
+      '[A]Water_pipo_99': -8060653222694830938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
