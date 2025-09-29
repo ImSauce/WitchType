@@ -214,7 +214,7 @@ Transform:
   m_GameObject: {fileID: 32310470}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.3958597, y: -5.32448, z: -10}
+  m_LocalPosition: {x: -3.4013615, y: -10.5708, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4010,7 +4010,7 @@ Transform:
   m_GameObject: {fileID: 334295920}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.3958597, y: -5.32448, z: -10}
+  m_LocalPosition: {x: -3.3958597, y: -19.354479, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -390792,24 +390792,6 @@ Tilemap:
     m_Data: {fileID: -4262537536782352580, guid: 2809968b3f90c8b4f8018df19924fe90, type: 3}
   - m_RefCount: 30
     m_Data: {fileID: 1921871157, guid: 2809968b3f90c8b4f8018df19924fe90, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 38611
     m_Data:
@@ -391071,7 +391053,7 @@ GameObject:
   - component: {fileID: 789416154}
   - component: {fileID: 789416155}
   m_Layer: 0
-  m_Name: CH1_L1_R2_A
+  m_Name: Door1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -391150,7 +391132,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8880f2da42fa4714cb73432783ce9b2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneTrigger
-  sceneBuildIndex: 2
+  sceneAsset: {fileID: 102900000, guid: b9d48046937fc9b49874817da3aaeb40, type: 3}
 --- !u!1 &804718536
 GameObject:
   m_ObjectHideFlags: 0
@@ -408456,7 +408438,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1229831382465975725, guid: eafcca2cec725494dbd1263b666764a4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.45
+      value: -19.48
       objectReference: {fileID: 0}
     - target: {fileID: 1229831382465975725, guid: eafcca2cec725494dbd1263b666764a4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -408496,7 +408478,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5249921910755050216, guid: eafcca2cec725494dbd1263b666764a4, type: 3}
       propertyPath: m_SortingOrder
-      value: 99
+      value: 323
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -1,9 +1,9 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class SceneTransition : MonoBehaviour
 {
-
     public Animator transition;
 
     [SerializeField] private PauseMenu pause;
@@ -11,16 +11,16 @@ public class SceneTransition : MonoBehaviour
 
     public void Play()
     {
-        StartCoroutine(Transition(SceneManager.GetActiveScene().buildIndex + 1));
+        // If you want to go to a specific scene by name:
+        StartCoroutine(Transition("CH1_L1_R1"));
     }
 
     public void GoHomeMenu()
     {
         pause.Home();
+        // If you want to go to scene index 0:
         StartCoroutine(Transition(0));
     }
-
-    
 
     IEnumerator Transition(int levelIndex)
     {
@@ -28,5 +28,11 @@ public class SceneTransition : MonoBehaviour
         yield return new WaitForSeconds(transitionTime);
         SceneManager.LoadScene(levelIndex);
     }
-    
+
+    IEnumerator Transition(string sceneName)
+    {
+        transition.SetTrigger("Start");
+        yield return new WaitForSeconds(transitionTime);
+        SceneManager.LoadScene(sceneName);
+    }
 }

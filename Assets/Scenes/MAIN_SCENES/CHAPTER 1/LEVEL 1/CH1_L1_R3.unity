@@ -148,7 +148,7 @@ Transform:
   m_GameObject: {fileID: 32310470}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -6.064373, y: 1.64241, z: -10}
+  m_LocalPosition: {x: -6.545162, y: 1.6451299, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2997,7 +2997,7 @@ Transform:
   m_GameObject: {fileID: 334295920}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -13.045859, y: 1.63552, z: -10}
+  m_LocalPosition: {x: -15.39586, y: 1.63552, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7601,24 +7601,6 @@ Tilemap:
     m_Data: {fileID: 1485671569, guid: 2809968b3f90c8b4f8018df19924fe90, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -4596972127225251403, guid: 2809968b3f90c8b4f8018df19924fe90, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
   m_TileMatrixArray:
   - m_RefCount: 412
     m_Data:
@@ -10911,7 +10893,7 @@ GameObject:
   - component: {fileID: 789416154}
   - component: {fileID: 789416155}
   m_Layer: 0
-  m_Name: CH1_L1_R2_A
+  m_Name: Door1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10990,7 +10972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8880f2da42fa4714cb73432783ce9b2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneTransitionTutorial1
-  sceneBuildIndex: 2
+  sceneAsset: {fileID: 102900000, guid: f99ac6167ff15e441936d811c20f6674, type: 3}
 --- !u!1 &804718536
 GameObject:
   m_ObjectHideFlags: 0
@@ -11984,7 +11966,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 6, z: 0}
@@ -12007,7 +11989,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 7, y: 7, z: 0}
@@ -23780,7 +23762,7 @@ GameObject:
   - component: {fileID: 2105860852}
   - component: {fileID: 2105860851}
   m_Layer: 0
-  m_Name: CH1_L1_R4_A
+  m_Name: Door2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23813,7 +23795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8880f2da42fa4714cb73432783ce9b2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneTransitionTutorial1
-  sceneBuildIndex: 4
+  sceneAsset: {fileID: 102900000, guid: fd8a32bdd5651da41a4e549e90ca4fac, type: 3}
 --- !u!61 &2105860852
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -23878,7 +23860,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1229831382465975725, guid: eafcca2cec725494dbd1263b666764a4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -12.95
+      value: -15.3
       objectReference: {fileID: 0}
     - target: {fileID: 1229831382465975725, guid: eafcca2cec725494dbd1263b666764a4, type: 3}
       propertyPath: m_LocalPosition.y
