@@ -15,20 +15,26 @@
 
 // }
 
-
 using UnityEngine;
 
 [ExecuteInEditMode]
 public class ParallaxLayer : MonoBehaviour
 {
-    public Vector2 parallaxFactor; // separate factors for x and y
+    public Vector2 parallaxFactor = Vector2.one;
 
-    public void Move(Vector2 delta)
+    private Vector3 startPos;
+
+    void Start()
     {
-        Vector3 newPos = transform.localPosition;
-        newPos.x -= delta.x * parallaxFactor.x;
-        newPos.y -= delta.y * parallaxFactor.y;
+        startPos = transform.localPosition;
+    }
 
+    public void Move(Vector2 offset)
+    {
+        // Always relative to start position (so no drift)
+        Vector3 newPos = startPos;
+        newPos.x += offset.x * parallaxFactor.x;
+        newPos.y += offset.y * parallaxFactor.y;
         transform.localPosition = newPos;
     }
 }
