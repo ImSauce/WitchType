@@ -339,7 +339,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -4080,7 +4080,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 34
-    OrthographicSize: 10
+    OrthographicSize: 8
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -392411,7 +392411,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 9, y: 6, z: 0}
@@ -392434,7 +392434,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 6, z: 0}
@@ -408454,6 +408454,10 @@ PrefabInstance:
       propertyPath: playermovement
       value: 
       objectReference: {fileID: 6885626771005783244}
+    - target: {fileID: 2810459231149431074, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: m_Volume
+      value: 0.207
+      objectReference: {fileID: 0}
     - target: {fileID: 5133349876065497818, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.55246
@@ -408494,6 +408498,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: backgroundTracks.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8300000, guid: f0366e15b7d4b344993bbf0b38f48c9a, type: 3}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[1]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 301066be1a757e44a8554476ff29112f, type: 3}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[2]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 6e59f866f2ffa244c89100bfd92b25ba, type: 3}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[3]'
+      value: 
+      objectReference: {fileID: 8300000, guid: d7d14efc7eb7e084db16812a4abfeae2, type: 3}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[4]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 56ff21cf6beaaab49b3b3011a9f9972b, type: 3}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[5]'
+      value: 
+      objectReference: {fileID: 8300000, guid: d27323d1604ea01458fbc3b05e19f45f, type: 3}
+    - target: {fileID: 5768665002246929977, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
+      propertyPath: 'backgroundTracks.Array.data[6]'
+      value: 
+      objectReference: {fileID: 8300000, guid: e6ca0a7e17f51f74abf8ca8ef2702c69, type: 3}
     - target: {fileID: 7520079873118667835, guid: ffb8dfbf165f2254f9caa4cd2824ffbf, type: 3}
       propertyPath: playerAnimator
       value: 
