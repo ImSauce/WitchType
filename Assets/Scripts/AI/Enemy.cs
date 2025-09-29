@@ -7,13 +7,19 @@ public class Enemy : MonoBehaviour
     public Transform target;
     Vector2 moveDirection;
 
+    private Animator animator;
+    private bool isDead = false;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
     
     void Update()
     {
+        if (!isDead) return;
+
         if(target != null)
         {
             Vector3 direction = (target.position - transform.position).normalized;
@@ -26,10 +32,24 @@ public class Enemy : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if(target)
+        if (!isDead) return;
+
+        if (target)
         {
             rb.linearVelocity = new Vector2(moveDirection.x * speed, moveDirection.y * speed);
         }
        
+    }
+
+    public void Die ()
+    {
+        isDead = true;
+        rb.linearVelocity = Vector2.zero;  
+        animator.SetTrigger("Die");
+    }    
+
+    public void DestroyEnemy()
+    {
+        Destroy(gameObject);
     }
 }

@@ -3,7 +3,6 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    // Use SerializeField to allow editing in inspector 
     [SerializeField] private float moveSpeed = 5f;
     private Rigidbody2D rb;
     private Vector2 movement;
@@ -28,7 +27,6 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("isWalking", true);
 
-            // update last direction when moving
             lastMoveDir = movement;
 
             animator.SetFloat("InputX", movement.x);
@@ -38,7 +36,6 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetBool("isWalking", false);
 
-            // keep facing the last direction when idle
             animator.SetFloat("InputX", lastMoveDir.x);
             animator.SetFloat("InputY", lastMoveDir.y);
         }
