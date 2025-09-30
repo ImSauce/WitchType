@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     }
     public void Move(InputAction.CallbackContext context)
     {
+        if (TypeCastingUI.TypeCastingMode) return;
         movement = context.ReadValue<Vector2>();
 
         if (movement != Vector2.zero)
