@@ -1,46 +1,10 @@
 fileFormatVersion: 2
-guid: fc1e11e006d17554a99fb0bd167454a3
+guid: 8514736fe74c2764890625eecd7822f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5079755112635613602
-    second: comfy_forest_tileset 1_0
-  - first:
-      213: 4695578229990954639
-    second: comfy_forest_tileset 1_1
-  - first:
-      213: -3088417749007455340
-    second: comfy_forest_tileset 1_2
-  - first:
-      213: 1326242802628711955
-    second: comfy_forest_tileset 1_3
-  - first:
-      213: 1564705920935279281
-    second: comfy_forest_tileset 1_4
-  - first:
-      213: -2799743687940667760
-    second: comfy_forest_tileset 1_5
-  - first:
-      213: 4178743377444865264
-    second: comfy_forest_tileset 1_6
-  - first:
-      213: 2659998471238596163
-    second: comfy_forest_tileset 1_7
-  - first:
-      213: -2839837662591689567
-    second: comfy_forest_tileset 1_8
-  - first:
-      213: -5066136516089792982
-    second: comfy_forest_tileset 1_9
-  - first:
-      213: -7979007881932104830
-    second: comfy_forest_tileset 1_10
-  - first:
-      213: -6686546073468448454
-    second: comfy_forest_tileset 1_11
-  - first:
-      213: -2693116645221055869
-    second: comfy_forest_tileset 1_12
+      213: -7441063808967974531
+    second: Cliff_Tile_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -83,7 +47,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 4
+  spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -111,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -132,291 +96,370 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_0
+      name: Cliff_Tile_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 63
-        width: 49
-        height: 65
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2a1ce9a7c5aee7640800000000000000
-      internalID: 5079755112635613602
+      spriteID: d71e273e3e70cb890800000000000000
+      internalID: -7441063808967974531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_1
+      name: Cliff_Tile_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734cb8aaf580404ab84191b4c65e901
+      internalID: -1836781968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb07f325014d784a8a2d4c01358d235
+      internalID: -761243496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff_Tile_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 47
-        width: 25
-        height: 17
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f861bad958b0a2140800000000000000
-      internalID: 4695578229990954639
+      spriteID: 6add9414f7f00ee42a7d6e2504081e6c
+      internalID: -1122535629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_2
+      name: Cliff_Tile_4
       rect:
         serializedVersion: 2
-        x: 7
-        y: 31
-        width: 42
-        height: 32
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 49b2660ab6cb325d0800000000000000
-      internalID: -3088417749007455340
+      spriteID: 6a42711d0f308d341901721b9963843d
+      internalID: -1436325966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_3
+      name: Cliff_Tile_5
       rect:
         serializedVersion: 2
-        x: 47
-        y: 15
-        width: 81
-        height: 113
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3165a906dc2c76210800000000000000
-      internalID: 1326242802628711955
+      spriteID: 4fae27a86acd3a4429622d0e00c8096a
+      internalID: -1110901336
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 31
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ba3c43beb3f6b510800000000000000
-      internalID: 1564705920935279281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: comfy_forest_tileset 1_5
+      name: Cliff_Tile_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 17
-        width: 15
-        height: 13
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 096872213ff4529d0800000000000000
-      internalID: -2799743687940667760
+      spriteID: aae968a14a42e394cae5e51654f90e46
+      internalID: -479297217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_6
+      name: Cliff_Tile_7
       rect:
         serializedVersion: 2
-        x: 17
-        y: 17
-        width: 14
-        height: 13
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0f40e1c36f0edf930800000000000000
-      internalID: 4178743377444865264
+      spriteID: 79b9f8f46f2113f4a8e86d286f1a19d2
+      internalID: -1143263263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_7
+      name: Cliff_Tile_8
       rect:
         serializedVersion: 2
-        x: 33
-        y: 18
-        width: 13
-        height: 11
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 346324d24863ae420800000000000000
-      internalID: 2659998471238596163
+      spriteID: ff0569d9b39556a4c8c3d4859ee2d769
+      internalID: 1250330173
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_8
+      name: Cliff_Tile_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e47fccae9f574c9cd4d2eb24154fa
+      internalID: 285269888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff_Tile_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb035512bd56084e9e603b136336bc0
+      internalID: 1355648139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff_Tile_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4d2981fc494842bcd4644635b0a74
+      internalID: 1557251678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff_Tile_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f03823c7fd9674bb41c90345aa7aa0
+      internalID: -1226056040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cliff_Tile_13
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 17
-        height: 14
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1ac527521bed698d0800000000000000
-      internalID: -2839837662591689567
+      spriteID: 497126fb2cea55b41bac59b3ac55b57e
+      internalID: -1172206471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_9
+      name: Cliff_Tile_14
       rect:
         serializedVersion: 2
-        x: 15
-        y: 8
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2635de1ea771b9b0800000000000000
-      internalID: -5066136516089792982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: comfy_forest_tileset 1_10
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 8
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 28b15612b9ed44190800000000000000
-      internalID: -7979007881932104830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: comfy_forest_tileset 1_11
-      rect:
-        serializedVersion: 2
-        x: 47
+        x: 16
         y: 0
-        width: 8
-        height: 5
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a3151a4e5cd9433a0800000000000000
-      internalID: -6686546073468448454
+      spriteID: 0c1f81aab6ead3e47880832edc2f0c04
+      internalID: -458089659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: comfy_forest_tileset 1_12
+      name: Cliff_Tile_15
       rect:
         serializedVersion: 2
-        x: 74
+        x: 32
         y: 0
-        width: 7
-        height: 5
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 38248ee0ea020aad0800000000000000
-      internalID: -2693116645221055869
+      spriteID: e02a9c17af4b2aa49837266445b0123f
+      internalID: 1082070405
       vertices: []
       indices: 
       edges: []
@@ -425,7 +468,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3f69b50b907daf34498c65ad41b42126
     internalID: 0
     vertices: []
     indices: 
@@ -433,21 +476,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      comfy_forest_tileset 1_0: 5079755112635613602
-      comfy_forest_tileset 1_1: 4695578229990954639
-      comfy_forest_tileset 1_10: -7979007881932104830
-      comfy_forest_tileset 1_11: -6686546073468448454
-      comfy_forest_tileset 1_12: -2693116645221055869
-      comfy_forest_tileset 1_2: -3088417749007455340
-      comfy_forest_tileset 1_3: 1326242802628711955
-      comfy_forest_tileset 1_4: 1564705920935279281
-      comfy_forest_tileset 1_5: -2799743687940667760
-      comfy_forest_tileset 1_6: 4178743377444865264
-      comfy_forest_tileset 1_7: 2659998471238596163
-      comfy_forest_tileset 1_8: -2839837662591689567
-      comfy_forest_tileset 1_9: -5066136516089792982
+      Cliff_Tile_0: -7441063808967974531
+      Cliff_Tile_1: -1836781968
+      Cliff_Tile_10: 1355648139
+      Cliff_Tile_11: 1557251678
+      Cliff_Tile_12: -1226056040
+      Cliff_Tile_13: -1172206471
+      Cliff_Tile_14: -458089659
+      Cliff_Tile_15: 1082070405
+      Cliff_Tile_2: -761243496
+      Cliff_Tile_3: -1122535629
+      Cliff_Tile_4: -1436325966
+      Cliff_Tile_5: -1110901336
+      Cliff_Tile_6: -479297217
+      Cliff_Tile_7: -1143263263
+      Cliff_Tile_8: 1250330173
+      Cliff_Tile_9: 285269888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
