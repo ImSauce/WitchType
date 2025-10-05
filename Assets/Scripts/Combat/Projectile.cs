@@ -35,7 +35,7 @@ public class Projectile : MonoBehaviour
             EnemyHealth enemy = other.GetComponent<EnemyHealth>();
             if (enemy != null)
             {
-                enemy.TakeDamage(1);
+                enemy.TakeDamage(1, transform.right);
             }
 
 

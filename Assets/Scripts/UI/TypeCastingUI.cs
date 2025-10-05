@@ -1,10 +1,8 @@
 //  [小鈎ハレ]  //
 using System.Linq;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TypeCastingUI : MonoBehaviour
@@ -31,6 +29,7 @@ public class TypeCastingUI : MonoBehaviour
     }
     void Update()
     {
+        if (TypeCastingMode && !TypeCastField.isFocused) return;
         if (Input.GetKeyDown(KeyCode.Return) && SpellManager.Instance.selectedSpells != null)
         {
             if (!TypeCastingMode)
