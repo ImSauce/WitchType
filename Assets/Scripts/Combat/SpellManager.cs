@@ -1,6 +1,5 @@
 
 using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class SpellManager : MonoBehaviour
@@ -47,9 +46,13 @@ public class SpellManager : MonoBehaviour
         if (!unlockedSpells.Contains(spell))
         {
             unlockedSpells.Add(spell);
-            SpellBookUI.Instance?.UpdateSpellSlot();
+            if (SpellBookUI.Instance != null && SpellBookUI.Instance.isActiveAndEnabled)
+            {
+                SpellBookUI.Instance.UpdateSpellSlot();
+            }
         }
     }
+
 
 
     public void ToggleSpellByIndex(int index)
