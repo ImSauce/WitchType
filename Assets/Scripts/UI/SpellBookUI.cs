@@ -5,11 +5,17 @@ using System.Collections;
 
 public class SpellBookUI : MonoBehaviour
 {
+    public static SpellBookUI Instance;
     public TMP_Text counterText;
     public GameObject spellBookPanel;
     [SerializeField] private GameObject[] spellSlots;
     private bool initialized = false;
 
+
+    private void Awake()
+    {
+        Instance = this;
+    }
 
     void Update()
     {
@@ -35,6 +41,7 @@ public class SpellBookUI : MonoBehaviour
         yield return null;
         UpdateSpellSlot();
         UpdateCounter();
+        initialized = true;
     }
 
     public void OpenSpellBook()
@@ -54,14 +61,7 @@ public class SpellBookUI : MonoBehaviour
         if (sm == null)
             return;
 
-        int validSelectedCount = 0;
-        foreach (var spell in sm.selectedSpells)
-        {
-            if (sm.unlockedSpells.Contains(spell))
-                validSelectedCount++;
-        }
-
-        counterText.text = $"SPELL BOOK [{validSelectedCount} / {sm.maxSpells}]";
+        counterText.text = $"SPELL BOOK [{sm.selectedSpells.Count} / {sm.maxSpells}]";
     }
 
 
@@ -75,8 +75,6 @@ public class SpellBookUI : MonoBehaviour
             Image iconImage = slot.transform.Find("SpellIcon")?.GetComponent<Image>();
             GameObject lockedOverlay = slot.transform.Find("LockedOverlay")?.gameObject;
 
-            if (iconImage == null) Debug.LogError($"[Slot {i}] SpellIcon not found in {slot.name}");
-            if (lockedOverlay == null) Debug.LogError($"[Slot {i}] LockedOverlay not found in {slot.name}");
 
             if (i < spellManager.allSpells.Count)
             {
@@ -86,8 +84,6 @@ public class SpellBookUI : MonoBehaviour
 
                 iconImage.enabled = true;
                 lockedOverlay.SetActive(!unlocked);
-
-                Debug.Log($"[Slot {i}] Set icon for {spell.spellName}, unlocked={unlocked}");
             }
             else
             {
