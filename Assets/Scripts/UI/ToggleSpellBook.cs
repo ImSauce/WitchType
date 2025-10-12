@@ -8,9 +8,9 @@ public class ToggleSpellBook : MonoBehaviour
 
     private void Start()
     {
-        // Ensure the selected border is hidden when the game starts
         selectedBorderImage.enabled = false;
     }
+
     public void Toggle()
     {
         var spellManager = SpellManager.Instance;
@@ -19,11 +19,11 @@ public class ToggleSpellBook : MonoBehaviour
         if (spellIndex >= 0 && spellIndex < spellManager.allSpells.Count)
         {
             var spell = spellManager.allSpells[spellIndex];
-
             if (spellManager.unlockedSpells.Contains(spell))
             {
-                selectedBorderImage.enabled = !selectedBorderImage.enabled;
                 spellManager.ToggleSpellByIndex(spellIndex);
+                selectedBorderImage.enabled = spellManager.selectedSpells.Contains(spell);
+                FindFirstObjectByType<SpellBookUI>()?.UpdateCounter();
             }
         }
     }

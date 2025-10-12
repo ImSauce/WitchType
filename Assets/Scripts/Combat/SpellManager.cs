@@ -16,16 +16,14 @@ public class SpellManager : MonoBehaviour
         if (Instance == null)
         {
             Instance = this;
+            transform.parent = null;
             DontDestroyOnLoad(gameObject);
         }
         else if (Instance != this)
         {
-            Debug.LogWarning("Duplicate SpellManager found, destroying this instance!");
             Destroy(gameObject);
             return;
         }
-        Debug.Log("SpellManager Awake in scene: " + UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
-
     }
 
     public void SelectSpell(Spell spell)
@@ -49,13 +47,7 @@ public class SpellManager : MonoBehaviour
         if (!unlockedSpells.Contains(spell))
         {
             unlockedSpells.Add(spell);
-
-            var spellBookUI = FindFirstObjectByType<SpellBookUI>();
-            if (spellBookUI != null)
-            {
-                spellBookUI.UpdateSpellSlot();
-                spellBookUI.UpdateCounter();
-            }
+            SpellBookUI.Instance?.UpdateSpellSlot();
         }
     }
 
@@ -66,7 +58,12 @@ public class SpellManager : MonoBehaviour
         if (index >= 0 && index < allSpells.Count)
         {
             Spell spell = allSpells[index];
-           
+
+
+            if (!unlockedSpells.Contains(spell))
+            {
+                return;
+            }
 
             if (selectedSpells.Contains(spell))
             {
@@ -77,8 +74,6 @@ public class SpellManager : MonoBehaviour
                 selectedSpells.Add(spell);
             }
         }
-
-        FindFirstObjectByType<SpellBookUI>()?.UpdateCounter();
     }
 
     [System.Serializable]
