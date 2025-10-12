@@ -7,12 +7,25 @@ public class SpellManager : MonoBehaviour
 {
     public static SpellManager Instance;
     public List<Spell> selectedSpells = new List<Spell>();
+    public List<Spell> unlockedSpells = new List<Spell>();
     public List<Spell> allSpells; 
-    public int maxSpells = 3;
+    public int maxSpells = 1;
 
     private void Awake()
     {
-        if (Instance == null) Instance = this;
+        if (Instance == null)
+        {
+            Instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else if (Instance != this)
+        {
+            Debug.LogWarning("Duplicate SpellManager found, destroying this instance!");
+            Destroy(gameObject);
+            return;
+        }
+        Debug.Log("SpellManager Awake in scene: " + UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
+
     }
 
     public void SelectSpell(Spell spell)
@@ -30,6 +43,22 @@ public class SpellManager : MonoBehaviour
             selectedSpells.Remove(spell);
         }
     }
+
+    public void UnlockSpell(Spell spell)
+    {
+        if (!unlockedSpells.Contains(spell))
+        {
+            unlockedSpells.Add(spell);
+
+            var spellBookUI = FindFirstObjectByType<SpellBookUI>();
+            if (spellBookUI != null)
+            {
+                spellBookUI.UpdateSpellSlot();
+                spellBookUI.UpdateCounter();
+            }
+        }
+    }
+
 
     public void ToggleSpellByIndex(int index)
     {
@@ -51,10 +80,6 @@ public class SpellManager : MonoBehaviour
 
         FindFirstObjectByType<SpellBookUI>()?.UpdateCounter();
     }
-
-
-
-
 
     [System.Serializable]
     public class Spell

@@ -1,10 +1,10 @@
 using UnityEngine;
 
-public class Persistence : MonoBehaviour
+public class PersistenceRoot : MonoBehaviour
 {
-    public static Persistence instance;
+    private static PersistenceRoot instance;
 
-    private void Awake()
+    void Awake()
     {
         if (instance == null)
         {
@@ -17,4 +17,3 @@ public class Persistence : MonoBehaviour
         }
     }
 }
-

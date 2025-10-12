@@ -400821,7 +400821,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8880f2da42fa4714cb73432783ce9b2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneTransitionTutorial1
-  sceneBuildIndex: 1
+  sceneAsset: {fileID: 0}
+  spawnPointID: 
 --- !u!1 &803058737
 GameObject:
   m_ObjectHideFlags: 0
@@ -402416,7 +402417,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 5, z: 0}
@@ -402531,7 +402532,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -463479,6 +463480,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PauseMenu
   pauseMenuUI: {fileID: 957680252}
   ButtonPause: {fileID: 553277827}
+  PersistentDestroy: {fileID: 0}
   playerAnimator: {fileID: 413170122}
 --- !u!114 &1670302837
 MonoBehaviour:
