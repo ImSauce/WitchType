@@ -7,6 +7,7 @@ TagManager:
   - Hazard
   - Enemy
   - Spell
+  - CH1 L1 K1
   layers:
   - Default
   - TransparentFX
