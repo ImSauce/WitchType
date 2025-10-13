@@ -11,12 +11,10 @@ public class HealthDisplay : MonoBehaviour
         {
             Animator anim = hearts[i].GetComponent<Animator>();
 
-            // Check if heart should be visible
             if (i < currentHealth)
             {
                 hearts[i].enabled = true;
 
-                // Play animation when heart updates
                 if (anim != null && anim.HasState(0, Animator.StringToHash("HeartUpdate")))
                 {
                     anim.Play("HeartUpdate", -1, 0f);
