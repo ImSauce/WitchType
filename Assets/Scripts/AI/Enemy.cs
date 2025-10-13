@@ -6,6 +6,8 @@ public class Enemy : MonoBehaviour
     private int facingDirection = -1;
     public EnemyState enemyState;
 
+    public float attackRange = 2f;
+
     Rigidbody2D rb;
     private Transform player;
     
@@ -26,13 +28,27 @@ public class Enemy : MonoBehaviour
 
         if (enemyState == EnemyState.Chasing)
         {
-            if(player.position.x > transform.position.x && facingDirection == -1 || player.position.x < transform.position.x && facingDirection == 1)
-            {
-                Flip();
-            }
-            Vector3 direction = (player.position - transform.position).normalized;
-            rb.linearVelocity = direction * speed;
+            Chase();
         }
+        else if(enemyState == EnemyState.Attacking)
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
+    }
+
+    void Chase()
+    {
+        if(Vector2.Distance(transform.position, player.transform.position) <= attackRange)
+        {
+            ChangeState(EnemyState.Attacking);
+        }
+
+        else if (player.position.x > transform.position.x && facingDirection == -1 || player.position.x < transform.position.x && facingDirection == 1)
+        {
+            Flip();
+        }
+        Vector3 direction = (player.position - transform.position).normalized;
+        rb.linearVelocity = direction * speed;
     }
 
     void Flip()
@@ -72,6 +88,10 @@ public class Enemy : MonoBehaviour
         {
             anim.SetBool("isChasing", false);
         }
+        else if (enemyState == EnemyState.Attacking)
+        {
+            anim.SetBool("isAttacking", false);
+        }
 
         enemyState = newState;
 
@@ -82,6 +102,10 @@ public class Enemy : MonoBehaviour
         else if (enemyState == EnemyState.Chasing)
         {
             anim.SetBool("isChasing", true);
+        }
+        else if (enemyState == EnemyState.Attacking)
+        {
+            anim.SetBool("isAttacking", true);
         }
     }
 
@@ -104,4 +128,5 @@ public enum EnemyState
 {
     Idle,
     Chasing,
+    Attacking,
 }
