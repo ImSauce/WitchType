@@ -31,20 +31,23 @@ public class Enemy : MonoBehaviour
     {
         if (isDead) return;
 
-        CheckForPlayer();
+        if(enemyState != EnemyState.KnockBack)
+        {
+            CheckForPlayer();
 
-        if (cooldownTimer > 0)
-        {
-            cooldownTimer -= Time.deltaTime;   
-        }
+            if (cooldownTimer > 0)
+            {
+                cooldownTimer -= Time.deltaTime;
+            }
 
-        if (enemyState == EnemyState.Chasing)
-        {
-            Chase();
-        }
-        else if(enemyState == EnemyState.Attacking)
-        {
-            rb.linearVelocity = Vector2.zero;
+            if (enemyState == EnemyState.Chasing)
+            {
+                Chase();
+            }
+            else if (enemyState == EnemyState.Attacking)
+            {
+                rb.linearVelocity = Vector2.zero;
+            }
         }
     }
 
@@ -89,7 +92,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    void ChangeState(EnemyState newState)
+    public void ChangeState(EnemyState newState)
     {
         if(enemyState == EnemyState.Idle)
         {
@@ -140,4 +143,5 @@ public enum EnemyState
     Idle,
     Chasing,
     Attacking,
+    KnockBack,
 }
