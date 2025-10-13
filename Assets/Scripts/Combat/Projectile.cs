@@ -5,6 +5,8 @@ public class Projectile : MonoBehaviour
     public float speed = 10f;
     public float lifetime = 7f;
     public float kbForce = 5f;
+    public float knockbackTime = .15f;
+    public float stunTime = 1;
     //public GameObject impactEffect; TO DO
 
     private Rigidbody2D rb;
@@ -42,7 +44,7 @@ public class Projectile : MonoBehaviour
 
             if(knockback != null)
             {
-                knockback.KnockBack(transform, kbForce);
+                knockback.KnockBack(transform, kbForce, knockbackTime,stunTime);
             }
 
         }
