@@ -3,53 +3,105 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public float speed = 2f;
-    Rigidbody2D rb;
-    public Transform target;
-    Vector2 moveDirection;
+    private int facingDirection = -1;
+    public EnemyState enemyState;
 
-    private Animator animator;
+    Rigidbody2D rb;
+    private Transform player;
+    
+
+    private Animator anim;
     private bool isDead = false;
 
-    private void Awake()
+    private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
+        anim = GetComponent<Animator>();
+        ChangeState(EnemyState.Idle);
     }
     
     void Update()
     {
-        if (!isDead) return;
+        if (isDead) return;
 
-        if(target != null)
+        if (enemyState == EnemyState.Chasing)
         {
-            Vector3 direction = (target.position - transform.position).normalized;
-            moveDirection = direction;
-
-            //float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-            //rb.rotation = angle;
+            if(player.position.x > transform.position.x && facingDirection == -1 || player.position.x < transform.position.x && facingDirection == 1)
+            {
+                Flip();
+            }
+            Vector3 direction = (player.position - transform.position).normalized;
+            rb.linearVelocity = direction * speed;
         }
     }
 
-    private void FixedUpdate()
+    void Flip()
     {
-        if (!isDead) return;
+        facingDirection *= -1;
+        transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.x);
+    }
 
-        if (target)
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag ("Player"))
         {
-            rb.linearVelocity = new Vector2(moveDirection.x * speed, moveDirection.y * speed);
+            if(player == null)
+            {
+               player = collision.transform;
+            }
+            ChangeState(EnemyState.Chasing);
         }
-       
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag ("Player"))
+        {
+            rb.linearVelocity = Vector2.zero;
+            ChangeState(EnemyState.Idle);
+        }
+    }
+
+    void ChangeState(EnemyState newState)
+    {
+        if(enemyState == EnemyState.Idle)
+        {
+            anim.SetBool("isIdle", false); 
+        }
+        else if (enemyState == EnemyState.Chasing)
+        {
+            anim.SetBool("isChasing", false);
+        }
+
+        enemyState = newState;
+
+        if (enemyState == EnemyState.Idle)
+        {
+            anim.SetBool("isIdle", true);
+        }
+        else if (enemyState == EnemyState.Chasing)
+        {
+            anim.SetBool("isChasing", true);
+        }
     }
 
     public void Die ()
     {
         isDead = true;
         rb.linearVelocity = Vector2.zero;  
-        animator.SetTrigger("Die");
+        anim.SetTrigger("Die");
     }    
 
     public void DestroyEnemy()
     {
         Destroy(gameObject);
     }
+
+    
+}
+
+public enum EnemyState
+{
+    Idle,
+    Chasing,
 }
