@@ -2,50 +2,26 @@ using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 5;
-    public int health;
+    public int currentHealth;
+    public int maxHealth;
+    public HealthDisplay health;
 
     void Start()
     {
-        health = maxHealth;
+        currentHealth = maxHealth;
+        health.UpdateHearts(currentHealth, maxHealth);
     }
 
-    public void TakeDamage(int damage)
+    public void ChangeHealth(int amount)
     {
-        health -= damage;
-        health = Mathf.Clamp(health, 0, maxHealth);
+        currentHealth += amount;
+        currentHealth = Mathf.Clamp(currentHealth, 0, maxHealth);
 
+        health.UpdateHearts(currentHealth, maxHealth);
 
-        /* if (health <= 0)
+        if (currentHealth <= 0)
         {
-            Die();
-        }*/
-    }
-
-    /*void Die()
-    {
-        GameOverManager gameOver = Object.FindFirstObjectByType<GameOverManager>();
-        if (gameOver != null)
-        {
-            gameOver.ShowGameOver();
-        }
-
-        gameObject.SetActive(false);
-    }*/
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy"))
-        {
-            TakeDamage(1);
-        }
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Enemy"))
-        {
-            TakeDamage(1);
+            gameObject.SetActive(false);
         }
     }
 }

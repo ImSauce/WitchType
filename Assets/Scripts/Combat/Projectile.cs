@@ -4,6 +4,7 @@ public class Projectile : MonoBehaviour
 {
     public float speed = 10f;
     public float lifetime = 7f;
+    public float kbForce = 5f;
     //public GameObject impactEffect; TO DO
 
     private Rigidbody2D rb;
@@ -19,7 +20,7 @@ public class Projectile : MonoBehaviour
 
         Vector2 direction = (mouseWorld - transform.position).normalized;
 
-        rb.linearVelocity = direction * speed;
+        rb.linearVelocity = direction * speed; 
 
         
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
@@ -33,11 +34,16 @@ public class Projectile : MonoBehaviour
         if (other.CompareTag("Enemy"))
         {
             EnemyHealth enemy = other.GetComponent<EnemyHealth>();
-            if (enemy != null)
+            EnemyKnockback knockback = other.GetComponent<EnemyKnockback>();
+            if(enemy != null)
             {
                 enemy.TakeDamage(1, transform.right);
             }
 
+            if(knockback != null)
+            {
+                knockback.KnockBack(transform, kbForce);
+            }
 
         }
     }

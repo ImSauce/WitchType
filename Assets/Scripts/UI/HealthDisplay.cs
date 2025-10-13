@@ -3,37 +3,22 @@ using UnityEngine.UI;
 
 public class HealthDisplay : MonoBehaviour
 {
-    public int health;
-    public int maxHealth;
-    public Sprite emptyHeart;
-    public Sprite fullHeart;
     public Image[] hearts;
 
-    public PlayerHealth playerHealth;
-
-    void Start()
+    public void UpdateHearts(int currentHealth, int maxHealth)
     {
-
-    }
-
-    void Update()
-    {
-        health = playerHealth.health;
-        maxHealth = playerHealth.maxHealth;
         for (int i = 0; i < hearts.Length; i++)
         {
-            if (i < health)
-            {
-                hearts[i].sprite = fullHeart;
-            }
-            else
-            {
-                hearts[i].sprite = emptyHeart;
-            }
+            Animator anim = hearts[i].GetComponent<Animator>();
 
-            if (i < maxHealth)
+            if (i < currentHealth)
             {
                 hearts[i].enabled = true;
+
+                if (anim != null && anim.HasState(0, Animator.StringToHash("HeartUpdate")))
+                {
+                    anim.Play("HeartUpdate", -1, 0f);
+                }
             }
             else
             {
