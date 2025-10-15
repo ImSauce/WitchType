@@ -16,15 +16,15 @@ public class Projectile : MonoBehaviour
 
         rb = GetComponent<Rigidbody2D>();
 
-        
+
         Vector3 mouseWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        mouseWorld.z = 0f; 
+        mouseWorld.z = 0f;
 
         Vector2 direction = (mouseWorld - transform.position).normalized;
 
-        rb.linearVelocity = direction * speed; 
+        rb.linearVelocity = direction * speed;
 
-        
+
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0f, 0f, angle);
 
@@ -37,14 +37,14 @@ public class Projectile : MonoBehaviour
         {
             EnemyHealth enemy = other.GetComponent<EnemyHealth>();
             EnemyKnockback knockback = other.GetComponent<EnemyKnockback>();
-            if(enemy != null)
+            if (enemy != null)
             {
                 enemy.TakeDamage(1, transform.right);
             }
 
-            if(knockback != null)
+            if (knockback != null)
             {
-                knockback.KnockBack(transform, kbForce, knockbackTime,stunTime);
+                knockback.KnockBack(transform, kbForce, knockbackTime, stunTime);
             }
 
         }
