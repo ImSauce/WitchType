@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3513826012110542897}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Attackpoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 662654849968140432}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.76, y: -1.25, z: 0}
+  m_LocalPosition: {x: 0.468, y: -0.506, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -40,7 +40,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5547588571567330839}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Detectionpoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,8 +56,8 @@ Transform:
   m_GameObject: {fileID: 1045399503934488319}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.89, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0.99, y: -0.11, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4401704357263509265}
@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 7205045144048444031}
   - component: {fileID: 8196768766587001969}
   - component: {fileID: 5055692698014127576}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Goblin
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -99,7 +99,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 2.99, y: -1.97, z: 0}
-  m_LocalScale: {x: -2, y: 2, z: 1}
+  m_LocalScale: {x: -2.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3513826012110542897}
@@ -174,7 +174,7 @@ Animator:
   m_GameObject: {fileID: 7333490386804538773}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1d5cb2879f02e8a4084ea0d39a459ee2, type: 2}
+  m_Controller: {fileID: 9100000, guid: 6fe794908bb4aa04a914244eb35499a5, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -284,8 +284,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 1.0301623, y: 0.11398077}
-  m_Radius: 2.4803133
+  m_Offset: {x: 1.8024457, y: 0.11398087}
+  m_Radius: 3.2525966
 --- !u!114 &2593517845543328024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   speed: 2
-  attackRange: 1.5
+  attackRange: 1.2
   attackCooldown: 2
   playerDetectionRange: 5
   detectionPoint: {fileID: 5547588571567330839}
@@ -320,7 +320,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyCombat
   damage: 1
   attackPoint: {fileID: 3513826012110542897}
-  weoponRange: 1
+  weoponRange: 1.2
   playerLayer:
     serializedVersion: 2
     m_Bits: 8

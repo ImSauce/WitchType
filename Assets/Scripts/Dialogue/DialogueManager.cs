@@ -11,6 +11,7 @@ public class DialogueManager : MonoBehaviour
     public Image potrait;
     public TMP_Text actorName;
     public TMP_Text dialogueText;
+    public Button[] choiceButtons;
 
     private DialogueSO currentDialogue;
     private int dialogueIndex;
@@ -29,6 +30,11 @@ public class DialogueManager : MonoBehaviour
         canvasGroup.alpha = 0;
         canvasGroup.interactable = false;
         canvasGroup.blocksRaycasts = false;
+
+        foreach (var button in choiceButtons)
+        {
+            button.gameObject.SetActive(false);
+        }
     }
 
     public void StartDialogue(DialogueSO dialogue)
@@ -46,8 +52,8 @@ public class DialogueManager : MonoBehaviour
             ShowDialogue();
         }
         else
-            EndDialogue();
-          
+           ShowChoices();
+
     }
 
     private void ShowDialogue()
@@ -65,13 +71,58 @@ public class DialogueManager : MonoBehaviour
         dialogueIndex++;
     }
 
+    private void ShowChoices()
+    {
+        ClearChoices();
+        if (currentDialogue.options.Length > 0)
+        {
+            for (int i = 0; i < currentDialogue.options.Length; i++)
+            {
+                var option = currentDialogue.options[i];
+                choiceButtons[i].GetComponentInChildren<TMP_Text>().text = option.optionText;
+                choiceButtons[i].gameObject.SetActive(true);
+
+                choiceButtons[i].onClick.AddListener(() => ChooseOption(option.nextDialogue));
+            }
+        }
+        else
+        {
+            choiceButtons[0].GetComponentInChildren<TMP_Text>().text = "End";
+            choiceButtons[0].onClick.AddListener(EndDialogue);
+            choiceButtons[0].gameObject.SetActive(true);
+        }
+    }
+
+    private void ChooseOption(DialogueSO dialogue)
+    {
+        if(dialogue == null)
+        {
+           EndDialogue();
+        }
+        else
+        {
+            ClearChoices();
+            StartDialogue(dialogue);
+        }
+    }
+
     private void EndDialogue()
     {
         isDialogueActive = false;
         dialogueIndex = 0;
+        ClearChoices();
 
         canvasGroup.alpha = 0;
         canvasGroup.interactable = false;
         canvasGroup.blocksRaycasts = false;
+    }
+
+    private void ClearChoices()
+    {
+        foreach (var button in choiceButtons)
+        {
+            button.gameObject.SetActive(false);
+            button.onClick.RemoveAllListeners();
+        }
     }
 }

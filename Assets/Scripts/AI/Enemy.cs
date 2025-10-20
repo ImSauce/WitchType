@@ -53,18 +53,30 @@ public class Enemy : MonoBehaviour
 
     void Chase()
     {
-        if (player.position.x > transform.position.x && facingDirection == -1 || player.position.x < transform.position.x && facingDirection == 1)
+        if ((player.position.x > transform.position.x && facingDirection == -1) || (player.position.x < transform.position.x && facingDirection == 1))
         {
             Flip();
         }
-        Vector3 direction = (player.position - transform.position).normalized;
+        Vector2 direction = (player.position - transform.position).normalized;
         rb.linearVelocity = direction * speed;
     }
 
     void Flip()
     {
         facingDirection *= -1;
-        transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.x);
+        transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.z);
+    }
+
+    public void FaceAttackDirection(Vector2 attackDirection)
+    {
+        if (attackDirection.x > 0 && facingDirection == -1)
+        {
+            Flip();
+        }
+        else if (attackDirection.x < 0 && facingDirection == 1)
+        {
+            Flip();
+        }
     }
 
     private void CheckForPlayer()
@@ -84,6 +96,10 @@ public class Enemy : MonoBehaviour
             {
                 ChangeState(EnemyState.Chasing);
             }
+        }
+        else if(player != null && Vector2.Distance(transform.position, player.position) < playerDetectionRange)
+        {
+            ChangeState(EnemyState.Chasing);
         }
         else
         {
@@ -123,11 +139,28 @@ public class Enemy : MonoBehaviour
         }
     }
 
+    public void OnDamagedByPlayer(Vector2 attackDirection)
+    {
+        FaceAttackDirection(attackDirection);
+
+        if (player == null)
+        {
+            GameObject p = GameObject.FindGameObjectWithTag("Player");
+            if (p != null)
+            {
+                player = p.transform;
+            }
+        }  
+        ChangeState(EnemyState.Chasing);
+    }
+
     public void Die ()
     {
         isDead = true;
         rb.linearVelocity = Vector2.zero;  
         anim.SetTrigger("Die");
+
+        Destroy(gameObject, 1f);
     }    
 
     public void DestroyEnemy()

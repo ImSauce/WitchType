@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 336bb05bc4b834542a2a7ada45442a74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3757671589347211503
+    second: spr_WamyWaterSplash_4_0
+  - first:
+      213: -8664003268722597570
+    second: spr_WamyWaterSplash_4_1
+  - first:
+      213: 6705430175584722584
+    second: spr_WamyWaterSplash_4_2
+  - first:
+      213: -7417837665269180720
+    second: spr_WamyWaterSplash_4_3
+  - first:
+      213: -7726447700064722926
+    second: spr_WamyWaterSplash_4_4
+  - first:
+      213: 4789940956961300270
+    second: spr_WamyWaterSplash_4_5
+  - first:
+      213: 4268566986699776201
+    second: spr_WamyWaterSplash_4_6
+  - first:
+      213: 8752900414461696966
+    second: spr_WamyWaterSplash_4_7
+  - first:
+      213: -2797902666356603738
+    second: spr_WamyWaterSplash_4_8
+  - first:
+      213: 8173244960381931319
+    second: spr_WamyWaterSplash_4_9
+  - first:
+      213: 1884516169116883382
+    second: spr_WamyWaterSplash_4_10
+  - first:
+      213: 2564207623830925485
+    second: spr_WamyWaterSplash_4_11
+  - first:
+      213: 1601310510984074516
+    second: spr_WamyWaterSplash_4_12
+  - first:
+      213: 2023211075899104383
+    second: spr_WamyWaterSplash_4_13
+  - first:
+      213: 3807233269752768897
+    second: spr_WamyWaterSplash_4_14
+  - first:
+      213: -4969262120791974865
+    second: spr_WamyWaterSplash_4_15
+  - first:
+      213: -7830842531919516851
+    second: spr_WamyWaterSplash_4_16
+  - first:
+      213: 6043441705477500963
+    second: spr_WamyWaterSplash_4_17
+  - first:
+      213: -1491952313373168169
+    second: spr_WamyWaterSplash_4_18
+  - first:
+      213: -4292578056345273739
+    second: spr_WamyWaterSplash_4_19
+  - first:
+      213: 8551811675070274746
+    second: spr_WamyWaterSplash_4_20
+  - first:
+      213: -277353618999132824
+    second: spr_WamyWaterSplash_4_21
+  - first:
+      213: -5720304711877330431
+    second: spr_WamyWaterSplash_4_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c16639911adbc0800000000000000
+      internalID: -3757671589347211503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3167f25ee643c780800000000000000
+      internalID: -8664003268722597570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 93
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e99e1c7397e0d50800000000000000
+      internalID: 6705430175584722584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61e10e1fb8e0990800000000000000
+      internalID: -7417837665269180720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102206d0c426c490800000000000000
+      internalID: -7726447700064722926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fd5c21ce9497240800000000000000
+      internalID: 4789940956961300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0233efe0ffc3b30800000000000000
+      internalID: 4268566986699776201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 77
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbdb565d8c887970800000000000000
+      internalID: 8752900414461696966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a442bf495adb29d0800000000000000
+      internalID: -2797902666356603738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 60
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f01dddcf23d6170800000000000000
+      internalID: 8173244960381931319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 53
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b911b1a875272a10800000000000000
+      internalID: 1884516169116883382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07ac48f35e59320800000000000000
+      internalID: 2564207623830925485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 40
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151e46fc6ff83610800000000000000
+      internalID: 1601310510984074516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1a9c01c3e31c10800000000000000
+      internalID: 2023211075899104383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_14
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a9acbc7206d430800000000000000
+      internalID: 3807233269752768897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 21
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cd36eed62a90bb0800000000000000
+      internalID: -4969262120791974865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 29
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4baae0f432435390800000000000000
+      internalID: -7830842531919516851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32074cb263e9ed350800000000000000
+      internalID: 6043441705477500963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde19396458b4be0800000000000000
+      internalID: -1491952313373168169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a37e43003bd64c0800000000000000
+      internalID: -4292578056345273739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc1a96b8632ea670800000000000000
+      internalID: 8551811675070274746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d336e5a54a62cf0800000000000000
+      internalID: -277353618999132824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_WamyWaterSplash_4_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10afe890c256d90b0800000000000000
+      internalID: -5720304711877330431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spr_WamyWaterSplash_4_0: -3757671589347211503
+      spr_WamyWaterSplash_4_1: -8664003268722597570
+      spr_WamyWaterSplash_4_10: 1884516169116883382
+      spr_WamyWaterSplash_4_11: 2564207623830925485
+      spr_WamyWaterSplash_4_12: 1601310510984074516
+      spr_WamyWaterSplash_4_13: 2023211075899104383
+      spr_WamyWaterSplash_4_14: 3807233269752768897
+      spr_WamyWaterSplash_4_15: -4969262120791974865
+      spr_WamyWaterSplash_4_16: -7830842531919516851
+      spr_WamyWaterSplash_4_17: 6043441705477500963
+      spr_WamyWaterSplash_4_18: -1491952313373168169
+      spr_WamyWaterSplash_4_19: -4292578056345273739
+      spr_WamyWaterSplash_4_2: 6705430175584722584
+      spr_WamyWaterSplash_4_20: 8551811675070274746
+      spr_WamyWaterSplash_4_21: -277353618999132824
+      spr_WamyWaterSplash_4_22: -5720304711877330431
+      spr_WamyWaterSplash_4_3: -7417837665269180720
+      spr_WamyWaterSplash_4_4: -7726447700064722926
+      spr_WamyWaterSplash_4_5: 4789940956961300270
+      spr_WamyWaterSplash_4_6: 4268566986699776201
+      spr_WamyWaterSplash_4_7: 8752900414461696966
+      spr_WamyWaterSplash_4_8: -2797902666356603738
+      spr_WamyWaterSplash_4_9: 8173244960381931319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

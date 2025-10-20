@@ -29,16 +29,19 @@ public class EnemyHealth : MonoBehaviour, IDamagable
         health = Mathf.Clamp(health, 0, maxHealth);
 
         SpawnDamageParticles(attackDirection);
+        _damageFlash.CallDamageFlash();
         // to do and sound effect
 
+        if(enemy != null && health > 0)
+        {
+            enemy.OnDamagedByPlayer(attackDirection);
+        }
 
         if (health <= 0)
         {
             enemy.Die();
         }
 
-         //damage flash effect
-         _damageFlash.CallDamageFlash();
     }
 
     private void SpawnDamageParticles(Vector2 attackDirection)
