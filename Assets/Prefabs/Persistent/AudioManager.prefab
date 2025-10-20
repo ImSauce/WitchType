@@ -2217,11 +2217,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
   musicSounds:
+  - name: Main Menu
+    clip: {fileID: 8300000, guid: f0366e15b7d4b344993bbf0b38f48c9a, type: 3}
+  - name: Soundtrack1
+    clip: {fileID: 8300000, guid: 301066be1a757e44a8554476ff29112f, type: 3}
   - name: Theme
     clip: {fileID: 8300000, guid: 6e59f866f2ffa244c89100bfd92b25ba, type: 3}
   sfxSounds:
   - name: Switch
     clip: {fileID: 8300000, guid: 6c04d18fef685fe47a35b98c6457d014, type: 3}
+  - name: BookCollect
+    clip: {fileID: 8300000, guid: 4ce5349cd1ab04f44a2b85dfa3a0a80e, type: 3}
+  - name: Click
+    clip: {fileID: 8300000, guid: b7e5c0a53bc7791409a79ef9db1e84fc, type: 3}
   musicSource: {fileID: 2925837278514588178}
   sfxSource: {fileID: 6697791980549151468}
 --- !u!1 &7587400181360991376

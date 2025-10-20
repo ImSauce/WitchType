@@ -11,6 +11,8 @@ public class SpellBookUI : MonoBehaviour
     [SerializeField] private GameObject[] spellSlots;
     private bool initialized = false;
 
+    private AudioManager audioManager;
+
 
     private void Awake()
     {
@@ -36,6 +38,8 @@ public class SpellBookUI : MonoBehaviour
 
     private IEnumerator Start()
     {
+        audioManager = UnityEngine.Object.FindFirstObjectByType<AudioManager>();
+
         spellBookPanel.SetActive(false);
         yield return new WaitUntil(() => SpellManager.Instance != null);
 
@@ -53,11 +57,13 @@ public class SpellBookUI : MonoBehaviour
     {
         spellBookPanel.SetActive(true);
         UpdateCounter();
+        audioManager.PlaySFX("Click");
     }
 
     public void CloseSpellBook()
     {
         spellBookPanel.SetActive(false);
+        audioManager.PlaySFX("Click");
     }
 
     public void UpdateCounter()

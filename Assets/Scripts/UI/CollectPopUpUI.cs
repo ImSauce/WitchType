@@ -11,10 +11,17 @@ public class CollectPopUpUI : MonoBehaviour
     public float popupDuration = 1f;
     public string triggerTag = "Spell";
 
+    private AudioManager audioManager;
+
     private void Awake()
     {
         if (instance == null) instance = this;
         else Destroy(gameObject);
+    }
+
+    void Start()
+    {
+        audioManager = UnityEngine.Object.FindFirstObjectByType<AudioManager>();
     }
 
     public void ShowCollectPopup()
@@ -24,6 +31,7 @@ public class CollectPopUpUI : MonoBehaviour
             Debug.LogWarning("CollectPopUpUI: Missing prefab or popupParent reference!");
             return;
         }
+        audioManager.PlaySFX("BookCollect");
 
         GameObject popupInstance = Instantiate(collectPopupPrefab, popupParent);
         Animator popupAnimator = popupInstance.GetComponent<Animator>();

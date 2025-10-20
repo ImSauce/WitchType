@@ -7,6 +7,12 @@ public class Heal : MonoBehaviour
 
     private Animator anim;
 
+
+    [Header("SFX")]
+    public AudioSource sfxSource;        
+    public AudioClip HealSound;       
+
+
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -24,6 +30,10 @@ public class Heal : MonoBehaviour
         if (anim != null)
         {
             anim.Play("HealEffect");
+
+            if (sfxSource != null && HealSound != null)
+                sfxSource.PlayOneShot(HealSound);
+            
         }
 
         Destroy(gameObject, destroyDelay);

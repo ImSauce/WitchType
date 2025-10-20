@@ -5,13 +5,14 @@ public class Switch : MonoBehaviour
     public Spike[] controlledSpikes;
     public bool isOn = false;
     public Animator animator;
-    public AudioSource audioSource;
-    public AudioClip switchSound;
-
     private bool playerInRange;
+    private AudioManager audioManager;
+
 
     private void Start()
     {
+
+        audioManager = UnityEngine.Object.FindFirstObjectByType<AudioManager>();
         if (animator != null)
             animator.SetBool("IsOn", isOn);
     }
@@ -22,6 +23,7 @@ public class Switch : MonoBehaviour
         if (playerInRange && Input.GetKeyDown(KeyCode.E))
         {
             ToggleSwitch();
+            audioManager.PlaySFX("Switch");
         }
     }
 
@@ -31,9 +33,6 @@ public class Switch : MonoBehaviour
 
         if (animator != null)
             animator.SetBool("IsOn", isOn);
-
-        if (audioSource != null && switchSound != null)
-            audioSource.PlayOneShot(switchSound);
 
         foreach (var spike in controlledSpikes)
         {
