@@ -12,6 +12,9 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text actorName;
     public TMP_Text dialogueText;
     public Button[] choiceButtons;
+    public Button nextButton;
+
+    private PlayerMovement player;
 
     private DialogueSO currentDialogue;
     private int dialogueIndex;
@@ -27,6 +30,8 @@ public class DialogueManager : MonoBehaviour
             Destroy(gameObject);
         }
 
+        player = Object.FindAnyObjectByType<PlayerMovement>();
+
         canvasGroup.alpha = 0;
         canvasGroup.interactable = false;
         canvasGroup.blocksRaycasts = false;
@@ -35,6 +40,12 @@ public class DialogueManager : MonoBehaviour
         {
             button.gameObject.SetActive(false);
         }
+
+        if (nextButton != null)
+        {
+            nextButton.gameObject.SetActive(false);
+            nextButton.onClick.AddListener(AdvanceDialogue);
+        }   
     }
 
     public void StartDialogue(DialogueSO dialogue)
@@ -68,12 +79,26 @@ public class DialogueManager : MonoBehaviour
         canvasGroup.interactable = true;
         canvasGroup.blocksRaycasts = true;
 
+        if (player != null)
+        {
+            player.StopMovement();
+            player.enabled = false;
+        }
+
+
+        if (nextButton != null)
+            nextButton.gameObject.SetActive(true);
+
         dialogueIndex++;
     }
 
     private void ShowChoices()
     {
+        if (nextButton != null)
+            nextButton.gameObject.SetActive(false);
+
         ClearChoices();
+
         if (currentDialogue.options.Length > 0)
         {
             for (int i = 0; i < currentDialogue.options.Length; i++)
@@ -112,9 +137,16 @@ public class DialogueManager : MonoBehaviour
         dialogueIndex = 0;
         ClearChoices();
 
+        if (nextButton != null)
+            nextButton.gameObject.SetActive(false);
+
         canvasGroup.alpha = 0;
         canvasGroup.interactable = false;
         canvasGroup.blocksRaycasts = false;
+
+        if (player != null)
+            player.enabled = true;
+
     }
 
     private void ClearChoices()

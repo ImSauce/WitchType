@@ -31,7 +31,9 @@ public class NPC_Talk : MonoBehaviour
     private void Update()
     {
         if(Input.GetButtonDown("Interact"))
-        {
+        {   
+
+            Debug.Log("Interacting with NPC");
             if (DialogueManager.Instance.isDialogueActive)
             {
                 DialogueManager.Instance.AdvanceDialogue();

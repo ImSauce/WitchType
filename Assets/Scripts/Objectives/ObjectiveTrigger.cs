@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ObjectiveTrigger : MonoBehaviour
 {
-    public ObjectiveData objectiveToComplete;
+    public ObjectiveOS objectiveToComplete;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
