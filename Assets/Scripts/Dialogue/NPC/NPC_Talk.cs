@@ -36,14 +36,15 @@ public class NPC_Talk : MonoBehaviour
     {
         if(Input.GetButtonDown("Interact"))
         {
-            if (DialogueManager.Instance.isDialogueActive)
+            if (GameManager.Instance.DialogueManager.isDialogueActive)
             {
-                DialogueManager.Instance.AdvanceDialogue();
+                GameManager.Instance.DialogueManager.AdvanceDialogue();
             }
             else
             {
-                CheckForNewConversation();  
-                DialogueManager.Instance.StartDialogue(currentConversation);   
+                if(GameManager.Instance.DialogueManager.CanStartDialogue())
+                CheckForNewConversation();
+                GameManager.Instance.DialogueManager.StartDialogue(currentConversation);   
             }
         }
     }
@@ -55,8 +56,22 @@ public class NPC_Talk : MonoBehaviour
             var convo = conversations[i];
             if(convo !=null && convo.IsConditionMet())
             {
-                conversations.RemoveAt(i);
-                currentConversation = convo;     
+                currentConversation = convo;
+
+                // remove if its one time only
+                if(convo.removeAfterPlay)
+                    conversations.RemoveAt(i);
+
+                //remove any other dialogues that should be cleared when this one is played like quest complete
+                if(convo.removeTheseOnPlay != null && convo.removeTheseOnPlay.Count > 0)
+                {
+                    foreach (var toRemove in convo.removeTheseOnPlay)
+                    {
+                        conversations.Remove(toRemove);
+                    }
+                }
+             
+                break;
             }
         }
     }

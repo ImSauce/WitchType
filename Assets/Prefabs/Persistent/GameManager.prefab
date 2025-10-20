@@ -94,7 +94,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb44b87acf867544b8df319b731adc58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  DialogueManager: {fileID: 0}
+  DialogueHistoryTracker: {fileID: 0}
+  LocationHistoryTracker: {fileID: 0}
   persistentObjects:
+  - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}

@@ -1,4 +1,6 @@
 using UnityEngine;
+using System.Collections.Generic;
+
 [CreateAssetMenu(fileName = "New Dialogue", menuName = "Dialogue/DialogueNode")]
 public class DialogueSO : ScriptableObject
 {
@@ -9,13 +11,17 @@ public class DialogueSO : ScriptableObject
     public ActorSO[] requiredNPCS;
     public LocationSO[] requiredLocations;
 
+    [Header("Control Flags")]
+    public bool removeAfterPlay;
+    public List<DialogueSO> removeTheseOnPlay;
+
     public bool IsConditionMet()
     {
         if(requiredNPCS.Length > 0)
         {
             foreach (var npc in requiredNPCS)
             {
-                if(!DialogueHistoryTracker.Instance.HasSpokenTo(npc))
+                if(!GameManager.Instance.DialogueHistoryTracker.HasSpokenTo(npc))
                 {
                     return false;
                 }
@@ -26,7 +32,7 @@ public class DialogueSO : ScriptableObject
         {
             foreach (var location in requiredLocations)
             {
-                if(!LocationHistoryTracker.Instance.HasVisited(location))
+                if(!GameManager.Instance.LocationHistoryTracker.HasVisited(location))
                 {
                     return false;
                 }

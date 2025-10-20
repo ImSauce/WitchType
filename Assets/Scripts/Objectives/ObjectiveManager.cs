@@ -48,9 +48,9 @@ public class ObjectiveManager : MonoBehaviour
 
         ShowObjective();
 
-        if (obj.dialogueSO != null && DialogueManager.Instance != null)
+        if (obj.dialogueSO != null && GameManager.Instance.DialogueManager != null)
         {
-            DialogueManager.Instance.StartDialogue(obj.dialogueSO);
+            GameManager.Instance.DialogueManager.StartDialogue(obj.dialogueSO);
         }
 
         obj.onComplete.AddListener(HandleObjectiveCompleted);

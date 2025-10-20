@@ -1,9 +1,9 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.EventSystems;
 public class DialogueManager : MonoBehaviour
 {
-    public static DialogueManager Instance;
     public bool isDialogueActive;
 
     [Header("UI Elements")]
@@ -19,16 +19,11 @@ public class DialogueManager : MonoBehaviour
     private DialogueSO currentDialogue;
     private int dialogueIndex;
 
+    private float lastDialogueTime;
+    private float dialogueCooldown = .1f;
+
     private void Awake()
     {
-        if (Instance == null)
-        {
-            Instance = this;
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
 
         player = Object.FindAnyObjectByType<PlayerMovement>();
 
@@ -50,6 +45,10 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(DialogueSO dialogue)
     {
+        if(Time.unscaledTime - lastDialogueTime < dialogueCooldown)
+        {
+            return;
+        }
         currentDialogue = dialogue;
         dialogueIndex = 0;
         isDialogueActive = true;
@@ -67,11 +66,16 @@ public class DialogueManager : MonoBehaviour
 
     }
 
+    public bool CanStartDialogue()
+    {
+        return Time.unscaledTime - lastDialogueTime >= dialogueCooldown;
+    }
+
     private void ShowDialogue()
     {
         DialogueLine line = currentDialogue.lines[dialogueIndex];
 
-        DialogueHistoryTracker.Instance.RecordNPC(line.speaker);
+        GameManager.Instance.DialogueHistoryTracker.RecordNPC(line.speaker);
         potrait.sprite = line.speaker.portrait;
         actorName.text = line.speaker.actorName;
 
@@ -118,6 +122,7 @@ public class DialogueManager : MonoBehaviour
             choiceButtons[0].onClick.AddListener(EndDialogue);
             choiceButtons[0].gameObject.SetActive(true);
         }
+        EventSystem.current.SetSelectedGameObject(choiceButtons[0].gameObject);
     }
 
     private void ChooseOption(DialogueSO dialogue)
@@ -149,6 +154,7 @@ public class DialogueManager : MonoBehaviour
         if (player != null)
             player.enabled = true;
 
+        lastDialogueTime = Time.unscaledTime;
     }
 
     private void ClearChoices()
