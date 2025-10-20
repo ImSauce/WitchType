@@ -42,6 +42,9 @@ public class ObjectiveManager : MonoBehaviour
         var obj = currentObjectiveList.objectives[index];
         obj.StartObjective();
 
+        if (DialogueManager.Instance != null)
+            DialogueManager.Instance.StartDialogue(obj.dialogueSO);
+
         if (objectiveText != null)
             objectiveText.text = obj.description;
 

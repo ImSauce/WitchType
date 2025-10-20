@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class ObjectiveCounter : MonoBehaviour
 {
-    public ObjectiveData objectiveToComplete;
-    public int targetCount = 3;
+    public ObjectiveOS objectiveToComplete;
+    public int targetCount;
     private int current = 0;
 
     public void RegisterKill()

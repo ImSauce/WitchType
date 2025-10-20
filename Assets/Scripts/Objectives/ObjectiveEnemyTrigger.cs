@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ObjectiveEnemyTrigger : MonoBehaviour
 {
-    public ObjectiveData objectiveToComplete;
+    public ObjectiveOS objectiveToComplete;
 
     private void OnDestroy()
     {

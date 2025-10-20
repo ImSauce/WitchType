@@ -32,6 +32,7 @@ public class NPC_Talk : MonoBehaviour
     {
         if(Input.GetButtonDown("Interact"))
         {   
+
             Debug.Log("Interacting with NPC");
             if (DialogueManager.Instance.isDialogueActive)
             {
