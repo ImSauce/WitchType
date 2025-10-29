@@ -1,0 +1,5278 @@
+fileFormatVersion: 2
+guid: d9d8e39fbf933cf45a4b4656d64053de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5952276839338105308
+    second: Numbers_levels_0
+  - first:
+      213: -2604994980349455766
+    second: Numbers_levels_1
+  - first:
+      213: 1551419496885174343
+    second: Numbers_levels_2
+  - first:
+      213: -7511081856343599110
+    second: Numbers_levels_3
+  - first:
+      213: -4872072295500065459
+    second: Numbers_levels_4
+  - first:
+      213: 9076751719895073327
+    second: Numbers_levels_5
+  - first:
+      213: -9182767569716936686
+    second: Numbers_levels_6
+  - first:
+      213: 957680434176509472
+    second: Numbers_levels_7
+  - first:
+      213: -1473202169248713152
+    second: Numbers_levels_8
+  - first:
+      213: -3536004899710399219
+    second: Numbers_levels_9
+  - first:
+      213: -6009367993414957903
+    second: Numbers_levels_10
+  - first:
+      213: -6730239985640884247
+    second: Numbers_levels_11
+  - first:
+      213: 3208375019725553384
+    second: Numbers_levels_12
+  - first:
+      213: -4384904474500820116
+    second: Numbers_levels_13
+  - first:
+      213: 147563265834889811
+    second: Numbers_levels_14
+  - first:
+      213: -6389524336867125281
+    second: Numbers_levels_15
+  - first:
+      213: 3998673611942023739
+    second: Numbers_levels_16
+  - first:
+      213: -7385953687610165545
+    second: Numbers_levels_17
+  - first:
+      213: -5310125702801419288
+    second: Numbers_levels_18
+  - first:
+      213: 2828432040930071650
+    second: Numbers_levels_19
+  - first:
+      213: -6384061150477462426
+    second: Numbers_levels_20
+  - first:
+      213: -3204912372659667332
+    second: Numbers_levels_21
+  - first:
+      213: -7782020270208667408
+    second: Numbers_levels_22
+  - first:
+      213: -4204669231082122280
+    second: Numbers_levels_23
+  - first:
+      213: 2202972423428531825
+    second: Numbers_levels_24
+  - first:
+      213: -8440254087027013232
+    second: Numbers_levels_25
+  - first:
+      213: -4023721268647268384
+    second: Numbers_levels_26
+  - first:
+      213: 7549964476206478278
+    second: Numbers_levels_27
+  - first:
+      213: 8844306109965358729
+    second: Numbers_levels_28
+  - first:
+      213: 1381331015565936520
+    second: Numbers_levels_29
+  - first:
+      213: -5994616357987998476
+    second: Numbers_levels_30
+  - first:
+      213: -954205950301279755
+    second: Numbers_levels_31
+  - first:
+      213: -8422737467325398175
+    second: Numbers_levels_32
+  - first:
+      213: 8068021970639016558
+    second: Numbers_levels_33
+  - first:
+      213: 8371187954442273368
+    second: Numbers_levels_34
+  - first:
+      213: -4597577210954703297
+    second: Numbers_levels_35
+  - first:
+      213: 4233394934686972863
+    second: Numbers_levels_36
+  - first:
+      213: 9076571721762609503
+    second: Numbers_levels_37
+  - first:
+      213: 905351502754649221
+    second: Numbers_levels_38
+  - first:
+      213: 5378072594990447079
+    second: Numbers_levels_39
+  - first:
+      213: 756376882650632254
+    second: Numbers_levels_40
+  - first:
+      213: 4096205576787220546
+    second: Numbers_levels_41
+  - first:
+      213: -5985519398828906435
+    second: Numbers_levels_42
+  - first:
+      213: 92786852589139325
+    second: Numbers_levels_43
+  - first:
+      213: -5581807818508548570
+    second: Numbers_levels_44
+  - first:
+      213: -2403791535140078901
+    second: Numbers_levels_45
+  - first:
+      213: -3165561915795053148
+    second: Numbers_levels_46
+  - first:
+      213: -4084755544620535742
+    second: Numbers_levels_47
+  - first:
+      213: 2317029787222042343
+    second: Numbers_levels_48
+  - first:
+      213: -8557858174020517272
+    second: Numbers_levels_49
+  - first:
+      213: 6486838936923130613
+    second: Numbers_levels_50
+  - first:
+      213: -2021863843226048089
+    second: Numbers_levels_51
+  - first:
+      213: 3949102893074479545
+    second: Numbers_levels_52
+  - first:
+      213: -5884654510948377377
+    second: Numbers_levels_53
+  - first:
+      213: -313773063314981859
+    second: Numbers_levels_54
+  - first:
+      213: 1502934023653539134
+    second: Numbers_levels_55
+  - first:
+      213: 3941010939941720782
+    second: Numbers_levels_56
+  - first:
+      213: -723773558267144435
+    second: Numbers_levels_57
+  - first:
+      213: 4567316390224649257
+    second: Numbers_levels_58
+  - first:
+      213: -799409284159133166
+    second: Numbers_levels_59
+  - first:
+      213: -8353052141184273829
+    second: Numbers_levels_60
+  - first:
+      213: 8072389455415914877
+    second: Numbers_levels_61
+  - first:
+      213: -4566350343655830156
+    second: Numbers_levels_62
+  - first:
+      213: 3357757913167094679
+    second: Numbers_levels_63
+  - first:
+      213: 4564942236826506079
+    second: Numbers_levels_64
+  - first:
+      213: 1378922479310401962
+    second: Numbers_levels_65
+  - first:
+      213: 1535749522670991906
+    second: Numbers_levels_66
+  - first:
+      213: 8564389095830248322
+    second: Numbers_levels_67
+  - first:
+      213: -7527216734835344104
+    second: Numbers_levels_68
+  - first:
+      213: -5654303736346833683
+    second: Numbers_levels_69
+  - first:
+      213: -6394514833671746954
+    second: Numbers_levels_70
+  - first:
+      213: 5361964890536997070
+    second: Numbers_levels_71
+  - first:
+      213: 6862925841983655292
+    second: Numbers_levels_72
+  - first:
+      213: 2054190954631841419
+    second: Numbers_levels_73
+  - first:
+      213: 2239846735478668685
+    second: Numbers_levels_74
+  - first:
+      213: -6672142716158943436
+    second: Numbers_levels_75
+  - first:
+      213: -5342156801625289323
+    second: Numbers_levels_76
+  - first:
+      213: 7655953885616637371
+    second: Numbers_levels_77
+  - first:
+      213: 2969523274499055955
+    second: Numbers_levels_78
+  - first:
+      213: -2474233897127386159
+    second: Numbers_levels_79
+  - first:
+      213: 2947121289195814797
+    second: Numbers_levels_80
+  - first:
+      213: -4788519664476721312
+    second: Numbers_levels_81
+  - first:
+      213: -5645268377744677943
+    second: Numbers_levels_82
+  - first:
+      213: -1724134289310027956
+    second: Numbers_levels_83
+  - first:
+      213: 5204020618131706870
+    second: Numbers_levels_84
+  - first:
+      213: 8960594240399098690
+    second: Numbers_levels_85
+  - first:
+      213: 2295387793709942391
+    second: Numbers_levels_86
+  - first:
+      213: 7642085069803617978
+    second: Numbers_levels_87
+  - first:
+      213: -4282569202604283056
+    second: Numbers_levels_88
+  - first:
+      213: 9098440782557908673
+    second: Numbers_levels_89
+  - first:
+      213: 6644368598175332422
+    second: Numbers_levels_90
+  - first:
+      213: 2954469478144087694
+    second: Numbers_levels_91
+  - first:
+      213: -8599676662644578102
+    second: Numbers_levels_92
+  - first:
+      213: -6490050181730247775
+    second: Numbers_levels_93
+  - first:
+      213: -4412185859724980225
+    second: Numbers_levels_94
+  - first:
+      213: 7911436345849990817
+    second: Numbers_levels_95
+  - first:
+      213: 4369637673257609296
+    second: Numbers_levels_96
+  - first:
+      213: -5893510788112901743
+    second: Numbers_levels_97
+  - first:
+      213: 3191681583792055347
+    second: Numbers_levels_98
+  - first:
+      213: -1732425666949047769
+    second: Numbers_levels_99
+  - first:
+      213: -869955985348157240
+    second: Numbers_levels_100
+  - first:
+      213: 6729386502439914951
+    second: Numbers_levels_101
+  - first:
+      213: -5764150255575036858
+    second: Numbers_levels_102
+  - first:
+      213: -7168032638514970168
+    second: Numbers_levels_103
+  - first:
+      213: -826646063748768836
+    second: Numbers_levels_104
+  - first:
+      213: -5927818946092577527
+    second: Numbers_levels_105
+  - first:
+      213: 4781717483252315364
+    second: Numbers_levels_106
+  - first:
+      213: 2546300264284218908
+    second: Numbers_levels_107
+  - first:
+      213: 6257591099587588672
+    second: Numbers_levels_108
+  - first:
+      213: -6942017840598447189
+    second: Numbers_levels_109
+  - first:
+      213: 1089901116584671353
+    second: Numbers_levels_110
+  - first:
+      213: 6339440285975754053
+    second: Numbers_levels_111
+  - first:
+      213: -7777671608972023841
+    second: Numbers_levels_112
+  - first:
+      213: 9215650235742186471
+    second: Numbers_levels_113
+  - first:
+      213: -430679560728938179
+    second: Numbers_levels_114
+  - first:
+      213: -2742664679720166898
+    second: Numbers_levels_115
+  - first:
+      213: -4523380118787198871
+    second: Numbers_levels_116
+  - first:
+      213: 2498055393059317541
+    second: Numbers_levels_117
+  - first:
+      213: 6237321729549473437
+    second: Numbers_levels_118
+  - first:
+      213: -3066110857632194008
+    second: Numbers_levels_119
+  - first:
+      213: -2331889962321815040
+    second: Numbers_levels_120
+  - first:
+      213: 4843671907741332475
+    second: Numbers_levels_121
+  - first:
+      213: -865397467758269574
+    second: Numbers_levels_122
+  - first:
+      213: 6612361818340513295
+    second: Numbers_levels_123
+  - first:
+      213: -6971244109809921153
+    second: Numbers_levels_124
+  - first:
+      213: -7867031179292506300
+    second: Numbers_levels_125
+  - first:
+      213: -6635362034060697565
+    second: Numbers_levels_126
+  - first:
+      213: 8365355638841739478
+    second: Numbers_levels_127
+  - first:
+      213: -8126084614499304411
+    second: Numbers_levels_128
+  - first:
+      213: 4507131803791897482
+    second: Numbers_levels_129
+  - first:
+      213: -3346514328360418940
+    second: Numbers_levels_130
+  - first:
+      213: -2040787593430549482
+    second: Numbers_levels_131
+  - first:
+      213: -4326317037766159636
+    second: Numbers_levels_132
+  - first:
+      213: 1646238416677266929
+    second: Numbers_levels_133
+  - first:
+      213: 1513722408096510129
+    second: Numbers_levels_134
+  - first:
+      213: 4736535410950292080
+    second: Numbers_levels_135
+  - first:
+      213: 416101538870622893
+    second: Numbers_levels_136
+  - first:
+      213: 3073535651956149267
+    second: Numbers_levels_137
+  - first:
+      213: -750543542474667358
+    second: Numbers_levels_138
+  - first:
+      213: 4016870021590654182
+    second: Numbers_levels_139
+  - first:
+      213: 7415824774303676411
+    second: Numbers_levels_140
+  - first:
+      213: 8038341217609345307
+    second: Numbers_levels_141
+  - first:
+      213: 6510576766406144775
+    second: Numbers_levels_142
+  - first:
+      213: 1272939789419885822
+    second: Numbers_levels_143
+  - first:
+      213: -7654852387767957037
+    second: Numbers_levels_144
+  - first:
+      213: 2260817800896746103
+    second: Numbers_levels_145
+  - first:
+      213: -1907061174151985666
+    second: Numbers_levels_146
+  - first:
+      213: -5589044804585729588
+    second: Numbers_levels_147
+  - first:
+      213: -5774675167901550317
+    second: Numbers_levels_148
+  - first:
+      213: 3785892986860165246
+    second: Numbers_levels_149
+  - first:
+      213: 3831001609048868455
+    second: Numbers_levels_150
+  - first:
+      213: -1195204045495906813
+    second: Numbers_levels_151
+  - first:
+      213: -9137456715609786037
+    second: Numbers_levels_152
+  - first:
+      213: -6335864281020554425
+    second: Numbers_levels_153
+  - first:
+      213: -2982511538971320984
+    second: Numbers_levels_154
+  - first:
+      213: 1752577554934285260
+    second: Numbers_levels_155
+  - first:
+      213: 3529732758988514991
+    second: Numbers_levels_156
+  - first:
+      213: -4609486527834589779
+    second: Numbers_levels_157
+  - first:
+      213: -5366019949163912887
+    second: Numbers_levels_158
+  - first:
+      213: -8376638333040567074
+    second: Numbers_levels_159
+  - first:
+      213: 7601579210671208592
+    second: Numbers_levels_160
+  - first:
+      213: -4972284175764165659
+    second: Numbers_levels_161
+  - first:
+      213: 134162810861160660
+    second: Numbers_levels_162
+  - first:
+      213: -2305160351696782039
+    second: Numbers_levels_163
+  - first:
+      213: 8949876380171974100
+    second: Numbers_levels_164
+  - first:
+      213: -7974119343381738280
+    second: Numbers_levels_165
+  - first:
+      213: 1803487733882523084
+    second: Numbers_levels_166
+  - first:
+      213: -3288719556859920541
+    second: Numbers_levels_167
+  - first:
+      213: -4152390814394255770
+    second: Numbers_levels_168
+  - first:
+      213: 3330825054675317996
+    second: Numbers_levels_169
+  - first:
+      213: -7165446104000056928
+    second: Numbers_levels_170
+  - first:
+      213: -2227150862043829150
+    second: Numbers_levels_171
+  - first:
+      213: 225638481226919830
+    second: Numbers_levels_172
+  - first:
+      213: 7961090564151864994
+    second: Numbers_levels_173
+  - first:
+      213: -95445695731410425
+    second: Numbers_levels_174
+  - first:
+      213: 2471630551359402368
+    second: Numbers_levels_175
+  - first:
+      213: 7516381904022064715
+    second: Numbers_levels_176
+  - first:
+      213: 9052931148793106808
+    second: Numbers_levels_177
+  - first:
+      213: 696738693297208775
+    second: Numbers_levels_178
+  - first:
+      213: 1688901399813388914
+    second: Numbers_levels_179
+  - first:
+      213: 4781570112576730513
+    second: Numbers_levels_180
+  - first:
+      213: -1984226411285445137
+    second: Numbers_levels_181
+  - first:
+      213: -8998165447035558946
+    second: Numbers_levels_182
+  - first:
+      213: -7122559593020110278
+    second: Numbers_levels_183
+  - first:
+      213: -6965360626851539576
+    second: Numbers_levels_184
+  - first:
+      213: 4498903125335637819
+    second: Numbers_levels_185
+  - first:
+      213: 4128815893999663585
+    second: Numbers_levels_186
+  - first:
+      213: -495882011528730744
+    second: Numbers_levels_187
+  - first:
+      213: 7595647737031940908
+    second: Numbers_levels_188
+  - first:
+      213: -8371369133023971739
+    second: Numbers_levels_189
+  - first:
+      213: 6731167851445822332
+    second: Numbers_levels_190
+  - first:
+      213: -3368251754060132458
+    second: Numbers_levels_191
+  - first:
+      213: -6863956401072510953
+    second: Numbers_levels_192
+  - first:
+      213: -1521901733431341450
+    second: Numbers_levels_193
+  - first:
+      213: -2127991621962173290
+    second: Numbers_levels_194
+  - first:
+      213: -8710429913483054859
+    second: Numbers_levels_195
+  - first:
+      213: 2285489062512746742
+    second: Numbers_levels_196
+  - first:
+      213: -61074432837336743
+    second: Numbers_levels_197
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Numbers_levels_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95885bf3cba9250800000000000000
+      internalID: 5952276839338105308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6258920ed239dbd0800000000000000
+      internalID: -2604994980349455766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c47900dfb78510800000000000000
+      internalID: 1551419496885174343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af712c9d8d643c790800000000000000
+      internalID: -7511081856343599110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4552b28f0ce26cb0800000000000000
+      internalID: -4872072295500065459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2203ca399917fd70800000000000000
+      internalID: 9076751719895073327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108b083c81409080800000000000000
+      internalID: -9182767569716936686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ce67e74d5a4d00800000000000000
+      internalID: 957680434176509472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 319
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467893be622e8be0800000000000000
+      internalID: -1473202169248713152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d88bc37469deec0800000000000000
+      internalID: -3536004899710399219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 303
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b446e326af6a9ca0800000000000000
+      internalID: -6009367993414957903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7beb234626992a0800000000000000
+      internalID: -6730239985640884247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee7afce410768c20800000000000000
+      internalID: 3208375019725553384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c639b57dc90b523c0800000000000000
+      internalID: -4384904474500820116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3523cf922004c0200800000000000000
+      internalID: 147563265834889811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd752510879d357a0800000000000000
+      internalID: -6389524336867125281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325884d6742e7730800000000000000
+      internalID: 3998673611942023739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6728ae042df7990800000000000000
+      internalID: -7385953687610165545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e399dbbec4ae46b0800000000000000
+      internalID: -5310125702801419288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26458fe94fb904720800000000000000
+      internalID: 2828432040930071650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 287
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6645b6535324767a0800000000000000
+      internalID: -6384061150477462426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ebd5b6d2dd583d0800000000000000
+      internalID: -3204912372659667332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b25f8bc5b00490800000000000000
+      internalID: -7782020270208667408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d5539c9306a5c0800000000000000
+      internalID: -4204669231082122280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176607c4fb7829e10800000000000000
+      internalID: 2202972423428531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09947b050a13eda80800000000000000
+      internalID: -8440254087027013232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef681323ded828c0800000000000000
+      internalID: -4023721268647268384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3fa1f80bcd6c860800000000000000
+      internalID: 7549964476206478278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9865d414c894dba70800000000000000
+      internalID: 8844306109965358729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88789047d397b2310800000000000000
+      internalID: 1381331015565936520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 271
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f42169ee28decca0800000000000000
+      internalID: -5994616357987998476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f96ab96ebaf1c2f0800000000000000
+      internalID: -954205950301279755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16342b726ec6c1b80800000000000000
+      internalID: -8422737467325398175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e625cff6c3f57ff60800000000000000
+      internalID: 8068021970639016558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8528f84971f6c2470800000000000000
+      internalID: 8371187954442273368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e1d99b2ef1230c0800000000000000
+      internalID: -4597577210954703297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb74fb734a00ca30800000000000000
+      internalID: 4233394934686972863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59140624e576fd70800000000000000
+      internalID: 9076571721762609503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 271
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5849e8e1564709c00800000000000000
+      internalID: 905351502754649221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93ba8e780c2aa40800000000000000
+      internalID: 5378072594990447079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3055be64c03f7a00800000000000000
+      internalID: 756376882650632254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248506bf445a8d830800000000000000
+      internalID: 4096205576787220546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38e794c1d92feca0800000000000000
+      internalID: -5985519398828906435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f66c9625a94100800000000000000
+      internalID: 92786852589139325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cc4ddc5f6982b0800000000000000
+      internalID: -5581807818508548570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca72e9a55404aed0800000000000000
+      internalID: -2403791535140078901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5e78e953aa114d0800000000000000
+      internalID: -3165561915795053148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f59069780057c0800000000000000
+      internalID: -4084755544620535742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 255
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e66e59b05eb72020800000000000000
+      internalID: 2317029787222042343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862855b05516c3980800000000000000
+      internalID: -8557858174020517272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 239
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fac976f4a1e50a50800000000000000
+      internalID: 6486838936923130613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a92e400c85e0f3e0800000000000000
+      internalID: -2021863843226048089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9fb2378280ec630800000000000000
+      internalID: 3949102893074479545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc950986e1855ea0800000000000000
+      internalID: -5884654510948377377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c3605bf0145abf0800000000000000
+      internalID: -313773063314981859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db7b8188e7bd410800000000000000
+      internalID: 1502934023653539134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2972bc19841b630800000000000000
+      internalID: 3941010939941720782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079aa198c3a4f5f0800000000000000
+      internalID: -723773558267144435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd828ee0e526f30800000000000000
+      internalID: 4567316390224649257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aab83dd7de7e4f0800000000000000
+      internalID: -799409284159133166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 223
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52356e755ff31c80800000000000000
+      internalID: -8353052141184273829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71bcaab073e60070800000000000000
+      internalID: 8072389455415914877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_62
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d49665e8011a0c0800000000000000
+      internalID: -4566350343655830156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793e4182807299e20800000000000000
+      internalID: 3357757913167094679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53983e37cee95f30800000000000000
+      internalID: 4564942236826506079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1f81860bae22310800000000000000
+      internalID: 1378922479310401962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_66
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab7cadd04105510800000000000000
+      internalID: 1535749522670991906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_67
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bd03fa182dad670800000000000000
+      internalID: 8564389095830248322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_68
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 223
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d73c4b244f98790800000000000000
+      internalID: -7527216734835344104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec02e6a5b0e781b0800000000000000
+      internalID: -5654303736346833683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a870c63ae1247a0800000000000000
+      internalID: -6394514833671746954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f296b8a6896a40800000000000000
+      internalID: 5361964890536997070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_72
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dc84321b20e3f50800000000000000
+      internalID: 6862925841983655292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_73
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c6a72ac3f18c10800000000000000
+      internalID: 2054190954631841419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d368b1db8851f10800000000000000
+      internalID: 2239846735478668685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fd2a8dc89c763a0800000000000000
+      internalID: -6672142716158943436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d00b061b8dcd5b0800000000000000
+      internalID: -5342156801625289323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_77
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb583f8fe796f3a60800000000000000
+      internalID: 7655953885616637371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_78
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 207
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35165c85fadd53920800000000000000
+      internalID: 2969523274499055955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3ed7e2161c9add0800000000000000
+      internalID: -2474233897127386159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 191
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff180b23746e820800000000000000
+      internalID: 2947121289195814797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f64ee5cb2cb8db0800000000000000
+      internalID: -4788519664476721312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c368c2025af7a1b0800000000000000
+      internalID: -5645268377744677943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fea9caff4a218e0800000000000000
+      internalID: -1724134289310027956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f39c8b1e25683840800000000000000
+      internalID: 5204020618131706870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24346638cfc6a5c70800000000000000
+      internalID: 8960594240399098690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_86
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77649d1790bdadf10800000000000000
+      internalID: 2295387793709942391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_87
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abef5f8a1e32e0a60800000000000000
+      internalID: 7642085069803617978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 191
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b6eb010024194c0800000000000000
+      internalID: -4282569202604283056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_89
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce8a46afa7244e70800000000000000
+      internalID: 9098440782557908673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 175
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6483003690a853c50800000000000000
+      internalID: 6644368598175332422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_91
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8613804652600920800000000000000
+      internalID: 2954469478144087694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_92
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac86adb63afc7a880800000000000000
+      internalID: -8599676662644578102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5287deb5bee5a0800000000000000
+      internalID: -6490050181730247775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_94
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff471c5654c4c2c0800000000000000
+      internalID: -4412185859724980225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_95
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec081a0711bcd60800000000000000
+      internalID: 7911436345849990817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_96
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0582fafff4214ac30800000000000000
+      internalID: 4369637673257609296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_97
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1991992d92b063ea0800000000000000
+      internalID: -5893510788112901743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_98
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e41e7d712b4c20800000000000000
+      internalID: 3191681583792055347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_99
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 143
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a9bb1e80035f7e0800000000000000
+      internalID: -1732425666949047769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0291bf3ab4de3f0800000000000000
+      internalID: -869955985348157240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_101
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd4d32ce55936d50800000000000000
+      internalID: 6729386502439914951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c0970e1ef9100b0800000000000000
+      internalID: -5764150255575036858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_103
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c8ea0b48068c90800000000000000
+      internalID: -7168032638514970168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_104
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9747e8c92784f0800000000000000
+      internalID: -826646063748768836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_105
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d425153182cbda0800000000000000
+      internalID: -5927818946092577527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_106
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4778567b21c5240800000000000000
+      internalID: 4781717483252315364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_107
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 143
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e4287996465320800000000000000
+      internalID: 2546300264284218908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042709073fd67d650800000000000000
+      internalID: 6257591099587588672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_109
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab84baed8ff8af90800000000000000
+      internalID: -6942017840598447189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_110
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978b45e7a4b102f00800000000000000
+      internalID: 1089901116584671353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_111
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b2603a573af750800000000000000
+      internalID: 6339440285975754053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_112
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e49721e8201490800000000000000
+      internalID: -7777671608972023841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_113
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb68a3101194ef70800000000000000
+      internalID: 9215650235742186471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39fabaa83be50af0800000000000000
+      internalID: -430679560728938179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_115
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ad44b410910f9d0800000000000000
+      internalID: -2742664679720166898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_116
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960ff937fb9b931c0800000000000000
+      internalID: -4523380118787198871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_117
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 127
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ac8c0520eaa220800000000000000
+      internalID: 2498055393059317541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d961f97f01b6f8650800000000000000
+      internalID: 6237321729549473437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_119
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 111
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8226dd08b6cf275d0800000000000000
+      internalID: -3066110857632194008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a52842f6673afd0800000000000000
+      internalID: -2331889962321815040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_121
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f57defed283340800000000000000
+      internalID: 4843671907741332475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7beeb0969d7df3f0800000000000000
+      internalID: -865397467758269574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_123
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06da8c3a04d3cb50800000000000000
+      internalID: 6612361818340513295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_124
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73de38da6a214f90800000000000000
+      internalID: -6971244109809921153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4470951e2d0b2d290800000000000000
+      internalID: -7867031179292506300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_126
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e2bbb2657ae3a0800000000000000
+      internalID: -6635362034060697565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 111
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d809f8c1a6b71470800000000000000
+      internalID: 8365355638841739478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_128
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7002d8195a3f80800000000000000
+      internalID: -8126084614499304411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 95
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b1e8ee7c8c8e30800000000000000
+      internalID: 4507131803791897482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_130
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481825ee2face81d0800000000000000
+      internalID: -3346514328360418940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_131
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c3c8f0f7aada3e0800000000000000
+      internalID: -2040787593430549482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_132
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25a327395d5f3c0800000000000000
+      internalID: -4326317037766159636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f566a92e1d98d610800000000000000
+      internalID: 1646238416677266929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_134
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b034279282d10510800000000000000
+      internalID: 1513722408096510129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_135
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07240cb6cdd8bb140800000000000000
+      internalID: 4736535410950292080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_136
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa70ee152a46c500800000000000000
+      internalID: 416101538870622893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_137
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 95
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c4853246467aa20800000000000000
+      internalID: 3073535651956149267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa855aef988595f0800000000000000
+      internalID: -750543542474667358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_139
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec93d9900aceb730800000000000000
+      internalID: 4016870021590654182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_140
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf779ec675d4ae660800000000000000
+      internalID: 7415824774303676411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_141
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b196cfa9fbced8f60800000000000000
+      internalID: 8038341217609345307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_142
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703bc8413173a5a50800000000000000
+      internalID: 6510576766406144775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_143
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef435d08ef36aa110800000000000000
+      internalID: 1272939789419885822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94a0b7f4084c590800000000000000
+      internalID: -7654852387767957037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_145
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729454cfc9006f10800000000000000
+      internalID: 2260817800896746103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_146
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef54bb557f1c885e0800000000000000
+      internalID: -1907061174151985666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_147
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1dcecbc59bf62b0800000000000000
+      internalID: -5589044804585729588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_148
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31975f3c78b3cdfa0800000000000000
+      internalID: -5774675167901550317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_149
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78517fec913a8430800000000000000
+      internalID: 3785892986860165246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_150
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ce497aa37a2530800000000000000
+      internalID: 3831001609048868455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_151
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4b1ac048c96fe0800000000000000
+      internalID: -1195204045495906813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_152
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49329b878b313180800000000000000
+      internalID: -9137456715609786037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7432fa8510d7218a0800000000000000
+      internalID: -6335864281020554425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_154
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d5c1dae8dfb96d0800000000000000
+      internalID: -2982511538971320984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_155
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc34e2b2008625810800000000000000
+      internalID: 1752577554934285260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_156
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e1933e312cf030800000000000000
+      internalID: 3529732758988514991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_157
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 63
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5787fcc60d700c0800000000000000
+      internalID: -4609486527834589779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941ec6069411885b0800000000000000
+      internalID: -5366019949163912887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_159
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc523341d330cb80800000000000000
+      internalID: -8376638333040567074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_160
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0983d08640c3e7960800000000000000
+      internalID: 7601579210671208592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_161
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe74de2e5eefab0800000000000000
+      internalID: -4972284175764165659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_162
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8827b9d54acd100800000000000000
+      internalID: 134162810861160660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_163
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d7cc69fdc6200e0800000000000000
+      internalID: -2305160351696782039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_164
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d53fc73629543c70800000000000000
+      internalID: 8949876380171974100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_165
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0925b4bc365190800000000000000
+      internalID: -7974119343381738280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_166
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd87d6e986470910800000000000000
+      internalID: 1803487733882523084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_167
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 47
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ffb77ccfe1c52d0800000000000000
+      internalID: -3288719556859920541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667f6bfd8ebf56c0800000000000000
+      internalID: -4152390814394255770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_169
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b4e06db7793e20800000000000000
+      internalID: 3330825054675317996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_170
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1bed98bb83f8c90800000000000000
+      internalID: -7165446104000056928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_171
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c2ca647129711e0800000000000000
+      internalID: -2227150862043829150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_172
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f6031d001a12300800000000000000
+      internalID: 225638481226919830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_173
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae6cfc30b97b7e60800000000000000
+      internalID: 7961090564151864994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_174
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad69a35a8ecaef0800000000000000
+      internalID: -95445695731410425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_175
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b7c524eefc4220800000000000000
+      internalID: 2471630551359402368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_176
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ec869a48d8f4860800000000000000
+      internalID: 7516381904022064715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_177
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871d1e35ae872ad70800000000000000
+      internalID: 9052931148793106808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_178
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdff3b66205ba900800000000000000
+      internalID: 696738693297208775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_179
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a798cffde207710800000000000000
+      internalID: 1688901399813388914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_180
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195b2ccfeac8b5240800000000000000
+      internalID: 4781570112576730513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_181
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe50261879c9674e0800000000000000
+      internalID: -1984226411285445137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_182
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed360434338102380800000000000000
+      internalID: -8998165447035558946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_183
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a4c7e79c5972d90800000000000000
+      internalID: -7122559593020110278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_184
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8859508f961165f90800000000000000
+      internalID: -6965360626851539576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_185
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f76886e805f6e30800000000000000
+      internalID: 4498903125335637819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_186
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e936d02e208c4930800000000000000
+      internalID: 4128815893999663585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_187
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 15
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887e25410f54e19f0800000000000000
+      internalID: -495882011528730744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_188
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bd9c49f59296960800000000000000
+      internalID: 7595647737031940908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_189
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566bf6e702ce2db80800000000000000
+      internalID: -8371369133023971739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_190
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7325f46f79e96d50800000000000000
+      internalID: 6731167851445822332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_191
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc82d10e09141d0800000000000000
+      internalID: -3368251754060132458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_192
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718ed4025045eb0a0800000000000000
+      internalID: -6863956401072510953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_193
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e06c3df6e11eae0800000000000000
+      internalID: -1521901733431341450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_194
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694ffe7f4ead772e0800000000000000
+      internalID: -2127991621962173290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_195
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0f7edb4265e1780800000000000000
+      internalID: -8710429913483054859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_196
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ec1d7130b7bf10800000000000000
+      internalID: 2285489062512746742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numbers_levels_197
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9514fdd7025072ff0800000000000000
+      internalID: -61074432837336743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Numbers_levels_0: 5952276839338105308
+      Numbers_levels_1: -2604994980349455766
+      Numbers_levels_10: -6009367993414957903
+      Numbers_levels_100: -869955985348157240
+      Numbers_levels_101: 6729386502439914951
+      Numbers_levels_102: -5764150255575036858
+      Numbers_levels_103: -7168032638514970168
+      Numbers_levels_104: -826646063748768836
+      Numbers_levels_105: -5927818946092577527
+      Numbers_levels_106: 4781717483252315364
+      Numbers_levels_107: 2546300264284218908
+      Numbers_levels_108: 6257591099587588672
+      Numbers_levels_109: -6942017840598447189
+      Numbers_levels_11: -6730239985640884247
+      Numbers_levels_110: 1089901116584671353
+      Numbers_levels_111: 6339440285975754053
+      Numbers_levels_112: -7777671608972023841
+      Numbers_levels_113: 9215650235742186471
+      Numbers_levels_114: -430679560728938179
+      Numbers_levels_115: -2742664679720166898
+      Numbers_levels_116: -4523380118787198871
+      Numbers_levels_117: 2498055393059317541
+      Numbers_levels_118: 6237321729549473437
+      Numbers_levels_119: -3066110857632194008
+      Numbers_levels_12: 3208375019725553384
+      Numbers_levels_120: -2331889962321815040
+      Numbers_levels_121: 4843671907741332475
+      Numbers_levels_122: -865397467758269574
+      Numbers_levels_123: 6612361818340513295
+      Numbers_levels_124: -6971244109809921153
+      Numbers_levels_125: -7867031179292506300
+      Numbers_levels_126: -6635362034060697565
+      Numbers_levels_127: 8365355638841739478
+      Numbers_levels_128: -8126084614499304411
+      Numbers_levels_129: 4507131803791897482
+      Numbers_levels_13: -4384904474500820116
+      Numbers_levels_130: -3346514328360418940
+      Numbers_levels_131: -2040787593430549482
+      Numbers_levels_132: -4326317037766159636
+      Numbers_levels_133: 1646238416677266929
+      Numbers_levels_134: 1513722408096510129
+      Numbers_levels_135: 4736535410950292080
+      Numbers_levels_136: 416101538870622893
+      Numbers_levels_137: 3073535651956149267
+      Numbers_levels_138: -750543542474667358
+      Numbers_levels_139: 4016870021590654182
+      Numbers_levels_14: 147563265834889811
+      Numbers_levels_140: 7415824774303676411
+      Numbers_levels_141: 8038341217609345307
+      Numbers_levels_142: 6510576766406144775
+      Numbers_levels_143: 1272939789419885822
+      Numbers_levels_144: -7654852387767957037
+      Numbers_levels_145: 2260817800896746103
+      Numbers_levels_146: -1907061174151985666
+      Numbers_levels_147: -5589044804585729588
+      Numbers_levels_148: -5774675167901550317
+      Numbers_levels_149: 3785892986860165246
+      Numbers_levels_15: -6389524336867125281
+      Numbers_levels_150: 3831001609048868455
+      Numbers_levels_151: -1195204045495906813
+      Numbers_levels_152: -9137456715609786037
+      Numbers_levels_153: -6335864281020554425
+      Numbers_levels_154: -2982511538971320984
+      Numbers_levels_155: 1752577554934285260
+      Numbers_levels_156: 3529732758988514991
+      Numbers_levels_157: -4609486527834589779
+      Numbers_levels_158: -5366019949163912887
+      Numbers_levels_159: -8376638333040567074
+      Numbers_levels_16: 3998673611942023739
+      Numbers_levels_160: 7601579210671208592
+      Numbers_levels_161: -4972284175764165659
+      Numbers_levels_162: 134162810861160660
+      Numbers_levels_163: -2305160351696782039
+      Numbers_levels_164: 8949876380171974100
+      Numbers_levels_165: -7974119343381738280
+      Numbers_levels_166: 1803487733882523084
+      Numbers_levels_167: -3288719556859920541
+      Numbers_levels_168: -4152390814394255770
+      Numbers_levels_169: 3330825054675317996
+      Numbers_levels_17: -7385953687610165545
+      Numbers_levels_170: -7165446104000056928
+      Numbers_levels_171: -2227150862043829150
+      Numbers_levels_172: 225638481226919830
+      Numbers_levels_173: 7961090564151864994
+      Numbers_levels_174: -95445695731410425
+      Numbers_levels_175: 2471630551359402368
+      Numbers_levels_176: 7516381904022064715
+      Numbers_levels_177: 9052931148793106808
+      Numbers_levels_178: 696738693297208775
+      Numbers_levels_179: 1688901399813388914
+      Numbers_levels_18: -5310125702801419288
+      Numbers_levels_180: 4781570112576730513
+      Numbers_levels_181: -1984226411285445137
+      Numbers_levels_182: -8998165447035558946
+      Numbers_levels_183: -7122559593020110278
+      Numbers_levels_184: -6965360626851539576
+      Numbers_levels_185: 4498903125335637819
+      Numbers_levels_186: 4128815893999663585
+      Numbers_levels_187: -495882011528730744
+      Numbers_levels_188: 7595647737031940908
+      Numbers_levels_189: -8371369133023971739
+      Numbers_levels_19: 2828432040930071650
+      Numbers_levels_190: 6731167851445822332
+      Numbers_levels_191: -3368251754060132458
+      Numbers_levels_192: -6863956401072510953
+      Numbers_levels_193: -1521901733431341450
+      Numbers_levels_194: -2127991621962173290
+      Numbers_levels_195: -8710429913483054859
+      Numbers_levels_196: 2285489062512746742
+      Numbers_levels_197: -61074432837336743
+      Numbers_levels_2: 1551419496885174343
+      Numbers_levels_20: -6384061150477462426
+      Numbers_levels_21: -3204912372659667332
+      Numbers_levels_22: -7782020270208667408
+      Numbers_levels_23: -4204669231082122280
+      Numbers_levels_24: 2202972423428531825
+      Numbers_levels_25: -8440254087027013232
+      Numbers_levels_26: -4023721268647268384
+      Numbers_levels_27: 7549964476206478278
+      Numbers_levels_28: 8844306109965358729
+      Numbers_levels_29: 1381331015565936520
+      Numbers_levels_3: -7511081856343599110
+      Numbers_levels_30: -5994616357987998476
+      Numbers_levels_31: -954205950301279755
+      Numbers_levels_32: -8422737467325398175
+      Numbers_levels_33: 8068021970639016558
+      Numbers_levels_34: 8371187954442273368
+      Numbers_levels_35: -4597577210954703297
+      Numbers_levels_36: 4233394934686972863
+      Numbers_levels_37: 9076571721762609503
+      Numbers_levels_38: 905351502754649221
+      Numbers_levels_39: 5378072594990447079
+      Numbers_levels_4: -4872072295500065459
+      Numbers_levels_40: 756376882650632254
+      Numbers_levels_41: 4096205576787220546
+      Numbers_levels_42: -5985519398828906435
+      Numbers_levels_43: 92786852589139325
+      Numbers_levels_44: -5581807818508548570
+      Numbers_levels_45: -2403791535140078901
+      Numbers_levels_46: -3165561915795053148
+      Numbers_levels_47: -4084755544620535742
+      Numbers_levels_48: 2317029787222042343
+      Numbers_levels_49: -8557858174020517272
+      Numbers_levels_5: 9076751719895073327
+      Numbers_levels_50: 6486838936923130613
+      Numbers_levels_51: -2021863843226048089
+      Numbers_levels_52: 3949102893074479545
+      Numbers_levels_53: -5884654510948377377
+      Numbers_levels_54: -313773063314981859
+      Numbers_levels_55: 1502934023653539134
+      Numbers_levels_56: 3941010939941720782
+      Numbers_levels_57: -723773558267144435
+      Numbers_levels_58: 4567316390224649257
+      Numbers_levels_59: -799409284159133166
+      Numbers_levels_6: -9182767569716936686
+      Numbers_levels_60: -8353052141184273829
+      Numbers_levels_61: 8072389455415914877
+      Numbers_levels_62: -4566350343655830156
+      Numbers_levels_63: 3357757913167094679
+      Numbers_levels_64: 4564942236826506079
+      Numbers_levels_65: 1378922479310401962
+      Numbers_levels_66: 1535749522670991906
+      Numbers_levels_67: 8564389095830248322
+      Numbers_levels_68: -7527216734835344104
+      Numbers_levels_69: -5654303736346833683
+      Numbers_levels_7: 957680434176509472
+      Numbers_levels_70: -6394514833671746954
+      Numbers_levels_71: 5361964890536997070
+      Numbers_levels_72: 6862925841983655292
+      Numbers_levels_73: 2054190954631841419
+      Numbers_levels_74: 2239846735478668685
+      Numbers_levels_75: -6672142716158943436
+      Numbers_levels_76: -5342156801625289323
+      Numbers_levels_77: 7655953885616637371
+      Numbers_levels_78: 2969523274499055955
+      Numbers_levels_79: -2474233897127386159
+      Numbers_levels_8: -1473202169248713152
+      Numbers_levels_80: 2947121289195814797
+      Numbers_levels_81: -4788519664476721312
+      Numbers_levels_82: -5645268377744677943
+      Numbers_levels_83: -1724134289310027956
+      Numbers_levels_84: 5204020618131706870
+      Numbers_levels_85: 8960594240399098690
+      Numbers_levels_86: 2295387793709942391
+      Numbers_levels_87: 7642085069803617978
+      Numbers_levels_88: -4282569202604283056
+      Numbers_levels_89: 9098440782557908673
+      Numbers_levels_9: -3536004899710399219
+      Numbers_levels_90: 6644368598175332422
+      Numbers_levels_91: 2954469478144087694
+      Numbers_levels_92: -8599676662644578102
+      Numbers_levels_93: -6490050181730247775
+      Numbers_levels_94: -4412185859724980225
+      Numbers_levels_95: 7911436345849990817
+      Numbers_levels_96: 4369637673257609296
+      Numbers_levels_97: -5893510788112901743
+      Numbers_levels_98: 3191681583792055347
+      Numbers_levels_99: -1732425666949047769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

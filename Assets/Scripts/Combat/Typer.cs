@@ -12,9 +12,47 @@ public class Typer : MonoBehaviour
     private string currentWord = string.Empty;
     private int correctIndex = 0;
 
+    // Mobile
+    private TouchScreenKeyboard keyboard;
+
     private void Start()
     {
         SetCurrentWord();
+    }
+
+    private void Update()
+    {
+#if UNITY_STANDALONE || UNITY_EDITOR
+        CheckHardwareInput();
+#elif UNITY_ANDROID || UNITY_IOS
+        CheckTouchInput();
+#endif
+    }
+
+    public void SetKeyboard(TouchScreenKeyboard newKeyboard)
+    {
+        keyboard = newKeyboard;
+    }
+
+    private void CheckHardwareInput()
+    {
+        if (Input.anyKeyDown)
+        {
+            string keysPressed = Input.inputString;
+            if (keysPressed.Length == 1)
+                EnterLetter(keysPressed);
+        }
+    }
+
+    private void CheckTouchInput()
+    {
+        if (keyboard != null && keyboard.active && !string.IsNullOrEmpty(keyboard.text))
+        {
+            string newText = keyboard.text;
+            string lastChar = newText.Substring(newText.Length - 1);
+            EnterLetter(lastChar);
+            keyboard.text = "";
+        }
     }
 
     private void SetCurrentWord()
@@ -33,22 +71,7 @@ public class Typer : MonoBehaviour
         wordOutput.text = typedPart + remainingWord;
     }
 
-    private void Update()
-    {
-        CheckInput();
-    }
 
-    private void CheckInput()
-    {
-        if (Input.anyKeyDown)
-        {
-            string keysPressed = Input.inputString;
-            if (keysPressed.Length == 1)
-            {
-                EnterLetter(keysPressed);
-            }
-        }
-    }
     private void EnterLetter(string typedLetter)
     {
         if (IsCorrectLetter(typedLetter))
