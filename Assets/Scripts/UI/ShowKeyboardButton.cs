@@ -1,7 +1,6 @@
 using TMPro;
 using UnityEngine;
 
-
 public class SimpleMobileTyper : MonoBehaviour
 {
     [Header("UI")]
@@ -78,6 +77,12 @@ public class SimpleMobileTyper : MonoBehaviour
         }
 
         UpdateTextDisplay();
+
+        // Check if word is complete
+        if (typedText.Length == targetWord.Length)
+        {
+            DeactivateKeyboard();  // Deactivate the keyboard when word is complete
+        }
     }
 
     private void UpdateTextDisplay()
@@ -102,5 +107,16 @@ public class SimpleMobileTyper : MonoBehaviour
     {
         typedText = "";
         UpdateTextDisplay();
+    }
+
+    // --- KEYBOARD DEACTIVATION ---
+    private void DeactivateKeyboard()
+    {
+#if UNITY_ANDROID || UNITY_IOS
+        if (keyboard != null)
+        {
+            keyboard.active = false; // Deactivate the keyboard
+        }
+#endif
     }
 }

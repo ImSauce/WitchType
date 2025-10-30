@@ -1,4 +1,3 @@
-
 using UnityEngine;
 using TMPro;
 
@@ -68,9 +67,8 @@ public class Typer : MonoBehaviour
         string typedPart = $"<color=green>{currentWord.Substring(0, correctIndex)}</color>";
         string remainingPart = currentWord.Substring(correctIndex);
 
-        wordOutput.text = typedPart + remainingWord;
+        wordOutput.text = typedPart + remainingPart;
     }
-
 
     private void EnterLetter(string typedLetter)
     {
@@ -82,6 +80,7 @@ public class Typer : MonoBehaviour
             {
                 correctIndex = 0;
                 SetCurrentWord();
+                DeactivateKeyboard();  // Deactivate the keyboard when word is complete
             }
             else
             {
@@ -114,12 +113,21 @@ public class Typer : MonoBehaviour
         {
             OnWordComplete.Invoke();
         }
-       return complete;
+        return complete;
+    }
+
+    private void DeactivateKeyboard()
+    {
+#if UNITY_ANDROID || UNITY_IOS
+        if (keyboard != null)
+        {
+            keyboard.active = false; // Deactivate the keyboard
+        }
+#endif
     }
 
     public void ResetWord()
     {
         SetCurrentWord();
     }
-
 }
