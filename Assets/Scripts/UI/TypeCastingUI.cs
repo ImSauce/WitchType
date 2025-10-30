@@ -30,8 +30,9 @@ public class TypeCastingUI : MonoBehaviour
     public AudioClip manawarningsound;
     private AudioManager audioManager;
     
-   // Mobile
-   private TouchScreenKeyboard keyboard;
+    // Mobile
+    private TouchScreenKeyboard keyboard;
+   
 
     private void Start()
     {
@@ -39,9 +40,11 @@ public class TypeCastingUI : MonoBehaviour
         pausemenu = FindFirstObjectByType<PauseMenu>();
         spellBookUI = FindFirstObjectByType<SpellBookUI>();
         typer.OnWordComplete += HandleWordComplete;
+
     }
     void Update()
     {
+
 #if UNITY_STANDALONE || UNITY_EDITOR
         if (TypeCastingMode && !TypeCastField.isFocused) return;
         if (Input.GetKeyDown(KeyCode.Return) && SpellManager.Instance.selectedSpells != null)
@@ -57,6 +60,7 @@ public class TypeCastingUI : MonoBehaviour
         }
 #endif
     }
+
 
     public void ActivateTypeCasting()
     {
@@ -148,10 +152,12 @@ public class TypeCastingUI : MonoBehaviour
 
     private IEnumerator FocusInputField()
     {
-        yield return new WaitForEndOfFrame();
+        yield return new WaitForSeconds(0.1f);
         TypeCastField.Select();
         TypeCastField.ActivateInputField();
-        TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default);
+        keyboard = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default);
+        typer.SetKeyboard(keyboard);
+
     }
 
     public void OpenTypeCastBtn()
@@ -159,28 +165,10 @@ public class TypeCastingUI : MonoBehaviour
         if (SpellManager.Instance != null)
         {
             ActivateTypeCasting();
-            Debug.Log("📱 Opening keyboard...");
             keyboard = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.Default);
-            if (keyboard == null)
-                Debug.LogWarning("❌ Keyboard not created!");
-            else
-                Debug.Log("✅ Keyboard opened successfully!");
-
             typer.SetKeyboard(keyboard);
         }
     }
 
-
-    public void CloseTypeCastBtn()
-    {
-        if (keyboard != null)
-        {
-            keyboard.text = "";
-            keyboard.active = false;
-            keyboard = null;
-        }
-        DeactivateTypeCasting();
-
-    }
 }
 
