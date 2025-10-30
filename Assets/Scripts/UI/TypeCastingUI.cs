@@ -170,5 +170,16 @@ public class TypeCastingUI : MonoBehaviour
         }
     }
 
+    public void CloseTypeCastBtn()
+    {
+        if (keyboard != null)
+        {
+            keyboard.text = "";
+            keyboard.active = false;
+            keyboard = null;
+        }
+        DeactivateTypeCasting();
+
+    }
 }
 
