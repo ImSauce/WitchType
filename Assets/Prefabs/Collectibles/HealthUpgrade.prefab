@@ -328,7 +328,7 @@ MonoBehaviour:
   healthIncrease: 20
   destroyDelay: 2
   _healthPanel: {fileID: 2856663829220892982}
-  _panelDuration: 0.5
+  _panelDuration: 0.45
   healEffectPrefab: {fileID: 1466149733471688553}
   visualChild: {fileID: 3330272953721791054}
   lightChild: {fileID: 7414568928030813695}

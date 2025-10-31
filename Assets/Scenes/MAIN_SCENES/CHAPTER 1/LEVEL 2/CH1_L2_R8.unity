@@ -354502,7 +354502,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 5, z: 0}
@@ -354548,7 +354548,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10.000001
+      m_AnimationSpeed: 10
       m_AnimationTimeOffset: 0
       m_Flags: 0
   - first: {x: 10, y: 6, z: 0}
@@ -354617,7 +354617,7 @@ Tilemap:
       - {fileID: 1819625980, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 1870291729, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
       - {fileID: 876638708, guid: a1b64e3c35b41f740a1a59f34fb35c68, type: 3}
-      m_AnimationSpeed: 10
+      m_AnimationSpeed: 10.000001
       m_AnimationTimeOffset: 0
       m_Flags: 0
   m_TileAssetArray:
@@ -360501,7 +360501,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneTransitionTutorial1
   sceneAsset: {fileID: 102900000, guid: ca785f911890ab44b9cdeead16ecda14, type: 3}
-  newPlayerPosition: {x: -3.9, y: -1.8}
+  newPlayerPosition: {x: -3.9, y: -1.18}
   delayBeforeLoad: 1
   transitionImage: {fileID: 516381218}
   sfx: door_sfx
