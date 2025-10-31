@@ -7,8 +7,10 @@ public class LocationHistoryTracker : MonoBehaviour
 
     public void RecordLocation(LocationSO locationSO)
     {
-        locationsVisited.Add(locationSO);
-        Debug.Log("Just Visted " + locationSO.displayName);
+        if (locationsVisited.Add(locationSO))
+        {
+            Debug.Log("Just Visted " + locationSO.displayName);
+        }
     }
 
     public bool HasVisited(LocationSO locationSO)

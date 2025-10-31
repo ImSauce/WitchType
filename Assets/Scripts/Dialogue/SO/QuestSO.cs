@@ -6,14 +6,13 @@ public class QuestSO : ScriptableObject
 {
     public string questName;
     [TextArea] public string questDescription;
-    public int questLevel;
 
-    public List<QuestObjective> objective;
+    public List<QuestObjective> objectives;
 
 
 }
 
-[System.Serializable]
+[System.Serializable] 
 public class QuestObjective
 {
     public string description;

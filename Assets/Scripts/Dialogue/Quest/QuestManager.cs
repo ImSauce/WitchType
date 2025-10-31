@@ -30,7 +30,7 @@ public class QuestManager : MonoBehaviour
     }
     public string GetProgressText(QuestSO questSO,QuestObjective objective)
     {
-        int currentAmount = 0;
+        int currentAmount = GetCurrentAmount(questSO, objective);
         
         if(currentAmount >= objective.requiredAmount)
         {

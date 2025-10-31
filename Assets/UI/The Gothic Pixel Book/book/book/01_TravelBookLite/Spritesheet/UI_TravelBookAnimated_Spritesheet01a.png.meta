@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 2268e5971fd305e4eb2418c9a8bd45c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 208730938294982951
+    second: UI_TravelBookAnimated_Spritesheet01a_0
+  - first:
+      213: 129138026266112221
+    second: UI_TravelBookAnimated_Spritesheet01a_1
+  - first:
+      213: -8864412375808752747
+    second: UI_TravelBookAnimated_Spritesheet01a_2
+  - first:
+      213: -2168247122937817622
+    second: UI_TravelBookAnimated_Spritesheet01a_3
+  - first:
+      213: 3125489410118447412
+    second: UI_TravelBookAnimated_Spritesheet01a_4
+  - first:
+      213: -5638005230345713406
+    second: UI_TravelBookAnimated_Spritesheet01a_5
+  - first:
+      213: -2625001906399060160
+    second: UI_TravelBookAnimated_Spritesheet01a_6
+  - first:
+      213: 8794668859426119470
+    second: UI_TravelBookAnimated_Spritesheet01a_7
+  - first:
+      213: -5487400114799064388
+    second: UI_TravelBookAnimated_Spritesheet01a_8
+  - first:
+      213: 2527887251454675029
+    second: UI_TravelBookAnimated_Spritesheet01a_9
+  - first:
+      213: -3028045292254644823
+    second: UI_TravelBookAnimated_Spritesheet01a_10
+  - first:
+      213: -8328417664557447491
+    second: UI_TravelBookAnimated_Spritesheet01a_11
+  - first:
+      213: -186972736983192483
+    second: UI_TravelBookAnimated_Spritesheet01a_12
+  - first:
+      213: -295994529146506556
+    second: UI_TravelBookAnimated_Spritesheet01a_13
+  - first:
+      213: 8390281032662240059
+    second: UI_TravelBookAnimated_Spritesheet01a_14
+  - first:
+      213: -2598624649200898403
+    second: UI_TravelBookAnimated_Spritesheet01a_15
+  - first:
+      213: -6053055549753297173
+    second: UI_TravelBookAnimated_Spritesheet01a_16
+  - first:
+      213: 299190094551115909
+    second: UI_TravelBookAnimated_Spritesheet01a_17
+  - first:
+      213: -6813934590539582466
+    second: UI_TravelBookAnimated_Spritesheet01a_18
+  - first:
+      213: 9206187469242781688
+    second: UI_TravelBookAnimated_Spritesheet01a_19
+  - first:
+      213: -8122332964721695315
+    second: UI_TravelBookAnimated_Spritesheet01a_20
+  - first:
+      213: -2315003290463569
+    second: UI_TravelBookAnimated_Spritesheet01a_21
+  - first:
+      213: -6070379889910572155
+    second: UI_TravelBookAnimated_Spritesheet01a_22
+  - first:
+      213: -191329219309325528
+    second: UI_TravelBookAnimated_Spritesheet01a_23
+  - first:
+      213: 1432448844240837824
+    second: UI_TravelBookAnimated_Spritesheet01a_24
+  - first:
+      213: 8589858845790655821
+    second: UI_TravelBookAnimated_Spritesheet01a_25
+  - first:
+      213: 4792598700876579750
+    second: UI_TravelBookAnimated_Spritesheet01a_26
+  - first:
+      213: -6566791266607988772
+    second: UI_TravelBookAnimated_Spritesheet01a_27
+  - first:
+      213: -5547153412559500392
+    second: UI_TravelBookAnimated_Spritesheet01a_28
+  - first:
+      213: -4796197889807438893
+    second: UI_TravelBookAnimated_Spritesheet01a_29
+  - first:
+      213: -3661524351997579483
+    second: UI_TravelBookAnimated_Spritesheet01a_30
+  - first:
+      213: -1100883143057544556
+    second: UI_TravelBookAnimated_Spritesheet01a_31
+  - first:
+      213: -7613101018148707629
+    second: UI_TravelBookAnimated_Spritesheet01a_32
+  - first:
+      213: -8096292354690393964
+    second: UI_TravelBookAnimated_Spritesheet01a_33
+  - first:
+      213: 8966970836959703233
+    second: UI_TravelBookAnimated_Spritesheet01a_34
+  - first:
+      213: -8500076185805330056
+    second: UI_TravelBookAnimated_Spritesheet01a_35
+  - first:
+      213: -6865296604618211095
+    second: UI_TravelBookAnimated_Spritesheet01a_36
+  - first:
+      213: 3321189269986582417
+    second: UI_TravelBookAnimated_Spritesheet01a_37
+  - first:
+      213: -2331634190128268473
+    second: UI_TravelBookAnimated_Spritesheet01a_38
+  - first:
+      213: -8843218348429937884
+    second: UI_TravelBookAnimated_Spritesheet01a_39
+  - first:
+      213: 3553569653866540870
+    second: UI_TravelBookAnimated_Spritesheet01a_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729d4b6beaf85e200800000000000000
+      internalID: 208730938294982951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03696c95acac100800000000000000
+      internalID: 129138026266112221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593c75de8e74bf480800000000000000
+      internalID: -8864412375808752747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae55704cab6d8e1e0800000000000000
+      internalID: -2168247122937817622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431fa571f08ff5b20800000000000000
+      internalID: 3125489410118447412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 374
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209037b4d18c1c1b0800000000000000
+      internalID: -5638005230345713406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5c5a8cae129bd0800000000000000
+      internalID: -2625001906399060160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f98434bb0fc0a70800000000000000
+      internalID: 8794668859426119470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbac6f84ba6d8d3b0800000000000000
+      internalID: -5487400114799064388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 352
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558c137df0cd41320800000000000000
+      internalID: 2527887251454675029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a53e5799d83af5d0800000000000000
+      internalID: -3028045292254644823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db607fa82448b6c80800000000000000
+      internalID: -8328417664557447491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c2f6d494db76df0800000000000000
+      internalID: -186972736983192483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 354
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c273c24b8a64ebf0800000000000000
+      internalID: -295994529146506556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bc7854524407470800000000000000
+      internalID: 8390281032662240059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e6ecf46a4dfebd0800000000000000
+      internalID: -2598624649200898403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be67f374c0a3ffba0800000000000000
+      internalID: -6053055549753297173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588e80a4ecfe62400800000000000000
+      internalID: 299190094551115909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33428779a0071a0800000000000000
+      internalID: -6813934590539582466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4edf0ab2f2cf70800000000000000
+      internalID: 9206187469242781688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5615ad33da74f80800000000000000
+      internalID: -8122332964721695315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 296
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2d73b4486c7fff0800000000000000
+      internalID: -2315003290463569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 296
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b943207ada1cba0800000000000000
+      internalID: -6070379889910572155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 296
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8233ae7b613485df0800000000000000
+      internalID: -191329219309325528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 296
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd4e762a411e310800000000000000
+      internalID: 1432448844240837824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 264
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d455916fb1f453770800000000000000
+      internalID: 8589858845790655821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a34fbc402bb28240800000000000000
+      internalID: 4792598700876579750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 264
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf71b7a2221ed4a0800000000000000
+      internalID: -6566791266607988772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 264
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b8bc18c5d8403b0800000000000000
+      internalID: -5547153412559500392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbac893e6b707db0800000000000000
+      internalID: -4796197889807438893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fedbe5007af2dc0800000000000000
+      internalID: -3661524351997579483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 231
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ae6d63d90e8b0f0800000000000000
+      internalID: -1100883143057544556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 231
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e41eb5f4d85690800000000000000
+      internalID: -7613101018148707629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d7f8dff034af80800000000000000
+      internalID: -8096292354690393964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c035489774117c70800000000000000
+      internalID: 8966970836959703233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879e05d8eb9a90a80800000000000000
+      internalID: -8500076185805330056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 103
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0490cac1199b0a0800000000000000
+      internalID: -6865296604618211095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f936d6b0c371e20800000000000000
+      internalID: 3321189269986582417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 10
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bbf3fbe0f54afd0800000000000000
+      internalID: -2331634190128268473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 10
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423fd96f3c3964580800000000000000
+      internalID: -8843218348429937884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TravelBookAnimated_Spritesheet01a_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa257c5c0d05130800000000000000
+      internalID: 3553569653866540870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_TravelBookAnimated_Spritesheet01a_0: 208730938294982951
+      UI_TravelBookAnimated_Spritesheet01a_1: 129138026266112221
+      UI_TravelBookAnimated_Spritesheet01a_10: -3028045292254644823
+      UI_TravelBookAnimated_Spritesheet01a_11: -8328417664557447491
+      UI_TravelBookAnimated_Spritesheet01a_12: -186972736983192483
+      UI_TravelBookAnimated_Spritesheet01a_13: -295994529146506556
+      UI_TravelBookAnimated_Spritesheet01a_14: 8390281032662240059
+      UI_TravelBookAnimated_Spritesheet01a_15: -2598624649200898403
+      UI_TravelBookAnimated_Spritesheet01a_16: -6053055549753297173
+      UI_TravelBookAnimated_Spritesheet01a_17: 299190094551115909
+      UI_TravelBookAnimated_Spritesheet01a_18: -6813934590539582466
+      UI_TravelBookAnimated_Spritesheet01a_19: 9206187469242781688
+      UI_TravelBookAnimated_Spritesheet01a_2: -8864412375808752747
+      UI_TravelBookAnimated_Spritesheet01a_20: -8122332964721695315
+      UI_TravelBookAnimated_Spritesheet01a_21: -2315003290463569
+      UI_TravelBookAnimated_Spritesheet01a_22: -6070379889910572155
+      UI_TravelBookAnimated_Spritesheet01a_23: -191329219309325528
+      UI_TravelBookAnimated_Spritesheet01a_24: 1432448844240837824
+      UI_TravelBookAnimated_Spritesheet01a_25: 8589858845790655821
+      UI_TravelBookAnimated_Spritesheet01a_26: 4792598700876579750
+      UI_TravelBookAnimated_Spritesheet01a_27: -6566791266607988772
+      UI_TravelBookAnimated_Spritesheet01a_28: -5547153412559500392
+      UI_TravelBookAnimated_Spritesheet01a_29: -4796197889807438893
+      UI_TravelBookAnimated_Spritesheet01a_3: -2168247122937817622
+      UI_TravelBookAnimated_Spritesheet01a_30: -3661524351997579483
+      UI_TravelBookAnimated_Spritesheet01a_31: -1100883143057544556
+      UI_TravelBookAnimated_Spritesheet01a_32: -7613101018148707629
+      UI_TravelBookAnimated_Spritesheet01a_33: -8096292354690393964
+      UI_TravelBookAnimated_Spritesheet01a_34: 8966970836959703233
+      UI_TravelBookAnimated_Spritesheet01a_35: -8500076185805330056
+      UI_TravelBookAnimated_Spritesheet01a_36: -6865296604618211095
+      UI_TravelBookAnimated_Spritesheet01a_37: 3321189269986582417
+      UI_TravelBookAnimated_Spritesheet01a_38: -2331634190128268473
+      UI_TravelBookAnimated_Spritesheet01a_39: -8843218348429937884
+      UI_TravelBookAnimated_Spritesheet01a_4: 3125489410118447412
+      UI_TravelBookAnimated_Spritesheet01a_40: 3553569653866540870
+      UI_TravelBookAnimated_Spritesheet01a_5: -5638005230345713406
+      UI_TravelBookAnimated_Spritesheet01a_6: -2625001906399060160
+      UI_TravelBookAnimated_Spritesheet01a_7: 8794668859426119470
+      UI_TravelBookAnimated_Spritesheet01a_8: -5487400114799064388
+      UI_TravelBookAnimated_Spritesheet01a_9: 2527887251454675029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

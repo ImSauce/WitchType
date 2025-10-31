@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
 
     [Header("Manual Timer Settings")]
     [Tooltip("Time (in seconds) before destroying Group A objects")]
-    public float groupADestroyDelay = 1f; // 👈 appears in Inspector
+    public float groupADestroyDelay = 1f; 
 
     private void Awake()
     {
@@ -90,7 +90,6 @@ public class GameManager : MonoBehaviour
         DestroyPersistentObjects(groupB);
     }
 
-    // 🔹 Destroy GameManager itself with delay
     public void DestroySelf(float delay = 1f)
     {
         StartCoroutine(DestroySelfWithDelay(delay));

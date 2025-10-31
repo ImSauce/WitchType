@@ -4,8 +4,6 @@ using TMPro;
 public class QuestLogSlot : MonoBehaviour
 {
     [SerializeField] private TMP_Text questNameText;
-    [SerializeField] private TMP_Text questLevelText;
-
     public QuestSO currentQuest;
     public QuestLogUI questLogUI;
 
@@ -21,8 +19,6 @@ public class QuestLogSlot : MonoBehaviour
         currentQuest = questSO;
 
         questNameText.text = questSO.questName;
-        questLevelText.text =  questSO.questLevel.ToString();
-
         gameObject.SetActive(true);
     }
 
