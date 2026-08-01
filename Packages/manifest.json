@@ -8,6 +8,8 @@
     "com.unity.2d.spriteshape": "12.0.1",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.2d.tilemap.extras": "5.0.1",
+    "com.unity.ai.assistant": "2.17.0-pre.1",
+    "com.unity.ai.inference": "2.6.1",
     "com.unity.cinemachine": "3.1.5",
     "com.unity.collab-proxy": "2.9.3",
     "com.unity.ide.rider": "3.0.38",

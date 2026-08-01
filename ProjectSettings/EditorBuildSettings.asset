@@ -35,10 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 2/CH1_L2_R5.unity
     guid: 1ae998b8dbd0463408dc7655edb61f61
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 2/CH1_L2_R6.unity
     guid: 685d811b696323b47981d136e8897e01
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 2/CH1_L2_R7.unity
     guid: ab12c3371b9161443840607f1988c87d
   - enabled: 1
@@ -147,5 +147,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MAIN_SCENES/CHAPTER 1/LEVEL 4/CH1_L4_R5.unity
     guid: 4b619353490d8d540913f2691394d2e6
   m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
